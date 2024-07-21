@@ -1,0 +1,396 @@
+list_title,sort_option,imdb_id,tmdb_id,movie_title,release_date,category,listOrder
+Academy Award for Best Picture,Release Date (Descending),tt15398776,872585,Oppenheimer,2023-07-19,Academy Awards,97
+Academy Award for Best Picture,Release Date (Descending),tt6710474,545611,Everything Everywhere All at Once,2022-03-24,Academy Awards,96
+Academy Award for Best Picture,Release Date (Descending),tt10366460,776503,CODA,2021-08-13,Academy Awards,95
+Academy Award for Best Picture,Release Date (Descending),tt9770150,581734,Nomadland,2021-01-29,Academy Awards,94
+Academy Award for Best Picture,Release Date (Descending),tt6751668,496243,Parasite,2019-05-30,Academy Awards,93
+Academy Award for Best Picture,Release Date (Descending),tt6966692,490132,Green Book,2018-11-16,Academy Awards,92
+Academy Award for Best Picture,Release Date (Descending),tt5580390,399055,The Shape of Water,2017-12-01,Academy Awards,91
+Academy Award for Best Picture,Release Date (Descending),tt4975722,376867,Moonlight,2016-10-21,Academy Awards,90
+Academy Award for Best Picture,Release Date (Descending),tt1895587,314365,Spotlight,2015-11-06,Academy Awards,89
+Academy Award for Best Picture,Release Date (Descending),tt2562232,194662,Birdman or (The Unexpected Virtue of Ignorance),2014-10-17,Academy Awards,88
+Academy Award for Best Picture,Release Date (Descending),tt2024544,76203,12 Years a Slave,2013-10-18,Academy Awards,87
+Academy Award for Best Picture,Release Date (Descending),tt1024648,68734,Argo,2012-10-11,Academy Awards,86
+Academy Award for Best Picture,Release Date (Descending),tt1655442,74643,The Artist,2011-10-12,Academy Awards,85
+Academy Award for Best Picture,Release Date (Descending),tt1504320,45269,The King's Speech,2010-11-26,Academy Awards,84
+Academy Award for Best Picture,Release Date (Descending),tt0887912,12162,The Hurt Locker,2008-10-10,Academy Awards,83
+Academy Award for Best Picture,Release Date (Descending),tt1010048,12405,Slumdog Millionaire,2008-11-12,Academy Awards,82
+Academy Award for Best Picture,Release Date (Descending),tt0477348,6977,No Country for Old Men,2007-06-13,Academy Awards,81
+Academy Award for Best Picture,Release Date (Descending),tt0407887,1422,The Departed,2006-10-04,Academy Awards,80
+Academy Award for Best Picture,Release Date (Descending),tt0375679,1640,Crash,2005-05-06,Academy Awards,79
+Academy Award for Best Picture,Release Date (Descending),tt0405159,70,Million Dollar Baby,2004-12-15,Academy Awards,78
+Academy Award for Best Picture,Release Date (Descending),tt0167260,122,The Lord of the Rings: The Return of the King,2003-12-01,Academy Awards,77
+Academy Award for Best Picture,Release Date (Descending),tt0299658,1574,Chicago,2002-12-10,Academy Awards,76
+Academy Award for Best Picture,Release Date (Descending),tt0268978,453,A Beautiful Mind,2001-12-14,Academy Awards,75
+Academy Award for Best Picture,Release Date (Descending),tt0172495,98,Gladiator,2000-05-04,Academy Awards,74
+Academy Award for Best Picture,Release Date (Descending),tt0169547,14,American Beauty,1999-09-15,Academy Awards,73
+Academy Award for Best Picture,Release Date (Descending),tt0138097,1934,Shakespeare in Love,1998-12-11,Academy Awards,72
+Academy Award for Best Picture,Release Date (Descending),tt0120338,597,Titanic,1997-11-18,Academy Awards,71
+Academy Award for Best Picture,Release Date (Descending),tt0116209,409,The English Patient,1996-11-14,Academy Awards,70
+Academy Award for Best Picture,Release Date (Descending),tt0112573,197,Braveheart,1995-05-24,Academy Awards,69
+Academy Award for Best Picture,Release Date (Descending),tt0109830,13,Forrest Gump,1994-06-23,Academy Awards,68
+Academy Award for Best Picture,Release Date (Descending),tt0108052,424,Schindler's List,1993-12-15,Academy Awards,67
+Academy Award for Best Picture,Release Date (Descending),tt0105695,33,Unforgiven,1992-08-07,Academy Awards,66
+Academy Award for Best Picture,Release Date (Descending),tt0102926,274,The Silence of the Lambs,1991-02-14,Academy Awards,65
+Academy Award for Best Picture,Release Date (Descending),tt0099348,581,Dances with Wolves,1990-03-30,Academy Awards,64
+Academy Award for Best Picture,Release Date (Descending),tt0097239,403,Driving Miss Daisy,1989-12-13,Academy Awards,63
+Academy Award for Best Picture,Release Date (Descending),tt0095953,380,Rain Man,1988-12-12,Academy Awards,62
+Academy Award for Best Picture,Release Date (Descending),tt0093389,746,The Last Emperor,1987-10-04,Academy Awards,61
+Academy Award for Best Picture,Release Date (Descending),tt0091763,792,Platoon,1986-12-19,Academy Awards,60
+Academy Award for Best Picture,Release Date (Descending),tt0089755,606,Out of Africa,1985-12-20,Academy Awards,59
+Academy Award for Best Picture,Release Date (Descending),tt0086879,279,Amadeus,1984-09-19,Academy Awards,58
+Academy Award for Best Picture,Release Date (Descending),tt0086425,11050,Terms of Endearment,1983-11-20,Academy Awards,57
+Academy Award for Best Picture,Release Date (Descending),tt0083987,783,Gandhi,1982-12-01,Academy Awards,56
+Academy Award for Best Picture,Release Date (Descending),tt0082158,9443,Chariots of Fire,1981-05-15,Academy Awards,55
+Academy Award for Best Picture,Release Date (Descending),tt0081283,16619,Ordinary People,1980-09-19,Academy Awards,54
+Academy Award for Best Picture,Release Date (Descending),tt0079417,12102,Kramer vs. Kramer,1979-12-07,Academy Awards,53
+Academy Award for Best Picture,Release Date (Descending),tt0077416,11778,The Deer Hunter,1978-12-08,Academy Awards,52
+Academy Award for Best Picture,Release Date (Descending),tt0075686,703,Annie Hall,1977-04-19,Academy Awards,51
+Academy Award for Best Picture,Release Date (Descending),tt0075148,1366,Rocky,1976-11-20,Academy Awards,50
+Academy Award for Best Picture,Release Date (Descending),tt0073486,510,One Flew Over the Cuckoo's Nest,1975-11-19,Academy Awards,49
+Academy Award for Best Picture,Release Date (Descending),tt0071562,240,The Godfather Part II,1974-12-20,Academy Awards,48
+Academy Award for Best Picture,Release Date (Descending),tt0070735,9277,The Sting,1973-12-25,Academy Awards,47
+Academy Award for Best Picture,Release Date (Descending),tt0068646,238,The Godfather,1972-03-14,Academy Awards,46
+Academy Award for Best Picture,Release Date (Descending),tt0067116,1051,The French Connection,1971-10-09,Academy Awards,45
+Academy Award for Best Picture,Release Date (Descending),tt0066206,11202,Patton,1970-01-25,Academy Awards,44
+Academy Award for Best Picture,Release Date (Descending),tt0064665,3116,Midnight Cowboy,1969-05-25,Academy Awards,43
+Academy Award for Best Picture,Release Date (Descending),tt0063385,17917,Oliver!,1968-09-26,Academy Awards,42
+Academy Award for Best Picture,Release Date (Descending),tt0061811,10633,In the Heat of the Night,1967-08-02,Academy Awards,41
+Academy Award for Best Picture,Release Date (Descending),tt0060665,874,A Man for All Seasons,1966-12-13,Academy Awards,40
+Academy Award for Best Picture,Release Date (Descending),tt0059742,15121,The Sound of Music,1965-03-29,Academy Awards,39
+Academy Award for Best Picture,Release Date (Descending),tt0058385,11113,My Fair Lady,1964-10-21,Academy Awards,38
+Academy Award for Best Picture,Release Date (Descending),tt0057590,5769,Tom Jones,1963-08-24,Academy Awards,37
+Academy Award for Best Picture,Release Date (Descending),tt0056172,947,Lawrence of Arabia,1962-12-11,Academy Awards,36
+Academy Award for Best Picture,Release Date (Descending),tt0055614,1725,West Side Story,1961-12-13,Academy Awards,35
+Academy Award for Best Picture,Release Date (Descending),tt0053604,284,The Apartment,1960-06-21,Academy Awards,34
+Academy Award for Best Picture,Release Date (Descending),tt0052618,665,Ben-Hur,1959-11-18,Academy Awards,33
+Academy Award for Best Picture,Release Date (Descending),tt0051658,17281,Gigi,1958-05-15,Academy Awards,32
+Academy Award for Best Picture,Release Date (Descending),tt0050212,826,The Bridge on the River Kwai,1957-10-11,Academy Awards,31
+Academy Award for Best Picture,Release Date (Descending),tt0048960,2897,Around the World in Eighty Days,1956-10-17,Academy Awards,30
+Academy Award for Best Picture,Release Date (Descending),tt0048356,15919,Marty,1955-04-11,Academy Awards,29
+Academy Award for Best Picture,Release Date (Descending),tt0047296,654,On the Waterfront,1954-06-22,Academy Awards,28
+Academy Award for Best Picture,Release Date (Descending),tt0045793,11426,From Here to Eternity,1953-08-28,Academy Awards,27
+Academy Award for Best Picture,Release Date (Descending),tt0044672,27191,The Greatest Show on Earth,1952-02-16,Academy Awards,26
+Academy Award for Best Picture,Release Date (Descending),tt0043278,2769,An American in Paris,1951-09-26,Academy Awards,25
+Academy Award for Best Picture,Release Date (Descending),tt0042192,705,All About Eve,1950-11-09,Academy Awards,24
+Academy Award for Best Picture,Release Date (Descending),tt0041113,25430,All the King's Men,1949-11-16,Academy Awards,23
+Academy Award for Best Picture,Release Date (Descending),tt0040416,23383,Hamlet,1948-12-10,Academy Awards,22
+Academy Award for Best Picture,Release Date (Descending),tt0039416,33667,Gentleman's Agreement,1947-11-11,Academy Awards,21
+Academy Award for Best Picture,Release Date (Descending),tt0036868,887,The Best Years of Our Lives,1946-12-25,Academy Awards,20
+Academy Award for Best Picture,Release Date (Descending),tt0037884,28580,The Lost Weekend,1945-11-29,Academy Awards,19
+Academy Award for Best Picture,Release Date (Descending),tt0036872,17661,Going My Way,1944-05-15,Academy Awards,18
+Academy Award for Best Picture,Release Date (Descending),tt0034583,289,Casablanca,1943-01-15,Academy Awards,17
+Academy Award for Best Picture,Release Date (Descending),tt0035093,27367,Mrs. Miniver,1942-07-03,Academy Awards,16
+Academy Award for Best Picture,Release Date (Descending),tt0033729,43266,How Green Was My Valley,1941-10-28,Academy Awards,15
+Academy Award for Best Picture,Release Date (Descending),tt0032976,223,Rebecca,1940-03-23,Academy Awards,14
+Academy Award for Best Picture,Release Date (Descending),tt0031381,770,Gone with the Wind,1939-12-15,Academy Awards,13
+Academy Award for Best Picture,Release Date (Descending),tt0030993,34106,You Can't Take It with You,1938-09-01,Academy Awards,12
+Academy Award for Best Picture,Release Date (Descending),tt0029146,43278,The Life of Emile Zola,1937-09-09,Academy Awards,11
+Academy Award for Best Picture,Release Date (Descending),tt0027698,43277,The Great Ziegfeld,1936-04-08,Academy Awards,10
+Academy Award for Best Picture,Release Date (Descending),tt0026752,12311,Mutiny on the Bounty,1935-11-22,Academy Awards,9
+Academy Award for Best Picture,Release Date (Descending),tt0025316,3078,It Happened One Night,1934-02-22,Academy Awards,8
+Academy Award for Best Picture,Release Date (Descending),tt0023876,56164,Cavalcade,1933-02-08,Academy Awards,7
+Academy Award for Best Picture,Release Date (Descending),tt0022958,33680,Grand Hotel,1932-05-25,Academy Awards,6
+Academy Award for Best Picture,Release Date (Descending),tt0021746,42861,Cimarron,1931-01-26,Academy Awards,5
+Academy Award for Best Picture,Release Date (Descending),tt0020629,143,All Quiet on the Western Front,1930-04-29,Academy Awards,4
+Academy Award for Best Picture,Release Date (Descending),tt0019729,65203,The Broadway Melody,1929-02-08,Academy Awards,3
+Academy Award for Best Picture,Release Date (Descending),tt0018578,28966,Wings,1927-08-12,Academy Awards,2
+Academy Award for Best Picture,Release Date (Descending),tt0018455,631,Sunrise: A Song of Two Humans,1927-11-04,Academy Awards,1
+Academy Award for Best Cinematography,Release Date (Descending),tt15398776,872585,Oppenheimer,2023-07-19,Academy Awards,123
+Academy Award for Best Cinematography,Release Date (Descending),tt1016150,49046,All Quiet on the Western Front,2022-10-07,Academy Awards,122
+Academy Award for Best Cinematography,Release Date (Descending),tt1160419,438631,Dune,2021-09-15,Academy Awards,121
+Academy Award for Best Cinematography,Release Date (Descending),tt10618286,614560,Mank,2020-11-13,Academy Awards,120
+Academy Award for Best Cinematography,Release Date (Descending),tt8579674,530915,1917,2019-12-25,Academy Awards,119
+Academy Award for Best Cinematography,Release Date (Descending),tt6155172,426426,Roma,2018-11-21,Academy Awards,118
+Academy Award for Best Cinematography,Release Date (Descending),tt1856101,335984,Blade Runner 2049,2017-10-04,Academy Awards,117
+Academy Award for Best Cinematography,Release Date (Descending),tt3783958,313369,La La Land,2016-11-29,Academy Awards,116
+Academy Award for Best Cinematography,Release Date (Descending),tt1663202,281957,The Revenant,2015-12-25,Academy Awards,115
+Academy Award for Best Cinematography,Release Date (Descending),tt2562232,194662,Birdman or (The Unexpected Virtue of Ignorance),2014-10-17,Academy Awards,114
+Academy Award for Best Cinematography,Release Date (Descending),tt1454468,49047,Gravity,2013-10-03,Academy Awards,113
+Academy Award for Best Cinematography,Release Date (Descending),tt0454876,87827,Life of Pi,2012-11-20,Academy Awards,112
+Academy Award for Best Cinematography,Release Date (Descending),tt0970179,44826,Hugo,2011-11-22,Academy Awards,111
+Academy Award for Best Cinematography,Release Date (Descending),tt1375666,27205,Inception,2010-07-15,Academy Awards,110
+Academy Award for Best Cinematography,Release Date (Descending),tt0499549,19995,Avatar,2009-12-15,Academy Awards,109
+Academy Award for Best Cinematography,Release Date (Descending),tt1010048,12405,Slumdog Millionaire,2008-11-12,Academy Awards,108
+Academy Award for Best Cinematography,Release Date (Descending),tt0469494,7345,There Will Be Blood,2007-12-26,Academy Awards,107
+Academy Award for Best Cinematography,Release Date (Descending),tt0457430,1417,Pan's Labyrinth,2006-10-10,Academy Awards,106
+Academy Award for Best Cinematography,Release Date (Descending),tt0397535,1904,Memoirs of a Geisha,2005-12-06,Academy Awards,105
+Academy Award for Best Cinematography,Release Date (Descending),tt0338751,2567,The Aviator,2004-12-17,Academy Awards,104
+Academy Award for Best Cinematography,Release Date (Descending),tt0311113,8619,Master and Commander: The Far Side of the World,2003-11-14,Academy Awards,103
+Academy Award for Best Cinematography,Release Date (Descending),tt0257044,4147,Road to Perdition,2002-07-12,Academy Awards,102
+Academy Award for Best Cinematography,Release Date (Descending),tt0120737,120,The Lord of the Rings: The Fellowship of the Ring,2001-12-18,Academy Awards,101
+Academy Award for Best Cinematography,Release Date (Descending),tt0190332,146,Crouching Tiger, Hidden Dragon,Academy Awards,100
+Academy Award for Best Cinematography,Release Date (Descending),tt0169547,14,American Beauty,1999-09-15,Academy Awards,99
+Academy Award for Best Cinematography,Release Date (Descending),tt0120815,857,Saving Private Ryan,1998-07-24,Academy Awards,98
+Academy Award for Best Cinematography,Release Date (Descending),tt0120338,597,Titanic,1997-11-18,Academy Awards,97
+Academy Award for Best Cinematography,Release Date (Descending),tt0116209,409,The English Patient,1996-11-14,Academy Awards,96
+Academy Award for Best Cinematography,Release Date (Descending),tt0112573,197,Braveheart,1995-05-24,Academy Awards,95
+Academy Award for Best Cinematography,Release Date (Descending),tt0110322,4476,Legends of the Fall,1994-12-23,Academy Awards,94
+Academy Award for Best Cinematography,Release Date (Descending),tt0108052,424,Schindler's List,1993-12-15,Academy Awards,93
+Academy Award for Best Cinematography,Release Date (Descending),tt0105265,293,A River Runs Through It,1992-10-09,Academy Awards,92
+Academy Award for Best Cinematography,Release Date (Descending),tt0102138,820,JFK,1991-12-20,Academy Awards,91
+Academy Award for Best Cinematography,Release Date (Descending),tt0099348,581,Dances with Wolves,1990-03-30,Academy Awards,90
+Academy Award for Best Cinematography,Release Date (Descending),tt0097441,9665,Glory,1989-12-15,Academy Awards,89
+Academy Award for Best Cinematography,Release Date (Descending),tt0095647,1632,Mississippi Burning,1988-12-08,Academy Awards,88
+Academy Award for Best Cinematography,Release Date (Descending),tt0093389,746,The Last Emperor,1987-10-04,Academy Awards,87
+Academy Award for Best Cinematography,Release Date (Descending),tt0091530,11416,The Mission,1986-09-24,Academy Awards,86
+Academy Award for Best Cinematography,Release Date (Descending),tt0089755,606,Out of Africa,1985-12-20,Academy Awards,85
+Academy Award for Best Cinematography,Release Date (Descending),tt0087553,625,The Killing Fields,1984-11-23,Academy Awards,84
+Academy Award for Best Cinematography,Release Date (Descending),tt0083922,5961,Fanny and Alexander,1982-12-17,Academy Awards,83
+Academy Award for Best Cinematography,Release Date (Descending),tt0083987,783,Gandhi,1982-12-01,Academy Awards,82
+Academy Award for Best Cinematography,Release Date (Descending),tt0082979,18254,Reds,1981-12-25,Academy Awards,81
+Academy Award for Best Cinematography,Release Date (Descending),tt0080009,11121,Tess,1979-10-06,Academy Awards,80
+Academy Award for Best Cinematography,Release Date (Descending),tt0078788,28,Apocalypse Now,1979-08-15,Academy Awards,79
+Academy Award for Best Cinematography,Release Date (Descending),tt0077405,16642,Days of Heaven,1978-09-13,Academy Awards,78
+Academy Award for Best Cinematography,Release Date (Descending),tt0075860,840,Close Encounters of the Third Kind,1977-12-14,Academy Awards,77
+Academy Award for Best Cinematography,Release Date (Descending),tt0074235,42232,Bound for Glory,1976-12-05,Academy Awards,76
+Academy Award for Best Cinematography,Release Date (Descending),tt0072684,3175,Barry Lyndon,1975-12-18,Academy Awards,75
+Academy Award for Best Cinematography,Release Date (Descending),tt0072308,5919,The Towering Inferno,1974-12-14,Academy Awards,74
+Academy Award for Best Cinematography,Release Date (Descending),tt0069467,10238,Cries and Whispers,1972-12-21,Academy Awards,73
+Academy Award for Best Cinematography,Release Date (Descending),tt0068327,10784,Cabaret,1972-02-13,Academy Awards,72
+Academy Award for Best Cinematography,Release Date (Descending),tt0067093,14811,Fiddler on the Roof,1971-11-03,Academy Awards,71
+Academy Award for Best Cinematography,Release Date (Descending),tt0066319,38953,Ryan's Daughter,1970-03-19,Academy Awards,70
+Academy Award for Best Cinematography,Release Date (Descending),tt0064115,642,Butch Cassidy and the Sundance Kid,1969-09-23,Academy Awards,69
+Academy Award for Best Cinematography,Release Date (Descending),tt0063518,6003,Romeo and Juliet,1968-04-02,Academy Awards,68
+Academy Award for Best Cinematography,Release Date (Descending),tt0061418,475,Bonnie and Clyde,1967-08-14,Academy Awards,67
+Academy Award for Best Cinematography,Release Date (Descending),tt0061184,396,Who's Afraid of Virginia Woolf?,1966-06-22,Academy Awards,66
+Academy Award for Best Cinematography,Release Date (Descending),tt0060665,874,A Man for All Seasons,1966-12-13,Academy Awards,65
+Academy Award for Best Cinematography,Release Date (Descending),tt0059712,30080,Ship of Fools,1965-07-29,Academy Awards,64
+Academy Award for Best Cinematography,Release Date (Descending),tt0059113,907,Doctor Zhivago,1965-12-22,Academy Awards,63
+Academy Award for Best Cinematography,Release Date (Descending),tt0057831,10604,Zorba the Greek,1964-12-14,Academy Awards,62
+Academy Award for Best Cinematography,Release Date (Descending),tt0058385,11113,My Fair Lady,1964-10-21,Academy Awards,61
+Academy Award for Best Cinematography,Release Date (Descending),tt0057163,24748,Hud,1963-05-28,Academy Awards,60
+Academy Award for Best Cinematography,Release Date (Descending),tt0056937,8095,Cleopatra,1963-06-12,Academy Awards,59
+Academy Award for Best Cinematography,Release Date (Descending),tt0056197,9289,The Longest Day,1962-09-25,Academy Awards,58
+Academy Award for Best Cinematography,Release Date (Descending),tt0056172,947,Lawrence of Arabia,1962-12-11,Academy Awards,57
+Academy Award for Best Cinematography,Release Date (Descending),tt0054997,990,The Hustler,1961-09-25,Academy Awards,56
+Academy Award for Best Cinematography,Release Date (Descending),tt0055614,1725,West Side Story,1961-12-13,Academy Awards,55
+Academy Award for Best Cinematography,Release Date (Descending),tt0054326,53939,Sons and Lovers,1960-08-29,Academy Awards,54
+Academy Award for Best Cinematography,Release Date (Descending),tt0054331,967,Spartacus,1960-10-13,Academy Awards,53
+Academy Award for Best Cinematography,Release Date (Descending),tt0052738,2576,The Diary of Anne Frank,1959-03-18,Academy Awards,52
+Academy Award for Best Cinematography,Release Date (Descending),tt0052618,665,Ben-Hur,1959-11-18,Academy Awards,51
+Academy Award for Best Cinematography,Release Date (Descending),tt0051525,11414,The Defiant Ones,1958-08-14,Academy Awards,50
+Academy Award for Best Cinematography,Release Date (Descending),tt0051658,17281,Gigi,1958-05-15,Academy Awards,49
+Academy Award for Best Cinematography,Release Date (Descending),tt0050212,826,The Bridge on the River Kwai,1957-10-11,Academy Awards,48
+Academy Award for Best Cinematography,Release Date (Descending),tt0049778,28000,Somebody Up There Likes Me,1956-07-04,Academy Awards,47
+Academy Award for Best Cinematography,Release Date (Descending),tt0048960,2897,Around the World in Eighty Days,1956-10-17,Academy Awards,46
+Academy Award for Best Cinematography,Release Date (Descending),tt0048563,65550,The Rose Tattoo,1955-12-12,Academy Awards,45
+Academy Award for Best Cinematography,Release Date (Descending),tt0048728,381,To Catch a Thief,1955-08-03,Academy Awards,44
+Academy Award for Best Cinematography,Release Date (Descending),tt0047296,654,On the Waterfront,1954-06-22,Academy Awards,43
+Academy Award for Best Cinematography,Release Date (Descending),tt0047580,41503,Three Coins in the Fountain,1954-05-01,Academy Awards,42
+Academy Award for Best Cinematography,Release Date (Descending),tt0045793,11426,From Here to Eternity,1953-08-28,Academy Awards,41
+Academy Award for Best Cinematography,Release Date (Descending),tt0046303,3110,Shane,1953-04-23,Academy Awards,40
+Academy Award for Best Cinematography,Release Date (Descending),tt0044391,32499,The Bad and the Beautiful,1952-12-25,Academy Awards,39
+Academy Award for Best Cinematography,Release Date (Descending),tt0045061,3109,The Quiet Man,1952-07-21,Academy Awards,38
+Academy Award for Best Cinematography,Release Date (Descending),tt0043924,25673,A Place in the Sun,1951-06-12,Academy Awards,37
+Academy Award for Best Cinematography,Release Date (Descending),tt0043278,2769,An American in Paris,1951-09-26,Academy Awards,36
+Academy Award for Best Cinematography,Release Date (Descending),tt0041959,1092,The Third Man,1949-08-31,Academy Awards,35
+Academy Award for Best Cinematography,Release Date (Descending),tt0042646,43388,King Solomon's Mines,1950-11-09,Academy Awards,34
+Academy Award for Best Cinematography,Release Date (Descending),tt0041163,31623,Battleground,1949-11-09,Academy Awards,33
+Academy Award for Best Cinematography,Release Date (Descending),tt0041866,13909,She Wore a Yellow Ribbon,1949-10-22,Academy Awards,32
+Academy Award for Best Cinematography,Release Date (Descending),tt0040636,20482,The Naked City,1948-03-04,Academy Awards,31
+Academy Award for Best Cinematography,Release Date (Descending),tt0040491,43443,Joan of Arc,1948-12-22,Academy Awards,30
+Academy Award for Best Cinematography,Release Date (Descending),tt0038574,14320,Great Expectations,1946-12-26,Academy Awards,29
+Academy Award for Best Cinematography,Release Date (Descending),tt0039192,16391,Black Narcissus,1947-05-26,Academy Awards,28
+Academy Award for Best Cinematography,Release Date (Descending),tt0038303,43471,Anna and the King of Siam,1946-08-11,Academy Awards,27
+Academy Award for Best Cinematography,Release Date (Descending),tt0039111,19049,The Yearling,1946-12-18,Academy Awards,26
+Academy Award for Best Cinematography,Release Date (Descending),tt0037988,16559,The Picture of Dorian Gray,1945-03-03,Academy Awards,25
+Academy Award for Best Cinematography,Release Date (Descending),tt0037865,17645,Leave Her to Heaven,1945-12-25,Academy Awards,24
+Academy Award for Best Cinematography,Release Date (Descending),tt0037008,1939,Laura,1944-10-11,Academy Awards,23
+Academy Award for Best Cinematography,Release Date (Descending),tt0037465,84084,Wilson,1944-08-01,Academy Awards,22
+Academy Award for Best Cinematography,Release Date (Descending),tt0036377,43516,The Song of Bernadette,1943-12-21,Academy Awards,21
+Academy Award for Best Cinematography,Release Date (Descending),tt0036261,15855,Phantom of the Opera,1943-08-12,Academy Awards,20
+Academy Award for Best Cinematography,Release Date (Descending),tt0035093,27367,Mrs. Miniver,1942-07-03,Academy Awards,19
+Academy Award for Best Cinematography,Release Date (Descending),tt0034522,29882,The Black Swan,1942-12-04,Academy Awards,18
+Academy Award for Best Cinematography,Release Date (Descending),tt0033729,43266,How Green Was My Valley,1941-10-28,Academy Awards,17
+Academy Award for Best Cinematography,Release Date (Descending),tt0033405,44399,Blood and Sand,1941-05-30,Academy Awards,16
+Academy Award for Best Cinematography,Release Date (Descending),tt0032976,223,Rebecca,1940-03-23,Academy Awards,15
+Academy Award for Best Cinematography,Release Date (Descending),tt0033152,12232,The Thief of Bagdad,1940-12-25,Academy Awards,14
+Academy Award for Best Cinematography,Release Date (Descending),tt0032145,3084,Wuthering Heights,1939-04-07,Academy Awards,13
+Academy Award for Best Cinematography,Release Date (Descending),tt0031381,770,Gone with the Wind,1939-12-15,Academy Awards,12
+Academy Award for Best Cinematography,Release Date (Descending),tt0030202,62567,The Great Waltz,1938-11-04,Academy Awards,11
+Academy Award for Best Cinematography,Release Date (Descending),tt0028944,36652,The Good Earth,1937-06-02,Academy Awards,10
+Academy Award for Best Cinematography,Release Date (Descending),tt0027300,37658,Anthony Adverse,1936-08-26,Academy Awards,9
+Academy Award for Best Cinematography,Release Date (Descending),tt0026714,19075,A Midsummer Night's Dream,1935-10-09,Academy Awards,8
+Academy Award for Best Cinematography,Release Date (Descending),tt0024991,43902,Cleopatra,1934-10-05,Academy Awards,7
+Academy Award for Best Cinematography,Release Date (Descending),tt0022879,22649,A Farewell to Arms,1932-12-08,Academy Awards,6
+Academy Award for Best Cinematography,Release Date (Descending),tt0023458,875,Shanghai Express,1932-02-12,Academy Awards,5
+Academy Award for Best Cinematography,Release Date (Descending),tt0022458,977,Tabu,1931-08-01,Academy Awards,4
+Academy Award for Best Cinematography,Release Date (Descending),tt0020594,101383,With Byrd at the South Pole,1930-06-19,Academy Awards,3
+Academy Award for Best Cinematography,Release Date (Descending),tt0019574,53161,White Shadows in the South Seas,1928-11-11,Academy Awards,2
+Academy Award for Best Cinematography,Release Date (Descending),tt0018455,631,Sunrise: A Song of Two Humans,1927-11-04,Academy Awards,1
+Academy Award for Best Costume Design,Release Date (Descending),tt14230458,792307,Poor Things,2023-12-07,Academy Awards,93
+Academy Award for Best Costume Design,Release Date (Descending),tt9114286,505642,Black Panther: Wakanda Forever,2022-11-09,Academy Awards,92
+Academy Award for Best Costume Design,Release Date (Descending),tt3228774,337404,Cruella,2021-05-26,Academy Awards,91
+Academy Award for Best Costume Design,Release Date (Descending),tt10514222,615667,Ma Rainey's Black Bottom,2020-11-25,Academy Awards,90
+Academy Award for Best Costume Design,Release Date (Descending),tt3281548,331482,Little Women,2019-12-25,Academy Awards,89
+Academy Award for Best Costume Design,Release Date (Descending),tt1825683,284054,Black Panther,2018-02-13,Academy Awards,88
+Academy Award for Best Costume Design,Release Date (Descending),tt5776858,400617,Phantom Thread,2017-12-25,Academy Awards,87
+Academy Award for Best Costume Design,Release Date (Descending),tt3183660,259316,Fantastic Beasts and Where to Find Them,2016-11-16,Academy Awards,86
+Academy Award for Best Costume Design,Release Date (Descending),tt1392190,76341,Mad Max: Fury Road,2015-05-13,Academy Awards,85
+Academy Award for Best Costume Design,Release Date (Descending),tt2278388,120467,The Grand Budapest Hotel,2014-02-26,Academy Awards,84
+Academy Award for Best Costume Design,Release Date (Descending),tt1343092,64682,The Great Gatsby,2013-05-09,Academy Awards,83
+Academy Award for Best Costume Design,Release Date (Descending),tt1781769,96724,Anna Karenina,2012-09-06,Academy Awards,82
+Academy Award for Best Costume Design,Release Date (Descending),tt1655442,74643,The Artist,2011-10-12,Academy Awards,81
+Academy Award for Best Costume Design,Release Date (Descending),tt1014759,12155,Alice in Wonderland,2010-03-03,Academy Awards,80
+Academy Award for Best Costume Design,Release Date (Descending),tt0962736,18320,The Young Victoria,2009-03-04,Academy Awards,79
+Academy Award for Best Costume Design,Release Date (Descending),tt0864761,12783,The Duchess,2008-09-05,Academy Awards,78
+Academy Award for Best Costume Design,Release Date (Descending),tt0414055,4517,Elizabeth: The Golden Age,2007-09-09,Academy Awards,77
+Academy Award for Best Costume Design,Release Date (Descending),tt0422720,1887,Marie Antoinette,2006-05-24,Academy Awards,76
+Academy Award for Best Costume Design,Release Date (Descending),tt0397535,1904,Memoirs of a Geisha,2005-12-06,Academy Awards,75
+Academy Award for Best Costume Design,Release Date (Descending),tt0338751,2567,The Aviator,2004-12-17,Academy Awards,74
+Academy Award for Best Costume Design,Release Date (Descending),tt0167260,122,The Lord of the Rings: The Return of the King,2003-12-01,Academy Awards,73
+Academy Award for Best Costume Design,Release Date (Descending),tt0299658,1574,Chicago,2002-12-10,Academy Awards,72
+Academy Award for Best Costume Design,Release Date (Descending),tt0203009,824,Moulin Rouge!,2001-05-24,Academy Awards,71
+Academy Award for Best Costume Design,Release Date (Descending),tt0172495,98,Gladiator,2000-05-04,Academy Awards,70
+Academy Award for Best Costume Design,Release Date (Descending),tt0151568,46435,Topsy-Turvy,1999-12-15,Academy Awards,69
+Academy Award for Best Costume Design,Release Date (Descending),tt0138097,1934,Shakespeare in Love,1998-12-11,Academy Awards,68
+Academy Award for Best Costume Design,Release Date (Descending),tt0120338,597,Titanic,1997-11-18,Academy Awards,67
+Academy Award for Best Costume Design,Release Date (Descending),tt0116209,409,The English Patient,1996-11-14,Academy Awards,66
+Academy Award for Best Costume Design,Release Date (Descending),tt0114272,35196,Restoration,1995-12-29,Academy Awards,65
+Academy Award for Best Costume Design,Release Date (Descending),tt0109045,2759,The Adventures of Priscilla, Queen of the Desert,Academy Awards,64
+Academy Award for Best Costume Design,Release Date (Descending),tt0106226,10436,The Age of Innocence,1993-09-10,Academy Awards,63
+Academy Award for Best Costume Design,Release Date (Descending),tt0103874,6114,Bram Stoker's Dracula,1992-11-13,Academy Awards,62
+Academy Award for Best Costume Design,Release Date (Descending),tt0101516,10337,Bugsy,1991-12-10,Academy Awards,61
+Academy Award for Best Costume Design,Release Date (Descending),tt0099334,11673,Cyrano de Bergerac,1990-03-28,Academy Awards,60
+Academy Award for Best Costume Design,Release Date (Descending),tt0097499,10705,Henry V,1989-10-05,Academy Awards,59
+Academy Award for Best Costume Design,Release Date (Descending),tt0094947,859,Dangerous Liaisons,1988-12-21,Academy Awards,58
+Academy Award for Best Costume Design,Release Date (Descending),tt0093389,746,The Last Emperor,1987-10-04,Academy Awards,57
+Academy Award for Best Costume Design,Release Date (Descending),tt0091867,11257,A Room with a View,1986-03-07,Academy Awards,56
+Academy Award for Best Costume Design,Release Date (Descending),tt0089881,11645,Ran,1985-06-01,Academy Awards,55
+Academy Award for Best Costume Design,Release Date (Descending),tt0086879,279,Amadeus,1984-09-19,Academy Awards,54
+Academy Award for Best Costume Design,Release Date (Descending),tt0083922,5961,Fanny and Alexander,1982-12-17,Academy Awards,53
+Academy Award for Best Costume Design,Release Date (Descending),tt0083987,783,Gandhi,1982-12-01,Academy Awards,52
+Academy Award for Best Costume Design,Release Date (Descending),tt0082158,9443,Chariots of Fire,1981-05-15,Academy Awards,51
+Academy Award for Best Costume Design,Release Date (Descending),tt0080009,11121,Tess,1979-10-06,Academy Awards,50
+Academy Award for Best Costume Design,Release Date (Descending),tt0078754,16858,All That Jazz,1979-12-16,Academy Awards,49
+Academy Award for Best Costume Design,Release Date (Descending),tt0077413,4192,Death on the Nile,1978-09-29,Academy Awards,48
+Academy Award for Best Costume Design,Release Date (Descending),tt0076759,11,Star Wars,1977-05-25,Academy Awards,47
+Academy Award for Best Costume Design,Release Date (Descending),tt0074291,42236,Fellini's Casanova,1976-12-10,Academy Awards,46
+Academy Award for Best Costume Design,Release Date (Descending),tt0072684,3175,Barry Lyndon,1975-12-18,Academy Awards,45
+Academy Award for Best Costume Design,Release Date (Descending),tt0071577,11034,The Great Gatsby,1974-03-27,Academy Awards,44
+Academy Award for Best Costume Design,Release Date (Descending),tt0070735,9277,The Sting,1973-12-25,Academy Awards,43
+Academy Award for Best Costume Design,Release Date (Descending),tt0069404,5183,Travels with My Aunt,1972-12-17,Academy Awards,42
+Academy Award for Best Costume Design,Release Date (Descending),tt0067483,38646,Nicholas and Alexandra,1971-11-29,Academy Awards,41
+Academy Award for Best Costume Design,Release Date (Descending),tt0065593,31675,Cromwell,1970-08-14,Academy Awards,40
+Academy Award for Best Costume Design,Release Date (Descending),tt0064030,22522,Anne of the Thousand Days,1969-12-18,Academy Awards,39
+Academy Award for Best Costume Design,Release Date (Descending),tt0063518,6003,Romeo and Juliet,1968-04-02,Academy Awards,38
+Academy Award for Best Costume Design,Release Date (Descending),tt0061439,18978,Camelot,1967-10-25,Academy Awards,37
+Academy Award for Best Costume Design,Release Date (Descending),tt0061184,396,Who's Afraid of Virginia Woolf?,1966-06-22,Academy Awards,36
+Academy Award for Best Costume Design,Release Date (Descending),tt0060665,874,A Man for All Seasons,1966-12-13,Academy Awards,35
+Academy Award for Best Costume Design,Release Date (Descending),tt0059084,24134,Darling,1965-08-03,Academy Awards,34
+Academy Award for Best Costume Design,Release Date (Descending),tt0059113,907,Doctor Zhivago,1965-12-22,Academy Awards,33
+Academy Award for Best Costume Design,Release Date (Descending),tt0058404,14703,The Night of the Iguana,1964-08-06,Academy Awards,32
+Academy Award for Best Costume Design,Release Date (Descending),tt0058385,11113,My Fair Lady,1964-10-21,Academy Awards,31
+Academy Award for Best Costume Design,Release Date (Descending),tt0056801,422,8½,1963-02-14,Academy Awards,30
+Academy Award for Best Costume Design,Release Date (Descending),tt0056937,8095,Cleopatra,1963-06-12,Academy Awards,29
+Academy Award for Best Costume Design,Release Date (Descending),tt0056687,10242,What Ever Happened to Baby Jane?,1962-10-31,Academy Awards,28
+Academy Award for Best Costume Design,Release Date (Descending),tt0056700,28367,The Wonderful World of the Brothers Grimm,1962-08-07,Academy Awards,27
+Academy Award for Best Costume Design,Release Date (Descending),tt0053779,439,La Dolce Vita,1960-02-05,Academy Awards,26
+Academy Award for Best Costume Design,Release Date (Descending),tt0055614,1725,West Side Story,1961-12-13,Academy Awards,25
+Academy Award for Best Costume Design,Release Date (Descending),tt0053810,39219,The Facts of Life,1960-11-14,Academy Awards,24
+Academy Award for Best Costume Design,Release Date (Descending),tt0054331,967,Spartacus,1960-10-13,Academy Awards,23
+Academy Award for Best Costume Design,Release Date (Descending),tt0053291,239,Some Like It Hot,1959-03-19,Academy Awards,22
+Academy Award for Best Costume Design,Release Date (Descending),tt0052618,665,Ben-Hur,1959-11-18,Academy Awards,21
+Academy Award for Best Costume Design,Release Date (Descending),tt0051658,17281,Gigi,1958-05-15,Academy Awards,20
+Academy Award for Best Costume Design,Release Date (Descending),tt0050631,43232,Les Girls,1957-10-03,Academy Awards,19
+Academy Award for Best Costume Design,Release Date (Descending),tt0049777,78331,The Solid Gold Cadillac,1956-08-22,Academy Awards,18
+Academy Award for Best Costume Design,Release Date (Descending),tt0049408,16520,The King and I,1956-06-29,Academy Awards,17
+Academy Award for Best Costume Design,Release Date (Descending),tt0048191,28575,I'll Cry Tomorrow,1955-12-25,Academy Awards,16
+Academy Award for Best Costume Design,Release Date (Descending),tt0048316,53879,Love Is a Many-Splendored Thing,1955-08-18,Academy Awards,15
+Academy Award for Best Costume Design,Release Date (Descending),tt0047437,6620,Sabrina,1954-09-10,Academy Awards,14
+Academy Award for Best Costume Design,Release Date (Descending),tt0045935,43349,Gate of Hell,1953-10-30,Academy Awards,13
+Academy Award for Best Costume Design,Release Date (Descending),tt0046250,804,Roman Holiday,1953-08-26,Academy Awards,12
+Academy Award for Best Costume Design,Release Date (Descending),tt0046247,29912,The Robe,1953-09-16,Academy Awards,11
+Academy Award for Best Costume Design,Release Date (Descending),tt0044391,32499,The Bad and the Beautiful,1952-12-25,Academy Awards,10
+Academy Award for Best Costume Design,Release Date (Descending),tt0044926,10910,Moulin Rouge,1952-12-23,Academy Awards,9
+Academy Award for Best Costume Design,Release Date (Descending),tt0043924,25673,A Place in the Sun,1951-06-12,Academy Awards,8
+Academy Award for Best Costume Design,Release Date (Descending),tt0043278,2769,An American in Paris,1951-09-26,Academy Awards,7
+Academy Award for Best Costume Design,Release Date (Descending),tt0042192,705,All About Eve,1950-11-09,Academy Awards,6
+Academy Award for Best Costume Design,Release Date (Descending),tt0041838,29993,Samson and Delilah,1949-12-21,Academy Awards,5
+Academy Award for Best Costume Design,Release Date (Descending),tt0041452,28571,The Heiress,1949-10-06,Academy Awards,4
+Academy Award for Best Costume Design,Release Date (Descending),tt0040076,34233,Adventures of Don Juan,1948-12-24,Academy Awards,3
+Academy Award for Best Costume Design,Release Date (Descending),tt0040416,23383,Hamlet,1948-12-10,Academy Awards,2
+Academy Award for Best Costume Design,Release Date (Descending),tt0040491,43443,Joan of Arc,1948-12-22,Academy Awards,1
+Academy Award for Best Original Screenplay,Release Date (Descending),tt17009710,915935,Anatomy of a Fall,2023-08-23,Academy Awards,82
+Academy Award for Best Original Screenplay,Release Date (Descending),tt6710474,545611,Everything Everywhere All at Once,2022-03-24,Academy Awards,81
+Academy Award for Best Original Screenplay,Release Date (Descending),tt12789558,777270,Belfast,2021-11-12,Academy Awards,80
+Academy Award for Best Original Screenplay,Release Date (Descending),tt9620292,582014,Promising Young Woman,2020-12-13,Academy Awards,79
+Academy Award for Best Original Screenplay,Release Date (Descending),tt6751668,496243,Parasite,2019-05-30,Academy Awards,78
+Academy Award for Best Original Screenplay,Release Date (Descending),tt6966692,490132,Green Book,2018-11-16,Academy Awards,77
+Academy Award for Best Original Screenplay,Release Date (Descending),tt5052448,419430,Get Out,2017-02-24,Academy Awards,76
+Academy Award for Best Original Screenplay,Release Date (Descending),tt4034228,334541,Manchester by the Sea,2016-11-18,Academy Awards,75
+Academy Award for Best Original Screenplay,Release Date (Descending),tt1895587,314365,Spotlight,2015-11-06,Academy Awards,74
+Academy Award for Best Original Screenplay,Release Date (Descending),tt2562232,194662,Birdman or (The Unexpected Virtue of Ignorance),2014-10-17,Academy Awards,73
+Academy Award for Best Original Screenplay,Release Date (Descending),tt1798709,152601,Her,2013-12-18,Academy Awards,72
+Academy Award for Best Original Screenplay,Release Date (Descending),tt1853728,68718,Django Unchained,2012-12-25,Academy Awards,71
+Academy Award for Best Original Screenplay,Release Date (Descending),tt1605783,59436,Midnight in Paris,2011-05-11,Academy Awards,70
+Academy Award for Best Original Screenplay,Release Date (Descending),tt1504320,45269,The King's Speech,2010-11-26,Academy Awards,69
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0887912,12162,The Hurt Locker,2008-10-10,Academy Awards,68
+Academy Award for Best Original Screenplay,Release Date (Descending),tt1013753,10139,Milk,2008-11-05,Academy Awards,67
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0467406,7326,Juno,2007-12-05,Academy Awards,66
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0449059,773,Little Miss Sunshine,2006-07-26,Academy Awards,65
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0375679,1640,Crash,2005-05-06,Academy Awards,64
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0338013,38,Eternal Sunshine of the Spotless Mind,2004-03-19,Academy Awards,63
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0335266,153,Lost in Translation,2003-09-18,Academy Awards,62
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0287467,64,Talk to Her,2002-03-15,Academy Awards,61
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0280707,5279,Gosford Park,2001-11-07,Academy Awards,60
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0181875,786,Almost Famous,2000-09-15,Academy Awards,59
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0169547,14,American Beauty,1999-09-15,Academy Awards,58
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0138097,1934,Shakespeare in Love,1998-12-11,Academy Awards,57
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0119217,489,Good Will Hunting,1997-12-05,Academy Awards,56
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0116282,275,Fargo,1996-03-08,Academy Awards,55
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0114814,629,The Usual Suspects,1995-07-19,Academy Awards,54
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0110912,680,Pulp Fiction,1994-09-10,Academy Awards,53
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0107822,713,The Piano,1993-05-18,Academy Awards,52
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0104036,11386,The Crying Game,1992-09-02,Academy Awards,51
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0103074,1541,Thelma & Louise,1991-05-24,Academy Awards,50
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0099653,251,Ghost,1990-07-13,Academy Awards,49
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0097165,207,Dead Poets Society,1989-06-02,Academy Awards,48
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0095953,380,Rain Man,1988-12-12,Academy Awards,47
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0093565,2039,Moonstruck,1987-12-16,Academy Awards,46
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0091167,5143,Hannah and Her Sisters,1986-02-07,Academy Awards,45
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0090329,9281,Witness,1985-02-08,Academy Awards,44
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0087921,13681,Places in the Heart,1984-09-11,Academy Awards,43
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0086423,42121,Tender Mercies,1983-03-04,Academy Awards,42
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0083987,783,Gandhi,1982-12-01,Academy Awards,41
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0082158,9443,Chariots of Fire,1981-05-15,Academy Awards,40
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0081150,38772,Melvin and Howard,1980-09-19,Academy Awards,39
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0078902,20283,Breaking Away,1979-05-24,Academy Awards,38
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0077362,31657,Coming Home,1978-02-15,Academy Awards,37
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0075686,703,Annie Hall,1977-04-19,Academy Awards,36
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0074958,10774,Network,1976-11-14,Academy Awards,35
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0072890,968,Dog Day Afternoon,1975-09-21,Academy Awards,34
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0071315,829,Chinatown,1974-06-20,Academy Awards,33
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0070735,9277,The Sting,1973-12-25,Academy Awards,32
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0068334,21711,The Candidate,1972-06-29,Academy Awards,31
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0067217,32082,The Hospital,1971-12-14,Academy Awards,30
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0066206,11202,Patton,1970-01-25,Academy Awards,29
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0064115,642,Butch Cassidy and the Sundance Kid,1969-09-23,Academy Awards,28
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0063462,30197,The Producers,1968-03-18,Academy Awards,27
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0061735,1879,Guess Who's Coming to Dinner,1967-12-11,Academy Awards,26
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0061138,42726,A Man and a Woman,1966-05-27,Academy Awards,25
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0059084,24134,Darling,1965-08-03,Academy Awards,24
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0058092,30295,Father Goose,1964-12-10,Academy Awards,23
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0056085,11897,How the West Was Won,1962-11-02,Academy Awards,22
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0055913,20271,Divorce Italian Style,1961-12-20,Academy Awards,21
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0055471,28569,Splendor in the Grass,1961-10-10,Academy Awards,20
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0053172,4952,Pillow Talk,1959-10-07,Academy Awards,19
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0051525,11414,The Defiant Ones,1958-08-14,Academy Awards,18
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0050306,33668,Designing Woman,1957-05-16,Academy Awards,17
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0048210,43318,Interrupted Melody,1955-05-05,Academy Awards,16
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0047296,654,On the Waterfront,1954-06-22,Academy Awards,15
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0046435,16535,Titanic,1953-04-11,Academy Awards,14
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0044829,32961,The Lavender Hill Mob,1951-06-28,Academy Awards,13
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0043278,2769,An American in Paris,1951-09-26,Academy Awards,12
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0043014,599,Sunset Boulevard,1950-08-10,Academy Awards,11
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0041163,31623,Battleground,1949-11-09,Academy Awards,10
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0040897,3090,The Treasure of the Sierra Madre,1948-01-15,Academy Awards,9
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0039169,27437,The Bachelor and the Bobby-Soxer,1947-09-01,Academy Awards,8
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0038924,43495,The Seventh Veil,1945-10-18,Academy Awards,7
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0037899,205685,Marie-Louise,1944-06-18,Academy Awards,6
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0037465,84084,Wilson,1944-08-01,Academy Awards,5
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0036277,33039,Princess O'Rourke,1943-10-23,Academy Awards,4
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0035567,20640,Woman of the Year,1942-02-05,Academy Awards,3
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0033467,15,Citizen Kane,1941-04-17,Academy Awards,2
+Academy Award for Best Original Screenplay,Release Date (Descending),tt0032554,36495,The Great McGinty,1940-08-01,Academy Awards,1
