@@ -1,116 +1,116 @@
 [
     {
         "category": "Academy Awards",
-        "title": "Academy Award for Best Actor",
-        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-actor-2024.json",
+        "title": "Best Picture",
+        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-awards-best-picture-winners-2024.json",
         "defaultSorting": "releaseDateDescending"
     },
     {
         "category": "Academy Awards",
-        "title": "Academy Award for Best Actress",
-        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-actress-2024.json",
-        "defaultSorting": "releaseDateDescending"
-    },
-    {
-        "category": "Academy Awards",
-        "title": "Academy Award for Best Adapted Screenplay",
-        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-adapted-screenplay-2024.json",
-        "defaultSorting": "releaseDateDescending"
-    },
-    {
-        "category": "Academy Awards",
-        "title": "Academy Award for Best Animated Feature",
+        "title": "Best Animated Feature",
         "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-animated-feature-2024.json",
         "defaultSorting": "releaseDateDescending"
     },
     {
         "category": "Academy Awards",
-        "title": "Academy Award for Best Cinematography",
-        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-cinematography-2024.json",
-        "defaultSorting": "releaseDateDescending"
-    },
-    {
-        "category": "Academy Awards",
-        "title": "Academy Award for Best Costume Design",
-        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-costume-design-2024.json",
-        "defaultSorting": "releaseDateDescending"
-    },
-    {
-        "category": "Academy Awards",
-        "title": "Academy Award for Best Director",
+        "title": "Best Director",
         "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-director-2024.json",
         "defaultSorting": "releaseDateDescending"
     },
     {
         "category": "Academy Awards",
-        "title": "Academy Award for Best Film Editing",
-        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-film-editing-2024.json",
+        "title": "Best Actor",
+        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-actor-2024.json",
         "defaultSorting": "releaseDateDescending"
     },
     {
         "category": "Academy Awards",
-        "title": "Academy Award for Best Foreign Language Film",
-        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-foreign-language-film-2024.json",
+        "title": "Best Actress",
+        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-actress-2024.json",
         "defaultSorting": "releaseDateDescending"
     },
     {
         "category": "Academy Awards",
-        "title": "Academy Award for Best Makeup and Hairstyling",
-        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-makeup-and-hairstyling-2024.json",
-        "defaultSorting": "releaseDateDescending"
-    },
-    {
-        "category": "Academy Awards",
-        "title": "Academy Award for Best Original Score",
-        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-original-score-2024.json",
-        "defaultSorting": "releaseDateDescending"
-    },
-    {
-        "category": "Academy Awards",
-        "title": "Academy Award for Best Original Screenplay",
+        "title": "Best Original Screenplay",
         "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-original-screenplay-2024.json",
         "defaultSorting": "releaseDateDescending"
     },
     {
         "category": "Academy Awards",
-        "title": "Academy Award for Best Original Song",
+        "title": "Best Adapted Screenplay",
+        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-adapted-screenplay-2024.json",
+        "defaultSorting": "releaseDateDescending"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Cinematography",
+        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-cinematography-2024.json",
+        "defaultSorting": "releaseDateDescending"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Costume Design",
+        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-costume-design-2024.json",
+        "defaultSorting": "releaseDateDescending"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Film Editing",
+        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-film-editing-2024.json",
+        "defaultSorting": "releaseDateDescending"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Foreign Language Film",
+        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-foreign-language-film-2024.json",
+        "defaultSorting": "releaseDateDescending"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Makeup and Hairstyling",
+        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-makeup-and-hairstyling-2024.json",
+        "defaultSorting": "releaseDateDescending"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Original Score",
+        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-original-score-2024.json",
+        "defaultSorting": "releaseDateDescending"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Original Song",
         "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-original-song-2024.json",
         "defaultSorting": "releaseDateDescending"
     },
     {
         "category": "Academy Awards",
-        "title": "Academy Award for Best Production Design",
+        "title": "Best Production Design",
         "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-production-design-2024.json",
         "defaultSorting": "releaseDateDescending"
     },
     {
         "category": "Academy Awards",
-        "title": "Academy Award for Best Sound",
+        "title": "Best Sound",
         "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-sound-2024.json",
         "defaultSorting": "releaseDateDescending"
     },
     {
         "category": "Academy Awards",
-        "title": "Academy Award for Best Supporting Actor",
+        "title": "Best Supporting Actor",
         "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-supporting-actor-2024.json",
         "defaultSorting": "releaseDateDescending"
     },
     {
         "category": "Academy Awards",
-        "title": "Academy Award for Best Supporting Actress",
+        "title": "Best Supporting Actress",
         "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-supporting-actress-2024.json",
         "defaultSorting": "releaseDateDescending"
     },
     {
         "category": "Academy Awards",
-        "title": "Academy Award for Best Visual Effects",
+        "title": "Best Visual Effects",
         "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-visual-effects-2024.json",
-        "defaultSorting": "releaseDateDescending"
-    },
-    {
-        "category": "Academy Awards",
-        "title": "Academy Awards Best Picture Winners",
-        "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-awards-best-picture-winners-2024.json",
         "defaultSorting": "releaseDateDescending"
     }
 ]
