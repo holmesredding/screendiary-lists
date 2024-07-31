@@ -1,1 +1,752 @@
-[{"id": 5961, "rank": null, "adult": 0, "title": "Fanny and Alexander", "tvdbid": null, "imdb_id": "tt0083922", "mediatype": "movie", "release_year": 1982}, {"id": 43469, "rank": 0, "adult": 0, "title": "Shoeshine", "tvdbid": null, "imdb_id": "tt0038913", "mediatype": "movie", "release_year": 1946}, {"id": 43460, "rank": 1, "adult": 0, "title": "Monsieur Vincent", "tvdbid": null, "imdb_id": "tt0039632", "mediatype": "movie", "release_year": 1947}, {"id": 5156, "rank": 2, "adult": 0, "title": "Bicycle Thieves", "tvdbid": null, "imdb_id": "tt0040522", "mediatype": "movie", "release_year": 1948}, {"id": 65718, "rank": 3, "adult": 0, "title": "The Walls of Malapaga", "tvdbid": null, "imdb_id": "tt0040137", "mediatype": "movie", "release_year": 1949}, {"id": 548, "rank": 4, "adult": 0, "title": "Rashomon", "tvdbid": null, "imdb_id": "tt0042876", "mediatype": "movie", "release_year": 1950}, {"id": 5000, "rank": 5, "adult": 0, "title": "Forbidden Games", "tvdbid": null, "imdb_id": "tt0043686", "mediatype": "movie", "release_year": 1952}, {"id": 43349, "rank": 6, "adult": 0, "title": "Gate of Hell", "tvdbid": null, "imdb_id": "tt0045935", "mediatype": "movie", "release_year": 1953}, {"id": 31372, "rank": 7, "adult": 0, "title": "Samurai I: Musashi Miyamoto", "tvdbid": null, "imdb_id": "tt0047444", "mediatype": "movie", "release_year": 1954}, {"id": 405, "rank": 8, "adult": 0, "title": "La Strada", "tvdbid": null, "imdb_id": "tt0047528", "mediatype": "movie", "release_year": 1954}, {"id": 19426, "rank": 9, "adult": 0, "title": "Nights of Cabiria", "tvdbid": null, "imdb_id": "tt0050783", "mediatype": "movie", "release_year": 1957}, {"id": 427, "rank": 10, "adult": 0, "title": "Mon Oncle", "tvdbid": null, "imdb_id": "tt0050706", "mediatype": "movie", "release_year": 1958}, {"id": 40423, "rank": 11, "adult": 0, "title": "Black Orpheus", "tvdbid": null, "imdb_id": "tt0053146", "mediatype": "movie", "release_year": 1959}, {"id": 11656, "rank": 12, "adult": 0, "title": "The Virgin Spring", "tvdbid": null, "imdb_id": "tt0053976", "mediatype": "movie", "release_year": 1960}, {"id": 11602, "rank": 13, "adult": 0, "title": "Through a Glass Darkly", "tvdbid": null, "imdb_id": "tt0055499", "mediatype": "movie", "release_year": 1961}, {"id": 43001, "rank": 14, "adult": 0, "title": "Sundays and Cybele", "tvdbid": null, "imdb_id": "tt0055910", "mediatype": "movie", "release_year": 1962}, {"id": 422, "rank": 15, "adult": 0, "title": "8\u00bd", "tvdbid": null, "imdb_id": "tt0056801", "mediatype": "movie", "release_year": 1963}, {"id": 42801, "rank": 16, "adult": 0, "title": "Yesterday, Today and Tomorrow", "tvdbid": null, "imdb_id": "tt0057171", "mediatype": "movie", "release_year": 1963}, {"id": 25905, "rank": 17, "adult": 0, "title": "The Shop on Main Street", "tvdbid": null, "imdb_id": "tt0059527", "mediatype": "movie", "release_year": 1965}, {"id": 42726, "rank": 18, "adult": 0, "title": "A Man and a Woman", "tvdbid": null, "imdb_id": "tt0061138", "mediatype": "movie", "release_year": 1966}, {"id": 789, "rank": 19, "adult": 0, "title": "Closely Watched Trains", "tvdbid": null, "imdb_id": "tt0060802", "mediatype": "movie", "release_year": 1966}, {"id": 29266, "rank": 20, "adult": 0, "title": "War and Peace", "tvdbid": null, "imdb_id": "tt0063794", "mediatype": "movie", "release_year": 1968}, {"id": 26451, "rank": 21, "adult": 0, "title": "Investigation of a Citizen Above Suspicion", "tvdbid": null, "imdb_id": "tt0065889", "mediatype": "movie", "release_year": 1970}, {"id": 4789, "rank": 22, "adult": 0, "title": "The Garden of the Finzi-Continis", "tvdbid": null, "imdb_id": "tt0065777", "mediatype": "movie", "release_year": 1970}, {"id": 4593, "rank": 23, "adult": 0, "title": "The Discreet Charm of the Bourgeoisie", "tvdbid": null, "imdb_id": "tt0068361", "mediatype": "movie", "release_year": 1972}, {"id": 1675, "rank": 24, "adult": 0, "title": "Day for Night", "tvdbid": null, "imdb_id": "tt0070460", "mediatype": "movie", "release_year": 1973}, {"id": 7857, "rank": 25, "adult": 0, "title": "Amarcord", "tvdbid": null, "imdb_id": "tt0071129", "mediatype": "movie", "release_year": 1973}, {"id": 9764, "rank": 26, "adult": 0, "title": "Dersu Uzala", "tvdbid": null, "imdb_id": "tt0071411", "mediatype": "movie", "release_year": 1975}, {"id": 42238, "rank": 27, "adult": 0, "title": "Black and White in Color", "tvdbid": null, "imdb_id": "tt0074972", "mediatype": "movie", "release_year": 1976}, {"id": 42223, "rank": 28, "adult": 0, "title": "Madame Rosa", "tvdbid": null, "imdb_id": "tt0076348", "mediatype": "movie", "release_year": 1977}, {"id": 4267, "rank": 29, "adult": 0, "title": "Get Out Your Handkerchiefs", "tvdbid": null, "imdb_id": "tt0078122", "mediatype": "movie", "release_year": 1978}, {"id": 659, "rank": 30, "adult": 0, "title": "The Tin Drum", "tvdbid": null, "imdb_id": "tt0078875", "mediatype": "movie", "release_year": 1979}, {"id": 21028, "rank": 31, "adult": 0, "title": "Moscow Does Not Believe in Tears", "tvdbid": null, "imdb_id": "tt0079579", "mediatype": "movie", "release_year": 1980}, {"id": 11911, "rank": 32, "adult": 0, "title": "Mephisto", "tvdbid": null, "imdb_id": "tt0082736", "mediatype": "movie", "release_year": 1981}, {"id": 81346, "rank": 33, "adult": 0, "title": "To Begin Again", "tvdbid": null, "imdb_id": "tt0084874", "mediatype": "movie", "release_year": 1982}, {"id": 46088, "rank": 34, "adult": 0, "title": "Dangerous Moves", "tvdbid": null, "imdb_id": "tt0087144", "mediatype": "movie", "release_year": 1984}, {"id": 29263, "rank": 35, "adult": 0, "title": "The Official Story", "tvdbid": null, "imdb_id": "tt0089276", "mediatype": "movie", "release_year": 1985}, {"id": 2753, "rank": 36, "adult": 0, "title": "The Assault", "tvdbid": null, "imdb_id": "tt0090576", "mediatype": "movie", "release_year": 1986}, {"id": 11832, "rank": 37, "adult": 0, "title": "Babette's Feast", "tvdbid": null, "imdb_id": "tt0092603", "mediatype": "movie", "release_year": 1987}, {"id": 11174, "rank": 38, "adult": 0, "title": "Pelle the Conqueror", "tvdbid": null, "imdb_id": "tt0093713", "mediatype": "movie", "release_year": 1987}, {"id": 11216, "rank": 39, "adult": 0, "title": "Cinema Paradiso", "tvdbid": null, "imdb_id": "tt0095765", "mediatype": "movie", "release_year": 1988}, {"id": 41834, "rank": 40, "adult": 0, "title": "Journey of Hope", "tvdbid": null, "imdb_id": "tt0100470", "mediatype": "movie", "release_year": 1990}, {"id": 38251, "rank": 41, "adult": 0, "title": "Mediterraneo", "tvdbid": null, "imdb_id": "tt0102426", "mediatype": "movie", "release_year": 1991}, {"id": 2731, "rank": 42, "adult": 0, "title": "Indochine", "tvdbid": null, "imdb_id": "tt0104507", "mediatype": "movie", "release_year": 1992}, {"id": 2470, "rank": 43, "adult": 0, "title": "Belle \u00c9poque", "tvdbid": null, "imdb_id": "tt0103791", "mediatype": "movie", "release_year": 1992}, {"id": 50797, "rank": 44, "adult": 0, "title": "Burnt by the Sun", "tvdbid": null, "imdb_id": "tt0111579", "mediatype": "movie", "release_year": 1994}, {"id": 880, "rank": 45, "adult": 0, "title": "Antonia's Line", "tvdbid": null, "imdb_id": "tt0112379", "mediatype": "movie", "release_year": 1995}, {"id": 784, "rank": 46, "adult": 0, "title": "Kolya", "tvdbid": null, "imdb_id": "tt0116790", "mediatype": "movie", "release_year": 1996}, {"id": 17139, "rank": 47, "adult": 0, "title": "Character", "tvdbid": null, "imdb_id": "tt0119448", "mediatype": "movie", "release_year": 1997}, {"id": 637, "rank": 48, "adult": 0, "title": "Life Is Beautiful", "tvdbid": null, "imdb_id": "tt0118799", "mediatype": "movie", "release_year": 1997}, {"id": 99, "rank": 49, "adult": 0, "title": "All About My Mother", "tvdbid": null, "imdb_id": "tt0185125", "mediatype": "movie", "release_year": 1999}, {"id": 146, "rank": 50, "adult": 0, "title": "Crouching Tiger, Hidden Dragon", "tvdbid": null, "imdb_id": "tt0190332", "mediatype": "movie", "release_year": 2000}, {"id": 8342, "rank": 51, "adult": 0, "title": "No Man's Land", "tvdbid": null, "imdb_id": "tt0283509", "mediatype": "movie", "release_year": 2001}, {"id": 1591, "rank": 52, "adult": 0, "title": "Nowhere in Africa", "tvdbid": null, "imdb_id": "tt0161860", "mediatype": "movie", "release_year": 2001}, {"id": 11042, "rank": 53, "adult": 0, "title": "The Barbarian Invasions", "tvdbid": null, "imdb_id": "tt0338135", "mediatype": "movie", "release_year": 2003}, {"id": 1913, "rank": 54, "adult": 0, "title": "The Sea Inside", "tvdbid": null, "imdb_id": "tt0369702", "mediatype": "movie", "release_year": 2004}, {"id": 868, "rank": 55, "adult": 0, "title": "Tsotsi", "tvdbid": null, "imdb_id": "tt0468565", "mediatype": "movie", "release_year": 2005}, {"id": 582, "rank": 56, "adult": 0, "title": "The Lives of Others", "tvdbid": null, "imdb_id": "tt0405094", "mediatype": "movie", "release_year": 2006}, {"id": 7862, "rank": 57, "adult": 0, "title": "The Counterfeiters", "tvdbid": null, "imdb_id": "tt0813547", "mediatype": "movie", "release_year": 2007}, {"id": 16804, "rank": 58, "adult": 0, "title": "Departures", "tvdbid": null, "imdb_id": "tt1069238", "mediatype": "movie", "release_year": 2008}, {"id": 25376, "rank": 59, "adult": 0, "title": "The Secret in Their Eyes", "tvdbid": null, "imdb_id": "tt1305806", "mediatype": "movie", "release_year": 2009}, {"id": 44716, "rank": 60, "adult": 0, "title": "In a Better World", "tvdbid": null, "imdb_id": "tt1340107", "mediatype": "movie", "release_year": 2010}, {"id": 60243, "rank": 61, "adult": 0, "title": "A Separation", "tvdbid": null, "imdb_id": "tt1832382", "mediatype": "movie", "release_year": 2011}, {"id": 86837, "rank": 62, "adult": 0, "title": "Amour", "tvdbid": null, "imdb_id": "tt1602620", "mediatype": "movie", "release_year": 2012}, {"id": 179144, "rank": 63, "adult": 0, "title": "The Great Beauty", "tvdbid": null, "imdb_id": "tt2358891", "mediatype": "movie", "release_year": 2013}, {"id": 209274, "rank": 64, "adult": 0, "title": "Ida", "tvdbid": null, "imdb_id": "tt2718492", "mediatype": "movie", "release_year": 2013}, {"id": 336050, "rank": 65, "adult": 0, "title": "Son of Saul", "tvdbid": null, "imdb_id": "tt3808342", "mediatype": "movie", "release_year": 2015}, {"id": 375315, "rank": 66, "adult": 0, "title": "The Salesman", "tvdbid": null, "imdb_id": "tt5186714", "mediatype": "movie", "release_year": 2016}, {"id": 429191, "rank": 67, "adult": 0, "title": "A Fantastic Woman", "tvdbid": null, "imdb_id": "tt5639354", "mediatype": "movie", "release_year": 2017}, {"id": 426426, "rank": 68, "adult": 0, "title": "Roma", "tvdbid": null, "imdb_id": "tt6155172", "mediatype": "movie", "release_year": 2018}, {"id": 496243, "rank": 69, "adult": 0, "title": "Parasite", "tvdbid": null, "imdb_id": "tt6751668", "mediatype": "movie", "release_year": 2019}, {"id": 580175, "rank": 70, "adult": 0, "title": "Another Round", "tvdbid": null, "imdb_id": "tt10288566", "mediatype": "movie", "release_year": 2020}, {"id": 758866, "rank": 71, "adult": 0, "title": "Drive My Car", "tvdbid": null, "imdb_id": "tt14039582", "mediatype": "movie", "release_year": 2021}, {"id": 49046, "rank": 72, "adult": 0, "title": "All Quiet on the Western Front", "tvdbid": null, "imdb_id": "tt1016150", "mediatype": "movie", "release_year": 2022}, {"id": 467244, "rank": 73, "adult": 0, "title": "The Zone of Interest", "tvdbid": null, "imdb_id": "tt7160372", "mediatype": "movie", "release_year": 2023}]
+[
+  {
+    "id": 467244,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Zone of Interest",
+    "tvdbid": null,
+    "imdb_id": "tt7160372",
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 49046,
+    "rank": 2,
+    "adult": 0,
+    "title": "All Quiet on the Western Front",
+    "tvdbid": null,
+    "imdb_id": "tt1016150",
+    "mediatype": "movie",
+    "release_year": 2022
+  },
+  {
+    "id": 758866,
+    "rank": 3,
+    "adult": 0,
+    "title": "Drive My Car",
+    "tvdbid": null,
+    "imdb_id": "tt14039582",
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 580175,
+    "rank": 4,
+    "adult": 0,
+    "title": "Another Round",
+    "tvdbid": null,
+    "imdb_id": "tt10288566",
+    "mediatype": "movie",
+    "release_year": 2020
+  },
+  {
+    "id": 496243,
+    "rank": 5,
+    "adult": 0,
+    "title": "Parasite",
+    "tvdbid": null,
+    "imdb_id": "tt6751668",
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 426426,
+    "rank": 6,
+    "adult": 0,
+    "title": "Roma",
+    "tvdbid": null,
+    "imdb_id": "tt6155172",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 429191,
+    "rank": 7,
+    "adult": 0,
+    "title": "A Fantastic Woman",
+    "tvdbid": null,
+    "imdb_id": "tt5639354",
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 375315,
+    "rank": 8,
+    "adult": 0,
+    "title": "The Salesman",
+    "tvdbid": null,
+    "imdb_id": "tt5186714",
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 336050,
+    "rank": 9,
+    "adult": 0,
+    "title": "Son of Saul",
+    "tvdbid": null,
+    "imdb_id": "tt3808342",
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 179144,
+    "rank": 10,
+    "adult": 0,
+    "title": "The Great Beauty",
+    "tvdbid": null,
+    "imdb_id": "tt2358891",
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 209274,
+    "rank": 11,
+    "adult": 0,
+    "title": "Ida",
+    "tvdbid": null,
+    "imdb_id": "tt2718492",
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 86837,
+    "rank": 12,
+    "adult": 0,
+    "title": "Amour",
+    "tvdbid": null,
+    "imdb_id": "tt1602620",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 60243,
+    "rank": 13,
+    "adult": 0,
+    "title": "A Separation",
+    "tvdbid": null,
+    "imdb_id": "tt1832382",
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 44716,
+    "rank": 14,
+    "adult": 0,
+    "title": "In a Better World",
+    "tvdbid": null,
+    "imdb_id": "tt1340107",
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 25376,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Secret in Their Eyes",
+    "tvdbid": null,
+    "imdb_id": "tt1305806",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 16804,
+    "rank": 16,
+    "adult": 0,
+    "title": "Departures",
+    "tvdbid": null,
+    "imdb_id": "tt1069238",
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 7862,
+    "rank": 17,
+    "adult": 0,
+    "title": "The Counterfeiters",
+    "tvdbid": null,
+    "imdb_id": "tt0813547",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 582,
+    "rank": 18,
+    "adult": 0,
+    "title": "The Lives of Others",
+    "tvdbid": null,
+    "imdb_id": "tt0405094",
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 868,
+    "rank": 19,
+    "adult": 0,
+    "title": "Tsotsi",
+    "tvdbid": null,
+    "imdb_id": "tt0468565",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 1913,
+    "rank": 20,
+    "adult": 0,
+    "title": "The Sea Inside",
+    "tvdbid": null,
+    "imdb_id": "tt0369702",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 11042,
+    "rank": 21,
+    "adult": 0,
+    "title": "The Barbarian Invasions",
+    "tvdbid": null,
+    "imdb_id": "tt0338135",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 8342,
+    "rank": 22,
+    "adult": 0,
+    "title": "No Man's Land",
+    "tvdbid": null,
+    "imdb_id": "tt0283509",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 1591,
+    "rank": 23,
+    "adult": 0,
+    "title": "Nowhere in Africa",
+    "tvdbid": null,
+    "imdb_id": "tt0161860",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 146,
+    "rank": 24,
+    "adult": 0,
+    "title": "Crouching Tiger, Hidden Dragon",
+    "tvdbid": null,
+    "imdb_id": "tt0190332",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 99,
+    "rank": 25,
+    "adult": 0,
+    "title": "All About My Mother",
+    "tvdbid": null,
+    "imdb_id": "tt0185125",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 17139,
+    "rank": 26,
+    "adult": 0,
+    "title": "Character",
+    "tvdbid": null,
+    "imdb_id": "tt0119448",
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 637,
+    "rank": 27,
+    "adult": 0,
+    "title": "Life Is Beautiful",
+    "tvdbid": null,
+    "imdb_id": "tt0118799",
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 784,
+    "rank": 28,
+    "adult": 0,
+    "title": "Kolya",
+    "tvdbid": null,
+    "imdb_id": "tt0116790",
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 880,
+    "rank": 29,
+    "adult": 0,
+    "title": "Antonia's Line",
+    "tvdbid": null,
+    "imdb_id": "tt0112379",
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 50797,
+    "rank": 30,
+    "adult": 0,
+    "title": "Burnt by the Sun",
+    "tvdbid": null,
+    "imdb_id": "tt0111579",
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 2731,
+    "rank": 31,
+    "adult": 0,
+    "title": "Indochine",
+    "tvdbid": null,
+    "imdb_id": "tt0104507",
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 2470,
+    "rank": 32,
+    "adult": 0,
+    "title": "Belle Époque",
+    "tvdbid": null,
+    "imdb_id": "tt0103791",
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 38251,
+    "rank": 33,
+    "adult": 0,
+    "title": "Mediterraneo",
+    "tvdbid": null,
+    "imdb_id": "tt0102426",
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 41834,
+    "rank": 34,
+    "adult": 0,
+    "title": "Journey of Hope",
+    "tvdbid": null,
+    "imdb_id": "tt0100470",
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 11216,
+    "rank": 35,
+    "adult": 0,
+    "title": "Cinema Paradiso",
+    "tvdbid": null,
+    "imdb_id": "tt0095765",
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 11832,
+    "rank": 36,
+    "adult": 0,
+    "title": "Babette's Feast",
+    "tvdbid": null,
+    "imdb_id": "tt0092603",
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 11174,
+    "rank": 37,
+    "adult": 0,
+    "title": "Pelle the Conqueror",
+    "tvdbid": null,
+    "imdb_id": "tt0093713",
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 2753,
+    "rank": 38,
+    "adult": 0,
+    "title": "The Assault",
+    "tvdbid": null,
+    "imdb_id": "tt0090576",
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 29263,
+    "rank": 39,
+    "adult": 0,
+    "title": "The Official Story",
+    "tvdbid": null,
+    "imdb_id": "tt0089276",
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 46088,
+    "rank": 40,
+    "adult": 0,
+    "title": "Dangerous Moves",
+    "tvdbid": null,
+    "imdb_id": "tt0087144",
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 5961,
+    "rank": 41,
+    "adult": 0,
+    "title": "Fanny and Alexander",
+    "tvdbid": null,
+    "imdb_id": "tt0083922",
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 81346,
+    "rank": 42,
+    "adult": 0,
+    "title": "To Begin Again",
+    "tvdbid": null,
+    "imdb_id": "tt0084874",
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 11911,
+    "rank": 43,
+    "adult": 0,
+    "title": "Mephisto",
+    "tvdbid": null,
+    "imdb_id": "tt0082736",
+    "mediatype": "movie",
+    "release_year": 1981
+  },
+  {
+    "id": 21028,
+    "rank": 44,
+    "adult": 0,
+    "title": "Moscow Does Not Believe in Tears",
+    "tvdbid": null,
+    "imdb_id": "tt0079579",
+    "mediatype": "movie",
+    "release_year": 1980
+  },
+  {
+    "id": 659,
+    "rank": 45,
+    "adult": 0,
+    "title": "The Tin Drum",
+    "tvdbid": null,
+    "imdb_id": "tt0078875",
+    "mediatype": "movie",
+    "release_year": 1979
+  },
+  {
+    "id": 4267,
+    "rank": 46,
+    "adult": 0,
+    "title": "Get Out Your Handkerchiefs",
+    "tvdbid": null,
+    "imdb_id": "tt0078122",
+    "mediatype": "movie",
+    "release_year": 1978
+  },
+  {
+    "id": 42223,
+    "rank": 47,
+    "adult": 0,
+    "title": "Madame Rosa",
+    "tvdbid": null,
+    "imdb_id": "tt0076348",
+    "mediatype": "movie",
+    "release_year": 1977
+  },
+  {
+    "id": 42238,
+    "rank": 48,
+    "adult": 0,
+    "title": "Black and White in Color",
+    "tvdbid": null,
+    "imdb_id": "tt0074972",
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 9764,
+    "rank": 49,
+    "adult": 0,
+    "title": "Dersu Uzala",
+    "tvdbid": null,
+    "imdb_id": "tt0071411",
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 1675,
+    "rank": 50,
+    "adult": 0,
+    "title": "Day for Night",
+    "tvdbid": null,
+    "imdb_id": "tt0070460",
+    "mediatype": "movie",
+    "release_year": 1973
+  },
+  {
+    "id": 7857,
+    "rank": 51,
+    "adult": 0,
+    "title": "Amarcord",
+    "tvdbid": null,
+    "imdb_id": "tt0071129",
+    "mediatype": "movie",
+    "release_year": 1973
+  },
+  {
+    "id": 4593,
+    "rank": 52,
+    "adult": 0,
+    "title": "The Discreet Charm of the Bourgeoisie",
+    "tvdbid": null,
+    "imdb_id": "tt0068361",
+    "mediatype": "movie",
+    "release_year": 1972
+  },
+  {
+    "id": 26451,
+    "rank": 53,
+    "adult": 0,
+    "title": "Investigation of a Citizen Above Suspicion",
+    "tvdbid": null,
+    "imdb_id": "tt0065889",
+    "mediatype": "movie",
+    "release_year": 1970
+  },
+  {
+    "id": 4789,
+    "rank": 54,
+    "adult": 0,
+    "title": "The Garden of the Finzi-Continis",
+    "tvdbid": null,
+    "imdb_id": "tt0065777",
+    "mediatype": "movie",
+    "release_year": 1970
+  },
+  {
+    "id": 29266,
+    "rank": 55,
+    "adult": 0,
+    "title": "War and Peace",
+    "tvdbid": null,
+    "imdb_id": "tt0063794",
+    "mediatype": "movie",
+    "release_year": 1968
+  },
+  {
+    "id": 42726,
+    "rank": 56,
+    "adult": 0,
+    "title": "A Man and a Woman",
+    "tvdbid": null,
+    "imdb_id": "tt0061138",
+    "mediatype": "movie",
+    "release_year": 1966
+  },
+  {
+    "id": 789,
+    "rank": 57,
+    "adult": 0,
+    "title": "Closely Watched Trains",
+    "tvdbid": null,
+    "imdb_id": "tt0060802",
+    "mediatype": "movie",
+    "release_year": 1966
+  },
+  {
+    "id": 25905,
+    "rank": 58,
+    "adult": 0,
+    "title": "The Shop on Main Street",
+    "tvdbid": null,
+    "imdb_id": "tt0059527",
+    "mediatype": "movie",
+    "release_year": 1965
+  },
+  {
+    "id": 422,
+    "rank": 59,
+    "adult": 0,
+    "title": "8½",
+    "tvdbid": null,
+    "imdb_id": "tt0056801",
+    "mediatype": "movie",
+    "release_year": 1963
+  },
+  {
+    "id": 42801,
+    "rank": 60,
+    "adult": 0,
+    "title": "Yesterday, Today and Tomorrow",
+    "tvdbid": null,
+    "imdb_id": "tt0057171",
+    "mediatype": "movie",
+    "release_year": 1963
+  },
+  {
+    "id": 43001,
+    "rank": 61,
+    "adult": 0,
+    "title": "Sundays and Cybele",
+    "tvdbid": null,
+    "imdb_id": "tt0055910",
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 11602,
+    "rank": 62,
+    "adult": 0,
+    "title": "Through a Glass Darkly",
+    "tvdbid": null,
+    "imdb_id": "tt0055499",
+    "mediatype": "movie",
+    "release_year": 1961
+  },
+  {
+    "id": 11656,
+    "rank": 63,
+    "adult": 0,
+    "title": "The Virgin Spring",
+    "tvdbid": null,
+    "imdb_id": "tt0053976",
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 40423,
+    "rank": 64,
+    "adult": 0,
+    "title": "Black Orpheus",
+    "tvdbid": null,
+    "imdb_id": "tt0053146",
+    "mediatype": "movie",
+    "release_year": 1959
+  },
+  {
+    "id": 427,
+    "rank": 65,
+    "adult": 0,
+    "title": "Mon Oncle",
+    "tvdbid": null,
+    "imdb_id": "tt0050706",
+    "mediatype": "movie",
+    "release_year": 1958
+  },
+  {
+    "id": 19426,
+    "rank": 66,
+    "adult": 0,
+    "title": "Nights of Cabiria",
+    "tvdbid": null,
+    "imdb_id": "tt0050783",
+    "mediatype": "movie",
+    "release_year": 1957
+  },
+  {
+    "id": 31372,
+    "rank": 67,
+    "adult": 0,
+    "title": "Samurai I: Musashi Miyamoto",
+    "tvdbid": null,
+    "imdb_id": "tt0047444",
+    "mediatype": "movie",
+    "release_year": 1954
+  },
+  {
+    "id": 405,
+    "rank": 68,
+    "adult": 0,
+    "title": "La Strada",
+    "tvdbid": null,
+    "imdb_id": "tt0047528",
+    "mediatype": "movie",
+    "release_year": 1954
+  },
+  {
+    "id": 43349,
+    "rank": 69,
+    "adult": 0,
+    "title": "Gate of Hell",
+    "tvdbid": null,
+    "imdb_id": "tt0045935",
+    "mediatype": "movie",
+    "release_year": 1953
+  },
+  {
+    "id": 5000,
+    "rank": 70,
+    "adult": 0,
+    "title": "Forbidden Games",
+    "tvdbid": null,
+    "imdb_id": "tt0043686",
+    "mediatype": "movie",
+    "release_year": 1952
+  },
+  {
+    "id": 548,
+    "rank": 71,
+    "adult": 0,
+    "title": "Rashomon",
+    "tvdbid": null,
+    "imdb_id": "tt0042876",
+    "mediatype": "movie",
+    "release_year": 1950
+  },
+  {
+    "id": 65718,
+    "rank": 72,
+    "adult": 0,
+    "title": "The Walls of Malapaga",
+    "tvdbid": null,
+    "imdb_id": "tt0040137",
+    "mediatype": "movie",
+    "release_year": 1949
+  },
+  {
+    "id": 5156,
+    "rank": 73,
+    "adult": 0,
+    "title": "Bicycle Thieves",
+    "tvdbid": null,
+    "imdb_id": "tt0040522",
+    "mediatype": "movie",
+    "release_year": 1948
+  },
+  {
+    "id": 43460,
+    "rank": 74,
+    "adult": 0,
+    "title": "Monsieur Vincent",
+    "tvdbid": null,
+    "imdb_id": "tt0039632",
+    "mediatype": "movie",
+    "release_year": 1947
+  },
+  {
+    "id": 43469,
+    "rank": 75,
+    "adult": 0,
+    "title": "Shoeshine",
+    "tvdbid": null,
+    "imdb_id": "tt0038913",
+    "mediatype": "movie",
+    "release_year": 1946
+  }
+]

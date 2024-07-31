@@ -1,1 +1,992 @@
-[{"id": 545611, "rank": 0, "adult": 0, "title": "Everything Everywhere All at Once", "tvdbid": null, "imdb_id": "tt6710474", "mediatype": "movie", "release_year": 2022}, {"id": 44214, "rank": 1, "adult": 0, "title": "Black Swan", "tvdbid": null, "imdb_id": "tt0947798", "mediatype": "movie", "release_year": 2010}, {"id": 274, "rank": 2, "adult": 0, "title": "The Silence of the Lambs", "tvdbid": null, "imdb_id": "tt0102926", "mediatype": "movie", "release_year": 1991}, {"id": 510, "rank": 3, "adult": 0, "title": "One Flew Over the Cuckoo's Nest", "tvdbid": null, "imdb_id": "tt0073486", "mediatype": "movie", "release_year": 1975}, {"id": 313369, "rank": 4, "adult": 0, "title": "La La Land", "tvdbid": null, "imdb_id": "tt3783958", "mediatype": "movie", "release_year": 2016}, {"id": 359940, "rank": 5, "adult": 0, "title": "Three Billboards Outside Ebbing, Missouri", "tvdbid": null, "imdb_id": "tt5027774", "mediatype": "movie", "release_year": 2017}, {"id": 264644, "rank": 6, "adult": 0, "title": "Room", "tvdbid": null, "imdb_id": "tt3170832", "mediatype": "movie", "release_year": 2015}, {"id": 275, "rank": 7, "adult": 0, "title": "Fargo", "tvdbid": null, "imdb_id": "tt0116282", "mediatype": "movie", "release_year": 1996}, {"id": 31657, "rank": 8, "adult": 0, "title": "Coming Home", "tvdbid": null, "imdb_id": "tt0077362", "mediatype": "movie", "release_year": 1978}, {"id": 65550, "rank": 9, "adult": 0, "title": "The Rose Tattoo", "tvdbid": null, "imdb_id": "tt0048563", "mediatype": "movie", "release_year": 1955}, {"id": 22881, "rank": 10, "adult": 0, "title": "The Blind Side", "tvdbid": null, "imdb_id": "tt0878804", "mediatype": "movie", "release_year": 2009}, {"id": 82693, "rank": 11, "adult": 0, "title": "Silver Linings Playbook", "tvdbid": null, "imdb_id": "tt1045658", "mediatype": "movie", "release_year": 2012}, {"id": 375262, "rank": 12, "adult": 0, "title": "The Favourite", "tvdbid": null, "imdb_id": "tt5083738", "mediatype": "movie", "release_year": 2018}, {"id": 24748, "rank": 13, "adult": 0, "title": "Hud", "tvdbid": null, "imdb_id": "tt0057163", "mediatype": "movie", "release_year": 1963}, {"id": 462, "rank": 14, "adult": 0, "title": "Erin Brockovich", "tvdbid": null, "imdb_id": "tt0195685", "mediatype": "movie", "release_year": 2000}, {"id": 770, "rank": 15, "adult": 0, "title": "Gone with the Wind", "tvdbid": null, "imdb_id": "tt0031381", "mediatype": "movie", "release_year": 1939}, {"id": 8055, "rank": 16, "adult": 0, "title": "The Reader", "tvdbid": null, "imdb_id": "tt0976051", "mediatype": "movie", "release_year": 2008}, {"id": 2898, "rank": 17, "adult": 0, "title": "As Good as It Gets", "tvdbid": null, "imdb_id": "tt0119822", "mediatype": "movie", "release_year": 1997}, {"id": 1976, "rank": 18, "adult": 0, "title": "Jezebel", "tvdbid": null, "imdb_id": "tt0030287", "mediatype": "movie", "release_year": 1938}, {"id": 433, "rank": 19, "adult": 0, "title": "Mary Poppins", "tvdbid": null, "imdb_id": "tt0058331", "mediatype": "movie", "release_year": 1964}, {"id": 70, "rank": 20, "adult": 0, "title": "Million Dollar Baby", "tvdbid": null, "imdb_id": "tt0405159", "mediatype": "movie", "release_year": 2004}, {"id": 702, "rank": 21, "adult": 0, "title": "A Streetcar Named Desire", "tvdbid": null, "imdb_id": "tt0044081", "mediatype": "movie", "release_year": 1951}, {"id": 504, "rank": 22, "adult": 0, "title": "Monster", "tvdbid": null, "imdb_id": "tt0340855", "mediatype": "movie", "release_year": 2003}, {"id": 15764, "rank": 23, "adult": 0, "title": "Sophie's Choice", "tvdbid": null, "imdb_id": "tt0084707", "mediatype": "movie", "release_year": 1982}, {"id": 581734, "rank": 24, "adult": 0, "title": "Nomadland", "tvdbid": null, "imdb_id": "tt9770150", "mediatype": "movie", "release_year": 2021}, {"id": 1700, "rank": 25, "adult": 0, "title": "Misery", "tvdbid": null, "imdb_id": "tt0100157", "mediatype": "movie", "release_year": 1990}, {"id": 11462, "rank": 26, "adult": 0, "title": "Suspicion", "tvdbid": null, "imdb_id": "tt0034248", "mediatype": "movie", "release_year": 1941}, {"id": 69, "rank": 27, "adult": 0, "title": "Walk the Line", "tvdbid": null, "imdb_id": "tt0358273", "mediatype": "movie", "release_year": 2005}, {"id": 2039, "rank": 28, "adult": 0, "title": "Moonstruck", "tvdbid": null, "imdb_id": "tt0093565", "mediatype": "movie", "release_year": 1987}, {"id": 713, "rank": 29, "adult": 0, "title": "The Piano", "tvdbid": null, "imdb_id": "tt0107822", "mediatype": "movie", "release_year": 1993}, {"id": 10774, "rank": 30, "adult": 0, "title": "Network", "tvdbid": null, "imdb_id": "tt0074958", "mediatype": "movie", "release_year": 1976}, {"id": 1934, "rank": 31, "adult": 0, "title": "Shakespeare in Love", "tvdbid": null, "imdb_id": "tt0138097", "mediatype": "movie", "release_year": 1998}, {"id": 1365, "rank": 32, "adult": 0, "title": "Monster's Ball", "tvdbid": null, "imdb_id": "tt0285742", "mediatype": "movie", "release_year": 2001}, {"id": 160588, "rank": 33, "adult": 0, "title": "Blue Jasmine", "tvdbid": null, "imdb_id": "tt2334873", "mediatype": "movie", "release_year": 2013}, {"id": 703, "rank": 34, "adult": 0, "title": "Annie Hall", "tvdbid": null, "imdb_id": "tt0075686", "mediatype": "movie", "release_year": 1977}, {"id": 27367, "rank": 35, "adult": 0, "title": "Mrs. Miniver", "tvdbid": null, "imdb_id": "tt0035093", "mediatype": "movie", "release_year": 1942}, {"id": 590, "rank": 36, "adult": 0, "title": "The Hours", "tvdbid": null, "imdb_id": "tt0274558", "mediatype": "movie", "release_year": 2002}, {"id": 11050, "rank": 37, "adult": 0, "title": "Terms of Endearment", "tvdbid": null, "imdb_id": "tt0086425", "mediatype": "movie", "release_year": 1983}, {"id": 804, "rank": 38, "adult": 0, "title": "Roman Holiday", "tvdbid": null, "imdb_id": "tt0046250", "mediatype": "movie", "release_year": 1953}, {"id": 226, "rank": 39, "adult": 0, "title": "Boys Don't Cry", "tvdbid": null, "imdb_id": "tt0171804", "mediatype": "movie", "release_year": 1999}, {"id": 403, "rank": 40, "adult": 0, "title": "Driving Miss Daisy", "tvdbid": null, "imdb_id": "tt0097239", "mediatype": "movie", "release_year": 1989}, {"id": 10868, "rank": 41, "adult": 0, "title": "The Accused", "tvdbid": null, "imdb_id": "tt0094608", "mediatype": "movie", "release_year": 1988}, {"id": 11816, "rank": 42, "adult": 0, "title": "On Golden Pond", "tvdbid": null, "imdb_id": "tt0082846", "mediatype": "movie", "release_year": 1981}, {"id": 10784, "rank": 43, "adult": 0, "title": "Cabaret", "tvdbid": null, "imdb_id": "tt0068327", "mediatype": "movie", "release_year": 1972}, {"id": 284293, "rank": 44, "adult": 0, "title": "Still Alice", "tvdbid": null, "imdb_id": "tt3316960", "mediatype": "movie", "release_year": 2014}, {"id": 16153, "rank": 45, "adult": 0, "title": "Alice Doesn't Live Here Anymore", "tvdbid": null, "imdb_id": "tt0071115", "mediatype": "movie", "release_year": 1974}, {"id": 13528, "rank": 46, "adult": 0, "title": "Gaslight", "tvdbid": null, "imdb_id": "tt0036855", "mediatype": "movie", "release_year": 1944}, {"id": 491283, "rank": 47, "adult": 0, "title": "Judy", "tvdbid": null, "imdb_id": "tt7549996", "mediatype": "movie", "release_year": 2019}, {"id": 1879, "rank": 48, "adult": 0, "title": "Guess Who's Coming to Dinner", "tvdbid": null, "imdb_id": "tt0061735", "mediatype": "movie", "release_year": 1967}, {"id": 3309, "rank": 49, "adult": 0, "title": "Mildred Pierce", "tvdbid": null, "imdb_id": "tt0037913", "mediatype": "movie", "release_year": 1945}, {"id": 18988, "rank": 50, "adult": 0, "title": "The Lion in Winter", "tvdbid": null, "imdb_id": "tt0063227", "mediatype": "movie", "release_year": 1968}, {"id": 3078, "rank": 51, "adult": 0, "title": "It Happened One Night", "tvdbid": null, "imdb_id": "tt0025316", "mediatype": "movie", "release_year": 1934}, {"id": 466, "rank": 52, "adult": 0, "title": "Klute", "tvdbid": null, "imdb_id": "tt0067309", "mediatype": "movie", "release_year": 1971}, {"id": 601470, "rank": 53, "adult": 0, "title": "The Eyes of Tammy Faye", "tvdbid": null, "imdb_id": "tt9115530", "mediatype": "movie", "release_year": 2021}, {"id": 8293, "rank": 54, "adult": 0, "title": "Howards End", "tvdbid": null, "imdb_id": "tt0104454", "mediatype": "movie", "release_year": 1992}, {"id": 396, "rank": 55, "adult": 0, "title": "Who's Afraid of Virginia Woolf?", "tvdbid": null, "imdb_id": "tt0061184", "mediatype": "movie", "release_year": 1966}, {"id": 687, "rank": 56, "adult": 0, "title": "Dead Man Walking", "tvdbid": null, "imdb_id": "tt0112818", "mediatype": "movie", "release_year": 1995}, {"id": 16085, "rank": 57, "adult": 0, "title": "Funny Girl", "tvdbid": null, "imdb_id": "tt0062994", "mediatype": "movie", "release_year": 1968}, {"id": 1165, "rank": 58, "adult": 0, "title": "The Queen", "tvdbid": null, "imdb_id": "tt0436697", "mediatype": "movie", "release_year": 2006}, {"id": 1407, "rank": 59, "adult": 0, "title": "La Vie en Rose", "tvdbid": null, "imdb_id": "tt0450188", "mediatype": "movie", "release_year": 2007}, {"id": 71688, "rank": 60, "adult": 0, "title": "The Iron Lady", "tvdbid": null, "imdb_id": "tt1007029", "mediatype": "movie", "release_year": 2011}, {"id": 1162, "rank": 61, "adult": 0, "title": "The Miracle Worker", "tvdbid": null, "imdb_id": "tt0056241", "mediatype": "movie", "release_year": 1962}, {"id": 66027, "rank": 62, "adult": 0, "title": "Women in Love", "tvdbid": null, "imdb_id": "tt0066579", "mediatype": "movie", "release_year": 1969}, {"id": 16769, "rank": 63, "adult": 0, "title": "Coal Miner's Daughter", "tvdbid": null, "imdb_id": "tt0080549", "mediatype": "movie", "release_year": 1980}, {"id": 631, "rank": 64, "adult": 0, "title": "Sunrise: A Song of Two Humans", "tvdbid": null, "imdb_id": "tt0018455", "mediatype": "movie", "release_year": 1927}, {"id": 36652, "rank": 65, "adult": 0, "title": "The Good Earth", "tvdbid": null, "imdb_id": "tt0028944", "mediatype": "movie", "release_year": 1937}, {"id": 23724, "rank": 66, "adult": 0, "title": "BUtterfield 8", "tvdbid": null, "imdb_id": "tt0053622", "mediatype": "movie", "release_year": 1960}, {"id": 13681, "rank": 67, "adult": 0, "title": "Places in the Heart", "tvdbid": null, "imdb_id": "tt0087921", "mediatype": "movie", "release_year": 1984}, {"id": 5179, "rank": 68, "adult": 0, "title": "The Prime of Miss Jean Brodie", "tvdbid": null, "imdb_id": "tt0064840", "mediatype": "movie", "release_year": 1969}, {"id": 43277, "rank": 69, "adult": 0, "title": "The Great Ziegfeld", "tvdbid": null, "imdb_id": "tt0027698", "mediatype": "movie", "release_year": 1936}, {"id": 28571, "rank": 70, "adult": 0, "title": "The Heiress", "tvdbid": null, "imdb_id": "tt0041452", "mediatype": "movie", "release_year": 1949}, {"id": 40842, "rank": 71, "adult": 0, "title": "Norma Rae", "tvdbid": null, "imdb_id": "tt0079638", "mediatype": "movie", "release_year": 1979}, {"id": 47908, "rank": 72, "adult": 0, "title": "The Trip to Bountiful", "tvdbid": null, "imdb_id": "tt0090203", "mediatype": "movie", "release_year": 1985}, {"id": 1890, "rank": 73, "adult": 0, "title": "Children of a Lesser God", "tvdbid": null, "imdb_id": "tt0090830", "mediatype": "movie", "release_year": 1986}, {"id": 24167, "rank": 74, "adult": 0, "title": "Two Women", "tvdbid": null, "imdb_id": "tt0054749", "mediatype": "movie", "release_year": 1960}, {"id": 57834, "rank": 75, "adult": 0, "title": "Blue Sky", "tvdbid": null, "imdb_id": "tt0109306", "mediatype": "movie", "release_year": 1994}, {"id": 43516, "rank": 76, "adult": 0, "title": "The Song of Bernadette", "tvdbid": null, "imdb_id": "tt0036377", "mediatype": "movie", "release_year": 1943}, {"id": 2438, "rank": 77, "adult": 0, "title": "The Country Girl", "tvdbid": null, "imdb_id": "tt0046874", "mediatype": "movie", "release_year": 1954}, {"id": 24481, "rank": 78, "adult": 0, "title": "Born Yesterday", "tvdbid": null, "imdb_id": "tt0042276", "mediatype": "movie", "release_year": 1950}, {"id": 24134, "rank": 79, "adult": 0, "title": "Darling", "tvdbid": null, "imdb_id": "tt0059084", "mediatype": "movie", "release_year": 1965}, {"id": 43103, "rank": 80, "adult": 0, "title": "Room at the Top", "tvdbid": null, "imdb_id": "tt0053226", "mediatype": "movie", "release_year": 1959}, {"id": 31777, "rank": 81, "adult": 0, "title": "Morning Glory", "tvdbid": null, "imdb_id": "tt0024353", "mediatype": "movie", "release_year": 1933}, {"id": 28577, "rank": 82, "adult": 0, "title": "I Want to Live!", "tvdbid": null, "imdb_id": "tt0051758", "mediatype": "movie", "release_year": 1958}, {"id": 84214, "rank": 83, "adult": 0, "title": "Come Back, Little Sheba", "tvdbid": null, "imdb_id": "tt0044509", "mediatype": "movie", "release_year": 1952}, {"id": 28285, "rank": 84, "adult": 0, "title": "The Three Faces of Eve", "tvdbid": null, "imdb_id": "tt0051077", "mediatype": "movie", "release_year": 1957}, {"id": 38171, "rank": 85, "adult": 0, "title": "Anastasia", "tvdbid": null, "imdb_id": "tt0048947", "mediatype": "movie", "release_year": 1956}, {"id": 82474, "rank": 86, "adult": 0, "title": "7th Heaven", "tvdbid": null, "imdb_id": "tt0018379", "mediatype": "movie", "release_year": 1927}, {"id": 42458, "rank": 87, "adult": 0, "title": "A Touch of Class", "tvdbid": null, "imdb_id": "tt0070819", "mediatype": "movie", "release_year": 1973}, {"id": 80708, "rank": 88, "adult": 0, "title": "The Divorcee", "tvdbid": null, "imdb_id": "tt0020827", "mediatype": "movie", "release_year": 1930}, {"id": 43466, "rank": 89, "adult": 0, "title": "The Farmer's Daughter", "tvdbid": null, "imdb_id": "tt0039370", "mediatype": "movie", "release_year": 1947}, {"id": 62000, "rank": 90, "adult": 0, "title": "Johnny Belinda", "tvdbid": null, "imdb_id": "tt0040495", "mediatype": "movie", "release_year": 1948}, {"id": 54568, "rank": 91, "adult": 0, "title": "To Each His Own", "tvdbid": null, "imdb_id": "tt0039040", "mediatype": "movie", "release_year": 1946}, {"id": 52863, "rank": 92, "adult": 0, "title": "Dangerous", "tvdbid": null, "imdb_id": "tt0026261", "mediatype": "movie", "release_year": 1935}, {"id": 77744, "rank": 93, "adult": 0, "title": "Kitty Foyle", "tvdbid": null, "imdb_id": "tt0032671", "mediatype": "movie", "release_year": 1940}, {"id": 28391, "rank": 94, "adult": 0, "title": "Street Angel", "tvdbid": null, "imdb_id": "tt0019429", "mediatype": "movie", "release_year": 1928}, {"id": 85504, "rank": 95, "adult": 0, "title": "The Sin of Madelon Claudet", "tvdbid": null, "imdb_id": "tt0022386", "mediatype": "movie", "release_year": 1931}, {"id": 85507, "rank": 96, "adult": 0, "title": "Coquette", "tvdbid": null, "imdb_id": "tt0019788", "mediatype": "movie", "release_year": 1929}, {"id": 85505, "rank": 97, "adult": 0, "title": "Min and Bill", "tvdbid": null, "imdb_id": "tt0021148", "mediatype": "movie", "release_year": 1930}, {"id": 792307, "rank": 98, "adult": 0, "title": "Poor Things", "tvdbid": null, "imdb_id": "tt14230458", "mediatype": "movie", "release_year": 2023}]
+[
+  {
+    "id": 792307,
+    "rank": 1,
+    "adult": 0,
+    "title": "Poor Things",
+    "tvdbid": null,
+    "imdb_id": "tt14230458",
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 545611,
+    "rank": 2,
+    "adult": 0,
+    "title": "Everything Everywhere All at Once",
+    "tvdbid": null,
+    "imdb_id": "tt6710474",
+    "mediatype": "movie",
+    "release_year": 2022
+  },
+  {
+    "id": 581734,
+    "rank": 3,
+    "adult": 0,
+    "title": "Nomadland",
+    "tvdbid": null,
+    "imdb_id": "tt9770150",
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 601470,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Eyes of Tammy Faye",
+    "tvdbid": null,
+    "imdb_id": "tt9115530",
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 491283,
+    "rank": 5,
+    "adult": 0,
+    "title": "Judy",
+    "tvdbid": null,
+    "imdb_id": "tt7549996",
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 375262,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Favourite",
+    "tvdbid": null,
+    "imdb_id": "tt5083738",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 359940,
+    "rank": 7,
+    "adult": 0,
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "tvdbid": null,
+    "imdb_id": "tt5027774",
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 313369,
+    "rank": 8,
+    "adult": 0,
+    "title": "La La Land",
+    "tvdbid": null,
+    "imdb_id": "tt3783958",
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 264644,
+    "rank": 9,
+    "adult": 0,
+    "title": "Room",
+    "tvdbid": null,
+    "imdb_id": "tt3170832",
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 284293,
+    "rank": 10,
+    "adult": 0,
+    "title": "Still Alice",
+    "tvdbid": null,
+    "imdb_id": "tt3316960",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 160588,
+    "rank": 11,
+    "adult": 0,
+    "title": "Blue Jasmine",
+    "tvdbid": null,
+    "imdb_id": "tt2334873",
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 82693,
+    "rank": 12,
+    "adult": 0,
+    "title": "Silver Linings Playbook",
+    "tvdbid": null,
+    "imdb_id": "tt1045658",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 71688,
+    "rank": 13,
+    "adult": 0,
+    "title": "The Iron Lady",
+    "tvdbid": null,
+    "imdb_id": "tt1007029",
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 44214,
+    "rank": 14,
+    "adult": 0,
+    "title": "Black Swan",
+    "tvdbid": null,
+    "imdb_id": "tt0947798",
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 22881,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Blind Side",
+    "tvdbid": null,
+    "imdb_id": "tt0878804",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 8055,
+    "rank": 16,
+    "adult": 0,
+    "title": "The Reader",
+    "tvdbid": null,
+    "imdb_id": "tt0976051",
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 1407,
+    "rank": 17,
+    "adult": 0,
+    "title": "La Vie en Rose",
+    "tvdbid": null,
+    "imdb_id": "tt0450188",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 1165,
+    "rank": 18,
+    "adult": 0,
+    "title": "The Queen",
+    "tvdbid": null,
+    "imdb_id": "tt0436697",
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 69,
+    "rank": 19,
+    "adult": 0,
+    "title": "Walk the Line",
+    "tvdbid": null,
+    "imdb_id": "tt0358273",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 70,
+    "rank": 20,
+    "adult": 0,
+    "title": "Million Dollar Baby",
+    "tvdbid": null,
+    "imdb_id": "tt0405159",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 504,
+    "rank": 21,
+    "adult": 0,
+    "title": "Monster",
+    "tvdbid": null,
+    "imdb_id": "tt0340855",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 590,
+    "rank": 22,
+    "adult": 0,
+    "title": "The Hours",
+    "tvdbid": null,
+    "imdb_id": "tt0274558",
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 1365,
+    "rank": 23,
+    "adult": 0,
+    "title": "Monster's Ball",
+    "tvdbid": null,
+    "imdb_id": "tt0285742",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 462,
+    "rank": 24,
+    "adult": 0,
+    "title": "Erin Brockovich",
+    "tvdbid": null,
+    "imdb_id": "tt0195685",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 226,
+    "rank": 25,
+    "adult": 0,
+    "title": "Boys Don't Cry",
+    "tvdbid": null,
+    "imdb_id": "tt0171804",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 1934,
+    "rank": 26,
+    "adult": 0,
+    "title": "Shakespeare in Love",
+    "tvdbid": null,
+    "imdb_id": "tt0138097",
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 2898,
+    "rank": 27,
+    "adult": 0,
+    "title": "As Good as It Gets",
+    "tvdbid": null,
+    "imdb_id": "tt0119822",
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 275,
+    "rank": 28,
+    "adult": 0,
+    "title": "Fargo",
+    "tvdbid": null,
+    "imdb_id": "tt0116282",
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 687,
+    "rank": 29,
+    "adult": 0,
+    "title": "Dead Man Walking",
+    "tvdbid": null,
+    "imdb_id": "tt0112818",
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 57834,
+    "rank": 30,
+    "adult": 0,
+    "title": "Blue Sky",
+    "tvdbid": null,
+    "imdb_id": "tt0109306",
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 713,
+    "rank": 31,
+    "adult": 0,
+    "title": "The Piano",
+    "tvdbid": null,
+    "imdb_id": "tt0107822",
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 8293,
+    "rank": 32,
+    "adult": 0,
+    "title": "Howards End",
+    "tvdbid": null,
+    "imdb_id": "tt0104454",
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 274,
+    "rank": 33,
+    "adult": 0,
+    "title": "The Silence of the Lambs",
+    "tvdbid": null,
+    "imdb_id": "tt0102926",
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 1700,
+    "rank": 34,
+    "adult": 0,
+    "title": "Misery",
+    "tvdbid": null,
+    "imdb_id": "tt0100157",
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 403,
+    "rank": 35,
+    "adult": 0,
+    "title": "Driving Miss Daisy",
+    "tvdbid": null,
+    "imdb_id": "tt0097239",
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 10868,
+    "rank": 36,
+    "adult": 0,
+    "title": "The Accused",
+    "tvdbid": null,
+    "imdb_id": "tt0094608",
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 2039,
+    "rank": 37,
+    "adult": 0,
+    "title": "Moonstruck",
+    "tvdbid": null,
+    "imdb_id": "tt0093565",
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 1890,
+    "rank": 38,
+    "adult": 0,
+    "title": "Children of a Lesser God",
+    "tvdbid": null,
+    "imdb_id": "tt0090830",
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 47908,
+    "rank": 39,
+    "adult": 0,
+    "title": "The Trip to Bountiful",
+    "tvdbid": null,
+    "imdb_id": "tt0090203",
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 13681,
+    "rank": 40,
+    "adult": 0,
+    "title": "Places in the Heart",
+    "tvdbid": null,
+    "imdb_id": "tt0087921",
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 11050,
+    "rank": 41,
+    "adult": 0,
+    "title": "Terms of Endearment",
+    "tvdbid": null,
+    "imdb_id": "tt0086425",
+    "mediatype": "movie",
+    "release_year": 1983
+  },
+  {
+    "id": 15764,
+    "rank": 42,
+    "adult": 0,
+    "title": "Sophie's Choice",
+    "tvdbid": null,
+    "imdb_id": "tt0084707",
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 11816,
+    "rank": 43,
+    "adult": 0,
+    "title": "On Golden Pond",
+    "tvdbid": null,
+    "imdb_id": "tt0082846",
+    "mediatype": "movie",
+    "release_year": 1981
+  },
+  {
+    "id": 16769,
+    "rank": 44,
+    "adult": 0,
+    "title": "Coal Miner's Daughter",
+    "tvdbid": null,
+    "imdb_id": "tt0080549",
+    "mediatype": "movie",
+    "release_year": 1980
+  },
+  {
+    "id": 40842,
+    "rank": 45,
+    "adult": 0,
+    "title": "Norma Rae",
+    "tvdbid": null,
+    "imdb_id": "tt0079638",
+    "mediatype": "movie",
+    "release_year": 1979
+  },
+  {
+    "id": 31657,
+    "rank": 46,
+    "adult": 0,
+    "title": "Coming Home",
+    "tvdbid": null,
+    "imdb_id": "tt0077362",
+    "mediatype": "movie",
+    "release_year": 1978
+  },
+  {
+    "id": 703,
+    "rank": 47,
+    "adult": 0,
+    "title": "Annie Hall",
+    "tvdbid": null,
+    "imdb_id": "tt0075686",
+    "mediatype": "movie",
+    "release_year": 1977
+  },
+  {
+    "id": 10774,
+    "rank": 48,
+    "adult": 0,
+    "title": "Network",
+    "tvdbid": null,
+    "imdb_id": "tt0074958",
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 510,
+    "rank": 49,
+    "adult": 0,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "tvdbid": null,
+    "imdb_id": "tt0073486",
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 16153,
+    "rank": 50,
+    "adult": 0,
+    "title": "Alice Doesn't Live Here Anymore",
+    "tvdbid": null,
+    "imdb_id": "tt0071115",
+    "mediatype": "movie",
+    "release_year": 1974
+  },
+  {
+    "id": 42458,
+    "rank": 51,
+    "adult": 0,
+    "title": "A Touch of Class",
+    "tvdbid": null,
+    "imdb_id": "tt0070819",
+    "mediatype": "movie",
+    "release_year": 1973
+  },
+  {
+    "id": 10784,
+    "rank": 52,
+    "adult": 0,
+    "title": "Cabaret",
+    "tvdbid": null,
+    "imdb_id": "tt0068327",
+    "mediatype": "movie",
+    "release_year": 1972
+  },
+  {
+    "id": 466,
+    "rank": 53,
+    "adult": 0,
+    "title": "Klute",
+    "tvdbid": null,
+    "imdb_id": "tt0067309",
+    "mediatype": "movie",
+    "release_year": 1971
+  },
+  {
+    "id": 66027,
+    "rank": 54,
+    "adult": 0,
+    "title": "Women in Love",
+    "tvdbid": null,
+    "imdb_id": "tt0066579",
+    "mediatype": "movie",
+    "release_year": 1969
+  },
+  {
+    "id": 5179,
+    "rank": 55,
+    "adult": 0,
+    "title": "The Prime of Miss Jean Brodie",
+    "tvdbid": null,
+    "imdb_id": "tt0064840",
+    "mediatype": "movie",
+    "release_year": 1969
+  },
+  {
+    "id": 18988,
+    "rank": 56,
+    "adult": 0,
+    "title": "The Lion in Winter",
+    "tvdbid": null,
+    "imdb_id": "tt0063227",
+    "mediatype": "movie",
+    "release_year": 1968
+  },
+  {
+    "id": 16085,
+    "rank": 57,
+    "adult": 0,
+    "title": "Funny Girl",
+    "tvdbid": null,
+    "imdb_id": "tt0062994",
+    "mediatype": "movie",
+    "release_year": 1968
+  },
+  {
+    "id": 1879,
+    "rank": 58,
+    "adult": 0,
+    "title": "Guess Who's Coming to Dinner",
+    "tvdbid": null,
+    "imdb_id": "tt0061735",
+    "mediatype": "movie",
+    "release_year": 1967
+  },
+  {
+    "id": 396,
+    "rank": 59,
+    "adult": 0,
+    "title": "Who's Afraid of Virginia Woolf?",
+    "tvdbid": null,
+    "imdb_id": "tt0061184",
+    "mediatype": "movie",
+    "release_year": 1966
+  },
+  {
+    "id": 24134,
+    "rank": 60,
+    "adult": 0,
+    "title": "Darling",
+    "tvdbid": null,
+    "imdb_id": "tt0059084",
+    "mediatype": "movie",
+    "release_year": 1965
+  },
+  {
+    "id": 433,
+    "rank": 61,
+    "adult": 0,
+    "title": "Mary Poppins",
+    "tvdbid": null,
+    "imdb_id": "tt0058331",
+    "mediatype": "movie",
+    "release_year": 1964
+  },
+  {
+    "id": 24748,
+    "rank": 62,
+    "adult": 0,
+    "title": "Hud",
+    "tvdbid": null,
+    "imdb_id": "tt0057163",
+    "mediatype": "movie",
+    "release_year": 1963
+  },
+  {
+    "id": 1162,
+    "rank": 63,
+    "adult": 0,
+    "title": "The Miracle Worker",
+    "tvdbid": null,
+    "imdb_id": "tt0056241",
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 23724,
+    "rank": 64,
+    "adult": 0,
+    "title": "BUtterfield 8",
+    "tvdbid": null,
+    "imdb_id": "tt0053622",
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 24167,
+    "rank": 65,
+    "adult": 0,
+    "title": "Two Women",
+    "tvdbid": null,
+    "imdb_id": "tt0054749",
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 43103,
+    "rank": 66,
+    "adult": 0,
+    "title": "Room at the Top",
+    "tvdbid": null,
+    "imdb_id": "tt0053226",
+    "mediatype": "movie",
+    "release_year": 1959
+  },
+  {
+    "id": 28577,
+    "rank": 67,
+    "adult": 0,
+    "title": "I Want to Live!",
+    "tvdbid": null,
+    "imdb_id": "tt0051758",
+    "mediatype": "movie",
+    "release_year": 1958
+  },
+  {
+    "id": 28285,
+    "rank": 68,
+    "adult": 0,
+    "title": "The Three Faces of Eve",
+    "tvdbid": null,
+    "imdb_id": "tt0051077",
+    "mediatype": "movie",
+    "release_year": 1957
+  },
+  {
+    "id": 38171,
+    "rank": 69,
+    "adult": 0,
+    "title": "Anastasia",
+    "tvdbid": null,
+    "imdb_id": "tt0048947",
+    "mediatype": "movie",
+    "release_year": 1956
+  },
+  {
+    "id": 65550,
+    "rank": 70,
+    "adult": 0,
+    "title": "The Rose Tattoo",
+    "tvdbid": null,
+    "imdb_id": "tt0048563",
+    "mediatype": "movie",
+    "release_year": 1955
+  },
+  {
+    "id": 2438,
+    "rank": 71,
+    "adult": 0,
+    "title": "The Country Girl",
+    "tvdbid": null,
+    "imdb_id": "tt0046874",
+    "mediatype": "movie",
+    "release_year": 1954
+  },
+  {
+    "id": 804,
+    "rank": 72,
+    "adult": 0,
+    "title": "Roman Holiday",
+    "tvdbid": null,
+    "imdb_id": "tt0046250",
+    "mediatype": "movie",
+    "release_year": 1953
+  },
+  {
+    "id": 84214,
+    "rank": 73,
+    "adult": 0,
+    "title": "Come Back, Little Sheba",
+    "tvdbid": null,
+    "imdb_id": "tt0044509",
+    "mediatype": "movie",
+    "release_year": 1952
+  },
+  {
+    "id": 702,
+    "rank": 74,
+    "adult": 0,
+    "title": "A Streetcar Named Desire",
+    "tvdbid": null,
+    "imdb_id": "tt0044081",
+    "mediatype": "movie",
+    "release_year": 1951
+  },
+  {
+    "id": 24481,
+    "rank": 75,
+    "adult": 0,
+    "title": "Born Yesterday",
+    "tvdbid": null,
+    "imdb_id": "tt0042276",
+    "mediatype": "movie",
+    "release_year": 1950
+  },
+  {
+    "id": 28571,
+    "rank": 76,
+    "adult": 0,
+    "title": "The Heiress",
+    "tvdbid": null,
+    "imdb_id": "tt0041452",
+    "mediatype": "movie",
+    "release_year": 1949
+  },
+  {
+    "id": 62000,
+    "rank": 77,
+    "adult": 0,
+    "title": "Johnny Belinda",
+    "tvdbid": null,
+    "imdb_id": "tt0040495",
+    "mediatype": "movie",
+    "release_year": 1948
+  },
+  {
+    "id": 43466,
+    "rank": 78,
+    "adult": 0,
+    "title": "The Farmer's Daughter",
+    "tvdbid": null,
+    "imdb_id": "tt0039370",
+    "mediatype": "movie",
+    "release_year": 1947
+  },
+  {
+    "id": 54568,
+    "rank": 79,
+    "adult": 0,
+    "title": "To Each His Own",
+    "tvdbid": null,
+    "imdb_id": "tt0039040",
+    "mediatype": "movie",
+    "release_year": 1946
+  },
+  {
+    "id": 3309,
+    "rank": 80,
+    "adult": 0,
+    "title": "Mildred Pierce",
+    "tvdbid": null,
+    "imdb_id": "tt0037913",
+    "mediatype": "movie",
+    "release_year": 1945
+  },
+  {
+    "id": 13528,
+    "rank": 81,
+    "adult": 0,
+    "title": "Gaslight",
+    "tvdbid": null,
+    "imdb_id": "tt0036855",
+    "mediatype": "movie",
+    "release_year": 1944
+  },
+  {
+    "id": 43516,
+    "rank": 82,
+    "adult": 0,
+    "title": "The Song of Bernadette",
+    "tvdbid": null,
+    "imdb_id": "tt0036377",
+    "mediatype": "movie",
+    "release_year": 1943
+  },
+  {
+    "id": 27367,
+    "rank": 83,
+    "adult": 0,
+    "title": "Mrs. Miniver",
+    "tvdbid": null,
+    "imdb_id": "tt0035093",
+    "mediatype": "movie",
+    "release_year": 1942
+  },
+  {
+    "id": 11462,
+    "rank": 84,
+    "adult": 0,
+    "title": "Suspicion",
+    "tvdbid": null,
+    "imdb_id": "tt0034248",
+    "mediatype": "movie",
+    "release_year": 1941
+  },
+  {
+    "id": 77744,
+    "rank": 85,
+    "adult": 0,
+    "title": "Kitty Foyle",
+    "tvdbid": null,
+    "imdb_id": "tt0032671",
+    "mediatype": "movie",
+    "release_year": 1940
+  },
+  {
+    "id": 770,
+    "rank": 86,
+    "adult": 0,
+    "title": "Gone with the Wind",
+    "tvdbid": null,
+    "imdb_id": "tt0031381",
+    "mediatype": "movie",
+    "release_year": 1939
+  },
+  {
+    "id": 1976,
+    "rank": 87,
+    "adult": 0,
+    "title": "Jezebel",
+    "tvdbid": null,
+    "imdb_id": "tt0030287",
+    "mediatype": "movie",
+    "release_year": 1938
+  },
+  {
+    "id": 36652,
+    "rank": 88,
+    "adult": 0,
+    "title": "The Good Earth",
+    "tvdbid": null,
+    "imdb_id": "tt0028944",
+    "mediatype": "movie",
+    "release_year": 1937
+  },
+  {
+    "id": 43277,
+    "rank": 89,
+    "adult": 0,
+    "title": "The Great Ziegfeld",
+    "tvdbid": null,
+    "imdb_id": "tt0027698",
+    "mediatype": "movie",
+    "release_year": 1936
+  },
+  {
+    "id": 52863,
+    "rank": 90,
+    "adult": 0,
+    "title": "Dangerous",
+    "tvdbid": null,
+    "imdb_id": "tt0026261",
+    "mediatype": "movie",
+    "release_year": 1935
+  },
+  {
+    "id": 3078,
+    "rank": 91,
+    "adult": 0,
+    "title": "It Happened One Night",
+    "tvdbid": null,
+    "imdb_id": "tt0025316",
+    "mediatype": "movie",
+    "release_year": 1934
+  },
+  {
+    "id": 31777,
+    "rank": 92,
+    "adult": 0,
+    "title": "Morning Glory",
+    "tvdbid": null,
+    "imdb_id": "tt0024353",
+    "mediatype": "movie",
+    "release_year": 1933
+  },
+  {
+    "id": 85504,
+    "rank": 93,
+    "adult": 0,
+    "title": "The Sin of Madelon Claudet",
+    "tvdbid": null,
+    "imdb_id": "tt0022386",
+    "mediatype": "movie",
+    "release_year": 1931
+  },
+  {
+    "id": 80708,
+    "rank": 94,
+    "adult": 0,
+    "title": "The Divorcee",
+    "tvdbid": null,
+    "imdb_id": "tt0020827",
+    "mediatype": "movie",
+    "release_year": 1930
+  },
+  {
+    "id": 85505,
+    "rank": 95,
+    "adult": 0,
+    "title": "Min and Bill",
+    "tvdbid": null,
+    "imdb_id": "tt0021148",
+    "mediatype": "movie",
+    "release_year": 1930
+  },
+  {
+    "id": 85507,
+    "rank": 96,
+    "adult": 0,
+    "title": "Coquette",
+    "tvdbid": null,
+    "imdb_id": "tt0019788",
+    "mediatype": "movie",
+    "release_year": 1929
+  },
+  {
+    "id": 28391,
+    "rank": 97,
+    "adult": 0,
+    "title": "Street Angel",
+    "tvdbid": null,
+    "imdb_id": "tt0019429",
+    "mediatype": "movie",
+    "release_year": 1928
+  },
+  {
+    "id": 631,
+    "rank": 98,
+    "adult": 0,
+    "title": "Sunrise: A Song of Two Humans",
+    "tvdbid": null,
+    "imdb_id": "tt0018455",
+    "mediatype": "movie",
+    "release_year": 1927
+  },
+  {
+    "id": 82474,
+    "rank": 99,
+    "adult": 0,
+    "title": "7th Heaven",
+    "tvdbid": null,
+    "imdb_id": "tt0018379",
+    "mediatype": "movie",
+    "release_year": 1927
+  }
+]

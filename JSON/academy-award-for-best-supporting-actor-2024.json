@@ -1,1 +1,882 @@
-[{"id": 545611, "rank": 0, "adult": 0, "title": "Everything Everywhere All at Once", "tvdbid": null, "imdb_id": "tt6710474", "mediatype": "movie", "release_year": 2022}, {"id": 466272, "rank": 1, "adult": 0, "title": "Once Upon a Time\u2026 in Hollywood", "tvdbid": null, "imdb_id": "tt7131622", "mediatype": "movie", "release_year": 2019}, {"id": 155, "rank": 2, "adult": 0, "title": "The Dark Knight", "tvdbid": null, "imdb_id": "tt0468569", "mediatype": "movie", "release_year": 2008}, {"id": 769, "rank": 3, "adult": 0, "title": "GoodFellas", "tvdbid": null, "imdb_id": "tt0099685", "mediatype": "movie", "release_year": 1990}, {"id": 244786, "rank": 4, "adult": 0, "title": "Whiplash", "tvdbid": null, "imdb_id": "tt2582802", "mediatype": "movie", "release_year": 2014}, {"id": 489, "rank": 5, "adult": 0, "title": "Good Will Hunting", "tvdbid": null, "imdb_id": "tt0119217", "mediatype": "movie", "release_year": 1997}, {"id": 16869, "rank": 6, "adult": 0, "title": "Inglourious Basterds", "tvdbid": null, "imdb_id": "tt0361748", "mediatype": "movie", "release_year": 2009}, {"id": 6977, "rank": 7, "adult": 0, "title": "No Country for Old Men", "tvdbid": null, "imdb_id": "tt0477348", "mediatype": "movie", "release_year": 2007}, {"id": 240, "rank": 8, "adult": 0, "title": "The Godfather: Part II", "tvdbid": null, "imdb_id": "tt0071562", "mediatype": "movie", "release_year": 1974}, {"id": 68718, "rank": 9, "adult": 0, "title": "Django Unchained", "tvdbid": null, "imdb_id": "tt1853728", "mediatype": "movie", "release_year": 2012}, {"id": 629, "rank": 10, "adult": 0, "title": "The Usual Suspects", "tvdbid": null, "imdb_id": "tt0114814", "mediatype": "movie", "release_year": 1995}, {"id": 490132, "rank": 11, "adult": 0, "title": "Green Book", "tvdbid": null, "imdb_id": "tt6966692", "mediatype": "movie", "release_year": 2018}, {"id": 1900, "rank": 12, "adult": 0, "title": "Traffic", "tvdbid": null, "imdb_id": "tt0181865", "mediatype": "movie", "release_year": 2000}, {"id": 776503, "rank": 13, "adult": 0, "title": "CODA", "tvdbid": null, "imdb_id": "tt10366460", "mediatype": "movie", "release_year": 2021}, {"id": 359940, "rank": 14, "adult": 0, "title": "Three Billboards Outside Ebbing, Missouri", "tvdbid": null, "imdb_id": "tt5027774", "mediatype": "movie", "release_year": 2017}, {"id": 33, "rank": 15, "adult": 0, "title": "Unforgiven", "tvdbid": null, "imdb_id": "tt0105695", "mediatype": "movie", "release_year": 1992}, {"id": 773, "rank": 16, "adult": 0, "title": "Little Miss Sunshine", "tvdbid": null, "imdb_id": "tt0449059", "mediatype": "movie", "release_year": 2006}, {"id": 117, "rank": 17, "adult": 0, "title": "The Untouchables", "tvdbid": null, "imdb_id": "tt0094226", "mediatype": "movie", "release_year": 1987}, {"id": 522, "rank": 18, "adult": 0, "title": "Ed Wood", "tvdbid": null, "imdb_id": "tt0109707", "mediatype": "movie", "release_year": 1994}, {"id": 11778, "rank": 19, "adult": 0, "title": "The Deer Hunter", "tvdbid": null, "imdb_id": "tt0077416", "mediatype": "movie", "release_year": 1978}, {"id": 2757, "rank": 20, "adult": 0, "title": "Adaptation.", "tvdbid": null, "imdb_id": "tt0268126", "mediatype": "movie", "release_year": 2002}, {"id": 322, "rank": 21, "adult": 0, "title": "Mystic River", "tvdbid": null, "imdb_id": "tt0327056", "mediatype": "movie", "release_year": 2003}, {"id": 376867, "rank": 22, "adult": 0, "title": "Moonlight", "tvdbid": null, "imdb_id": "tt4975722", "mediatype": "movie", "release_year": 2016}, {"id": 24748, "rank": 23, "adult": 0, "title": "Hud", "tvdbid": null, "imdb_id": "tt0057163", "mediatype": "movie", "release_year": 1963}, {"id": 9390, "rank": 24, "adult": 0, "title": "Jerry Maguire", "tvdbid": null, "imdb_id": "tt0116695", "mediatype": "movie", "release_year": 1996}, {"id": 152532, "rank": 25, "adult": 0, "title": "Dallas Buyers Club", "tvdbid": null, "imdb_id": "tt0790636", "mediatype": "movie", "release_year": 2013}, {"id": 5503, "rank": 26, "adult": 0, "title": "The Fugitive", "tvdbid": null, "imdb_id": "tt0106977", "mediatype": "movie", "release_year": 1993}, {"id": 1725, "rank": 27, "adult": 0, "title": "West Side Story", "tvdbid": null, "imdb_id": "tt0055614", "mediatype": "movie", "release_year": 1961}, {"id": 296098, "rank": 28, "adult": 0, "title": "Bridge of Spies", "tvdbid": null, "imdb_id": "tt3682448", "mediatype": "movie", "release_year": 2015}, {"id": 70, "rank": 29, "adult": 0, "title": "Million Dollar Baby", "tvdbid": null, "imdb_id": "tt0405159", "mediatype": "movie", "release_year": 2004}, {"id": 702, "rank": 30, "adult": 0, "title": "A Streetcar Named Desire", "tvdbid": null, "imdb_id": "tt0044081", "mediatype": "movie", "release_year": 1951}, {"id": 903, "rank": 31, "adult": 0, "title": "Cool Hand Luke", "tvdbid": null, "imdb_id": "tt0061512", "mediatype": "movie", "release_year": 1967}, {"id": 45317, "rank": 32, "adult": 0, "title": "The Fighter", "tvdbid": null, "imdb_id": "tt0964517", "mediatype": "movie", "release_year": 2010}, {"id": 891, "rank": 33, "adult": 0, "title": "All the President's Men", "tvdbid": null, "imdb_id": "tt0074119", "mediatype": "movie", "release_year": 1976}, {"id": 967, "rank": 34, "adult": 0, "title": "Spartacus", "tvdbid": null, "imdb_id": "tt0054331", "mediatype": "movie", "release_year": 1960}, {"id": 9665, "rank": 35, "adult": 0, "title": "Glory", "tvdbid": null, "imdb_id": "tt0097441", "mediatype": "movie", "release_year": 1989}, {"id": 37853, "rank": 36, "adult": 0, "title": "Mister Roberts", "tvdbid": null, "imdb_id": "tt0048380", "mediatype": "movie", "release_year": 1955}, {"id": 665, "rank": 37, "adult": 0, "title": "Ben-Hur", "tvdbid": null, "imdb_id": "tt0052618", "mediatype": "movie", "release_year": 1959}, {"id": 16619, "rank": 38, "adult": 0, "title": "Ordinary People", "tvdbid": null, "imdb_id": "tt0081283", "mediatype": "movie", "release_year": 1980}, {"id": 10328, "rank": 39, "adult": 0, "title": "Cocoon", "tvdbid": null, "imdb_id": "tt0088933", "mediatype": "movie", "release_year": 1985}, {"id": 1406, "rank": 40, "adult": 0, "title": "City Slickers", "tvdbid": null, "imdb_id": "tt0101587", "mediatype": "movie", "release_year": 1991}, {"id": 2623, "rank": 41, "adult": 0, "title": "An Officer and a Gentleman", "tvdbid": null, "imdb_id": "tt0084434", "mediatype": "movie", "release_year": 1982}, {"id": 25188, "rank": 42, "adult": 0, "title": "The Last Picture Show", "tvdbid": null, "imdb_id": "tt0067328", "mediatype": "movie", "release_year": 1971}, {"id": 623, "rank": 43, "adult": 0, "title": "A Fish Called Wanda", "tvdbid": null, "imdb_id": "tt0095159", "mediatype": "movie", "release_year": 1988}, {"id": 1715, "rank": 44, "adult": 0, "title": "The Cider House Rules", "tvdbid": null, "imdb_id": "tt0124315", "mediatype": "movie", "release_year": 1999}, {"id": 583406, "rank": 45, "adult": 0, "title": "Judas and the Black Messiah", "tvdbid": null, "imdb_id": "tt9784798", "mediatype": "movie", "release_year": 2021}, {"id": 11050, "rank": 46, "adult": 0, "title": "Terms of Endearment", "tvdbid": null, "imdb_id": "tt0086425", "mediatype": "movie", "release_year": 1983}, {"id": 10322, "rank": 47, "adult": 0, "title": "Being There", "tvdbid": null, "imdb_id": "tt0078841", "mediatype": "movie", "release_year": 1979}, {"id": 12501, "rank": 48, "adult": 0, "title": "The Big Country", "tvdbid": null, "imdb_id": "tt0051411", "mediatype": "movie", "release_year": 1958}, {"id": 10784, "rank": 49, "adult": 0, "title": "Cabaret", "tvdbid": null, "imdb_id": "tt0068327", "mediatype": "movie", "release_year": 1972}, {"id": 705, "rank": 50, "adult": 0, "title": "All About Eve", "tvdbid": null, "imdb_id": "tt0042192", "mediatype": "movie", "release_year": 1950}, {"id": 995, "rank": 51, "adult": 0, "title": "Stagecoach", "tvdbid": null, "imdb_id": "tt0031971", "mediatype": "movie", "release_year": 1939}, {"id": 3090, "rank": 52, "adult": 0, "title": "The Treasure of the Sierra Madre", "tvdbid": null, "imdb_id": "tt0040897", "mediatype": "movie", "release_year": 1948}, {"id": 887, "rank": 53, "adult": 0, "title": "The Best Years of Our Lives", "tvdbid": null, "imdb_id": "tt0036868", "mediatype": "movie", "release_year": 1946}, {"id": 625, "rank": 54, "adult": 0, "title": "The Killing Fields", "tvdbid": null, "imdb_id": "tt0087553", "mediatype": "movie", "release_year": 1984}, {"id": 11426, "rank": 55, "adult": 0, "title": "From Here to Eternity", "tvdbid": null, "imdb_id": "tt0045793", "mediatype": "movie", "release_year": 1953}, {"id": 13665, "rank": 56, "adult": 0, "title": "Arthur", "tvdbid": null, "imdb_id": "tt0082031", "mediatype": "movie", "release_year": 1981}, {"id": 28145, "rank": 57, "adult": 0, "title": "They Shoot Horses, Don't They?", "tvdbid": null, "imdb_id": "tt0065088", "mediatype": "movie", "release_year": 1969}, {"id": 231, "rank": 58, "adult": 0, "title": "Syriana", "tvdbid": null, "imdb_id": "tt0365737", "mediatype": "movie", "release_year": 2005}, {"id": 5143, "rank": 59, "adult": 0, "title": "Hannah and Her Sisters", "tvdbid": null, "imdb_id": "tt0091167", "mediatype": "movie", "release_year": 1986}, {"id": 31662, "rank": 60, "adult": 0, "title": "Affliction", "tvdbid": null, "imdb_id": "tt0118564", "mediatype": "movie", "release_year": 1998}, {"id": 55347, "rank": 61, "adult": 0, "title": "Beginners", "tvdbid": null, "imdb_id": "tt1532503", "mediatype": "movie", "release_year": 2011}, {"id": 43266, "rank": 62, "adult": 0, "title": "How Green Was My Valley", "tvdbid": null, "imdb_id": "tt0033729", "mediatype": "movie", "release_year": 1941}, {"id": 38953, "rank": 63, "adult": 0, "title": "Ryan's Daughter", "tvdbid": null, "imdb_id": "tt0066319", "mediatype": "movie", "release_year": 1970}, {"id": 15497, "rank": 64, "adult": 0, "title": "Twelve O'Clock High", "tvdbid": null, "imdb_id": "tt0041996", "mediatype": "movie", "release_year": 1949}, {"id": 33632, "rank": 65, "adult": 0, "title": "Sweet Bird of Youth", "tvdbid": null, "imdb_id": "tt0056541", "mediatype": "movie", "release_year": 1962}, {"id": 11881, "rank": 66, "adult": 0, "title": "Miracle on 34th Street", "tvdbid": null, "imdb_id": "tt0039628", "mediatype": "movie", "release_year": 1947}, {"id": 42222, "rank": 67, "adult": 0, "title": "Julia", "tvdbid": null, "imdb_id": "tt0076245", "mediatype": "movie", "release_year": 1977}, {"id": 14328, "rank": 68, "adult": 0, "title": "The Paper Chase", "tvdbid": null, "imdb_id": "tt0070509", "mediatype": "movie", "release_year": 1973}, {"id": 11889, "rank": 69, "adult": 0, "title": "Iris", "tvdbid": null, "imdb_id": "tt0280778", "mediatype": "movie", "release_year": 2001}, {"id": 29592, "rank": 70, "adult": 0, "title": "Lust for Life", "tvdbid": null, "imdb_id": "tt0049456", "mediatype": "movie", "release_year": 1956}, {"id": 40885, "rank": 71, "adult": 0, "title": "Sayonara", "tvdbid": null, "imdb_id": "tt0050933", "mediatype": "movie", "release_year": 1957}, {"id": 34689, "rank": 72, "adult": 0, "title": "The Barefoot Contessa", "tvdbid": null, "imdb_id": "tt0046754", "mediatype": "movie", "release_year": 1954}, {"id": 1810, "rank": 73, "adult": 0, "title": "Viva Zapata!", "tvdbid": null, "imdb_id": "tt0045296", "mediatype": "movie", "release_year": 1952}, {"id": 1888, "rank": 74, "adult": 0, "title": "The Fortune Cookie", "tvdbid": null, "imdb_id": "tt0060424", "mediatype": "movie", "release_year": 1966}, {"id": 30177, "rank": 75, "adult": 0, "title": "A Tree Grows in Brooklyn", "tvdbid": null, "imdb_id": "tt0038190", "mediatype": "movie", "release_year": 1945}, {"id": 5052, "rank": 76, "adult": 0, "title": "Topkapi", "tvdbid": null, "imdb_id": "tt0058672", "mediatype": "movie", "release_year": 1964}, {"id": 17661, "rank": 77, "adult": 0, "title": "Going My Way", "tvdbid": null, "imdb_id": "tt0036872", "mediatype": "movie", "release_year": 1944}, {"id": 16561, "rank": 78, "adult": 0, "title": "The Sunshine Boys", "tvdbid": null, "imdb_id": "tt0073766", "mediatype": "movie", "release_year": 1975}, {"id": 14710, "rank": 79, "adult": 0, "title": "The Westerner", "tvdbid": null, "imdb_id": "tt0033253", "mediatype": "movie", "release_year": 1940}, {"id": 80616, "rank": 80, "adult": 0, "title": "The More the Merrier", "tvdbid": null, "imdb_id": "tt0036172", "mediatype": "movie", "release_year": 1943}, {"id": 43278, "rank": 81, "adult": 0, "title": "The Life of Emile Zola", "tvdbid": null, "imdb_id": "tt0029146", "mediatype": "movie", "release_year": 1937}, {"id": 42731, "rank": 82, "adult": 0, "title": "A Thousand Clowns", "tvdbid": null, "imdb_id": "tt0059798", "mediatype": "movie", "release_year": 1965}, {"id": 118872, "rank": 83, "adult": 0, "title": "The Subject Was Roses", "tvdbid": null, "imdb_id": "tt0063654", "mediatype": "movie", "release_year": 1968}, {"id": 93313, "rank": 84, "adult": 0, "title": "Come and Get It", "tvdbid": null, "imdb_id": "tt0027459", "mediatype": "movie", "release_year": 1936}, {"id": 41495, "rank": 85, "adult": 0, "title": "Johnny Eager", "tvdbid": null, "imdb_id": "tt0033774", "mediatype": "movie", "release_year": 1941}, {"id": 118889, "rank": 86, "adult": 0, "title": "Kentucky", "tvdbid": null, "imdb_id": "tt0030317", "mediatype": "movie", "release_year": 1938}, {"id": 872585, "rank": 87, "adult": 0, "title": "Oppenheimer", "tvdbid": null, "imdb_id": "tt15398776", "mediatype": "movie", "release_year": 2023}]
+[
+  {
+    "id": 872585,
+    "rank": 1,
+    "adult": 0,
+    "title": "Oppenheimer",
+    "tvdbid": null,
+    "imdb_id": "tt15398776",
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 545611,
+    "rank": 2,
+    "adult": 0,
+    "title": "Everything Everywhere All at Once",
+    "tvdbid": null,
+    "imdb_id": "tt6710474",
+    "mediatype": "movie",
+    "release_year": 2022
+  },
+  {
+    "id": 776503,
+    "rank": 3,
+    "adult": 0,
+    "title": "CODA",
+    "tvdbid": null,
+    "imdb_id": "tt10366460",
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 583406,
+    "rank": 4,
+    "adult": 0,
+    "title": "Judas and the Black Messiah",
+    "tvdbid": null,
+    "imdb_id": "tt9784798",
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 466272,
+    "rank": 5,
+    "adult": 0,
+    "title": "Once Upon a Time… in Hollywood",
+    "tvdbid": null,
+    "imdb_id": "tt7131622",
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 490132,
+    "rank": 6,
+    "adult": 0,
+    "title": "Green Book",
+    "tvdbid": null,
+    "imdb_id": "tt6966692",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 359940,
+    "rank": 7,
+    "adult": 0,
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "tvdbid": null,
+    "imdb_id": "tt5027774",
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 376867,
+    "rank": 8,
+    "adult": 0,
+    "title": "Moonlight",
+    "tvdbid": null,
+    "imdb_id": "tt4975722",
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 296098,
+    "rank": 9,
+    "adult": 0,
+    "title": "Bridge of Spies",
+    "tvdbid": null,
+    "imdb_id": "tt3682448",
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 244786,
+    "rank": 10,
+    "adult": 0,
+    "title": "Whiplash",
+    "tvdbid": null,
+    "imdb_id": "tt2582802",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 152532,
+    "rank": 11,
+    "adult": 0,
+    "title": "Dallas Buyers Club",
+    "tvdbid": null,
+    "imdb_id": "tt0790636",
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 68718,
+    "rank": 12,
+    "adult": 0,
+    "title": "Django Unchained",
+    "tvdbid": null,
+    "imdb_id": "tt1853728",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 55347,
+    "rank": 13,
+    "adult": 0,
+    "title": "Beginners",
+    "tvdbid": null,
+    "imdb_id": "tt1532503",
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 45317,
+    "rank": 14,
+    "adult": 0,
+    "title": "The Fighter",
+    "tvdbid": null,
+    "imdb_id": "tt0964517",
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 16869,
+    "rank": 15,
+    "adult": 0,
+    "title": "Inglourious Basterds",
+    "tvdbid": null,
+    "imdb_id": "tt0361748",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 155,
+    "rank": 16,
+    "adult": 0,
+    "title": "The Dark Knight",
+    "tvdbid": null,
+    "imdb_id": "tt0468569",
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 6977,
+    "rank": 17,
+    "adult": 0,
+    "title": "No Country for Old Men",
+    "tvdbid": null,
+    "imdb_id": "tt0477348",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 773,
+    "rank": 18,
+    "adult": 0,
+    "title": "Little Miss Sunshine",
+    "tvdbid": null,
+    "imdb_id": "tt0449059",
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 231,
+    "rank": 19,
+    "adult": 0,
+    "title": "Syriana",
+    "tvdbid": null,
+    "imdb_id": "tt0365737",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 70,
+    "rank": 20,
+    "adult": 0,
+    "title": "Million Dollar Baby",
+    "tvdbid": null,
+    "imdb_id": "tt0405159",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 322,
+    "rank": 21,
+    "adult": 0,
+    "title": "Mystic River",
+    "tvdbid": null,
+    "imdb_id": "tt0327056",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 2757,
+    "rank": 22,
+    "adult": 0,
+    "title": "Adaptation.",
+    "tvdbid": null,
+    "imdb_id": "tt0268126",
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 11889,
+    "rank": 23,
+    "adult": 0,
+    "title": "Iris",
+    "tvdbid": null,
+    "imdb_id": "tt0280778",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 1900,
+    "rank": 24,
+    "adult": 0,
+    "title": "Traffic",
+    "tvdbid": null,
+    "imdb_id": "tt0181865",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 1715,
+    "rank": 25,
+    "adult": 0,
+    "title": "The Cider House Rules",
+    "tvdbid": null,
+    "imdb_id": "tt0124315",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 31662,
+    "rank": 26,
+    "adult": 0,
+    "title": "Affliction",
+    "tvdbid": null,
+    "imdb_id": "tt0118564",
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 489,
+    "rank": 27,
+    "adult": 0,
+    "title": "Good Will Hunting",
+    "tvdbid": null,
+    "imdb_id": "tt0119217",
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 9390,
+    "rank": 28,
+    "adult": 0,
+    "title": "Jerry Maguire",
+    "tvdbid": null,
+    "imdb_id": "tt0116695",
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 629,
+    "rank": 29,
+    "adult": 0,
+    "title": "The Usual Suspects",
+    "tvdbid": null,
+    "imdb_id": "tt0114814",
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 522,
+    "rank": 30,
+    "adult": 0,
+    "title": "Ed Wood",
+    "tvdbid": null,
+    "imdb_id": "tt0109707",
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 5503,
+    "rank": 31,
+    "adult": 0,
+    "title": "The Fugitive",
+    "tvdbid": null,
+    "imdb_id": "tt0106977",
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 33,
+    "rank": 32,
+    "adult": 0,
+    "title": "Unforgiven",
+    "tvdbid": null,
+    "imdb_id": "tt0105695",
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 1406,
+    "rank": 33,
+    "adult": 0,
+    "title": "City Slickers",
+    "tvdbid": null,
+    "imdb_id": "tt0101587",
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 769,
+    "rank": 34,
+    "adult": 0,
+    "title": "GoodFellas",
+    "tvdbid": null,
+    "imdb_id": "tt0099685",
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 9665,
+    "rank": 35,
+    "adult": 0,
+    "title": "Glory",
+    "tvdbid": null,
+    "imdb_id": "tt0097441",
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 623,
+    "rank": 36,
+    "adult": 0,
+    "title": "A Fish Called Wanda",
+    "tvdbid": null,
+    "imdb_id": "tt0095159",
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 117,
+    "rank": 37,
+    "adult": 0,
+    "title": "The Untouchables",
+    "tvdbid": null,
+    "imdb_id": "tt0094226",
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 5143,
+    "rank": 38,
+    "adult": 0,
+    "title": "Hannah and Her Sisters",
+    "tvdbid": null,
+    "imdb_id": "tt0091167",
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 10328,
+    "rank": 39,
+    "adult": 0,
+    "title": "Cocoon",
+    "tvdbid": null,
+    "imdb_id": "tt0088933",
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 625,
+    "rank": 40,
+    "adult": 0,
+    "title": "The Killing Fields",
+    "tvdbid": null,
+    "imdb_id": "tt0087553",
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 11050,
+    "rank": 41,
+    "adult": 0,
+    "title": "Terms of Endearment",
+    "tvdbid": null,
+    "imdb_id": "tt0086425",
+    "mediatype": "movie",
+    "release_year": 1983
+  },
+  {
+    "id": 2623,
+    "rank": 42,
+    "adult": 0,
+    "title": "An Officer and a Gentleman",
+    "tvdbid": null,
+    "imdb_id": "tt0084434",
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 13665,
+    "rank": 43,
+    "adult": 0,
+    "title": "Arthur",
+    "tvdbid": null,
+    "imdb_id": "tt0082031",
+    "mediatype": "movie",
+    "release_year": 1981
+  },
+  {
+    "id": 16619,
+    "rank": 44,
+    "adult": 0,
+    "title": "Ordinary People",
+    "tvdbid": null,
+    "imdb_id": "tt0081283",
+    "mediatype": "movie",
+    "release_year": 1980
+  },
+  {
+    "id": 10322,
+    "rank": 45,
+    "adult": 0,
+    "title": "Being There",
+    "tvdbid": null,
+    "imdb_id": "tt0078841",
+    "mediatype": "movie",
+    "release_year": 1979
+  },
+  {
+    "id": 11778,
+    "rank": 46,
+    "adult": 0,
+    "title": "The Deer Hunter",
+    "tvdbid": null,
+    "imdb_id": "tt0077416",
+    "mediatype": "movie",
+    "release_year": 1978
+  },
+  {
+    "id": 42222,
+    "rank": 47,
+    "adult": 0,
+    "title": "Julia",
+    "tvdbid": null,
+    "imdb_id": "tt0076245",
+    "mediatype": "movie",
+    "release_year": 1977
+  },
+  {
+    "id": 891,
+    "rank": 48,
+    "adult": 0,
+    "title": "All the President's Men",
+    "tvdbid": null,
+    "imdb_id": "tt0074119",
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 16561,
+    "rank": 49,
+    "adult": 0,
+    "title": "The Sunshine Boys",
+    "tvdbid": null,
+    "imdb_id": "tt0073766",
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 240,
+    "rank": 50,
+    "adult": 0,
+    "title": "The Godfather: Part II",
+    "tvdbid": null,
+    "imdb_id": "tt0071562",
+    "mediatype": "movie",
+    "release_year": 1974
+  },
+  {
+    "id": 14328,
+    "rank": 51,
+    "adult": 0,
+    "title": "The Paper Chase",
+    "tvdbid": null,
+    "imdb_id": "tt0070509",
+    "mediatype": "movie",
+    "release_year": 1973
+  },
+  {
+    "id": 10784,
+    "rank": 52,
+    "adult": 0,
+    "title": "Cabaret",
+    "tvdbid": null,
+    "imdb_id": "tt0068327",
+    "mediatype": "movie",
+    "release_year": 1972
+  },
+  {
+    "id": 25188,
+    "rank": 53,
+    "adult": 0,
+    "title": "The Last Picture Show",
+    "tvdbid": null,
+    "imdb_id": "tt0067328",
+    "mediatype": "movie",
+    "release_year": 1971
+  },
+  {
+    "id": 38953,
+    "rank": 54,
+    "adult": 0,
+    "title": "Ryan's Daughter",
+    "tvdbid": null,
+    "imdb_id": "tt0066319",
+    "mediatype": "movie",
+    "release_year": 1970
+  },
+  {
+    "id": 28145,
+    "rank": 55,
+    "adult": 0,
+    "title": "They Shoot Horses, Don't They?",
+    "tvdbid": null,
+    "imdb_id": "tt0065088",
+    "mediatype": "movie",
+    "release_year": 1969
+  },
+  {
+    "id": 118872,
+    "rank": 56,
+    "adult": 0,
+    "title": "The Subject Was Roses",
+    "tvdbid": null,
+    "imdb_id": "tt0063654",
+    "mediatype": "movie",
+    "release_year": 1968
+  },
+  {
+    "id": 903,
+    "rank": 57,
+    "adult": 0,
+    "title": "Cool Hand Luke",
+    "tvdbid": null,
+    "imdb_id": "tt0061512",
+    "mediatype": "movie",
+    "release_year": 1967
+  },
+  {
+    "id": 1888,
+    "rank": 58,
+    "adult": 0,
+    "title": "The Fortune Cookie",
+    "tvdbid": null,
+    "imdb_id": "tt0060424",
+    "mediatype": "movie",
+    "release_year": 1966
+  },
+  {
+    "id": 42731,
+    "rank": 59,
+    "adult": 0,
+    "title": "A Thousand Clowns",
+    "tvdbid": null,
+    "imdb_id": "tt0059798",
+    "mediatype": "movie",
+    "release_year": 1965
+  },
+  {
+    "id": 5052,
+    "rank": 60,
+    "adult": 0,
+    "title": "Topkapi",
+    "tvdbid": null,
+    "imdb_id": "tt0058672",
+    "mediatype": "movie",
+    "release_year": 1964
+  },
+  {
+    "id": 24748,
+    "rank": 61,
+    "adult": 0,
+    "title": "Hud",
+    "tvdbid": null,
+    "imdb_id": "tt0057163",
+    "mediatype": "movie",
+    "release_year": 1963
+  },
+  {
+    "id": 33632,
+    "rank": 62,
+    "adult": 0,
+    "title": "Sweet Bird of Youth",
+    "tvdbid": null,
+    "imdb_id": "tt0056541",
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 1725,
+    "rank": 63,
+    "adult": 0,
+    "title": "West Side Story",
+    "tvdbid": null,
+    "imdb_id": "tt0055614",
+    "mediatype": "movie",
+    "release_year": 1961
+  },
+  {
+    "id": 967,
+    "rank": 64,
+    "adult": 0,
+    "title": "Spartacus",
+    "tvdbid": null,
+    "imdb_id": "tt0054331",
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 665,
+    "rank": 65,
+    "adult": 0,
+    "title": "Ben-Hur",
+    "tvdbid": null,
+    "imdb_id": "tt0052618",
+    "mediatype": "movie",
+    "release_year": 1959
+  },
+  {
+    "id": 12501,
+    "rank": 66,
+    "adult": 0,
+    "title": "The Big Country",
+    "tvdbid": null,
+    "imdb_id": "tt0051411",
+    "mediatype": "movie",
+    "release_year": 1958
+  },
+  {
+    "id": 40885,
+    "rank": 67,
+    "adult": 0,
+    "title": "Sayonara",
+    "tvdbid": null,
+    "imdb_id": "tt0050933",
+    "mediatype": "movie",
+    "release_year": 1957
+  },
+  {
+    "id": 29592,
+    "rank": 68,
+    "adult": 0,
+    "title": "Lust for Life",
+    "tvdbid": null,
+    "imdb_id": "tt0049456",
+    "mediatype": "movie",
+    "release_year": 1956
+  },
+  {
+    "id": 37853,
+    "rank": 69,
+    "adult": 0,
+    "title": "Mister Roberts",
+    "tvdbid": null,
+    "imdb_id": "tt0048380",
+    "mediatype": "movie",
+    "release_year": 1955
+  },
+  {
+    "id": 34689,
+    "rank": 70,
+    "adult": 0,
+    "title": "The Barefoot Contessa",
+    "tvdbid": null,
+    "imdb_id": "tt0046754",
+    "mediatype": "movie",
+    "release_year": 1954
+  },
+  {
+    "id": 11426,
+    "rank": 71,
+    "adult": 0,
+    "title": "From Here to Eternity",
+    "tvdbid": null,
+    "imdb_id": "tt0045793",
+    "mediatype": "movie",
+    "release_year": 1953
+  },
+  {
+    "id": 1810,
+    "rank": 72,
+    "adult": 0,
+    "title": "Viva Zapata!",
+    "tvdbid": null,
+    "imdb_id": "tt0045296",
+    "mediatype": "movie",
+    "release_year": 1952
+  },
+  {
+    "id": 702,
+    "rank": 73,
+    "adult": 0,
+    "title": "A Streetcar Named Desire",
+    "tvdbid": null,
+    "imdb_id": "tt0044081",
+    "mediatype": "movie",
+    "release_year": 1951
+  },
+  {
+    "id": 705,
+    "rank": 74,
+    "adult": 0,
+    "title": "All About Eve",
+    "tvdbid": null,
+    "imdb_id": "tt0042192",
+    "mediatype": "movie",
+    "release_year": 1950
+  },
+  {
+    "id": 15497,
+    "rank": 75,
+    "adult": 0,
+    "title": "Twelve O'Clock High",
+    "tvdbid": null,
+    "imdb_id": "tt0041996",
+    "mediatype": "movie",
+    "release_year": 1949
+  },
+  {
+    "id": 3090,
+    "rank": 76,
+    "adult": 0,
+    "title": "The Treasure of the Sierra Madre",
+    "tvdbid": null,
+    "imdb_id": "tt0040897",
+    "mediatype": "movie",
+    "release_year": 1948
+  },
+  {
+    "id": 11881,
+    "rank": 77,
+    "adult": 0,
+    "title": "Miracle on 34th Street",
+    "tvdbid": null,
+    "imdb_id": "tt0039628",
+    "mediatype": "movie",
+    "release_year": 1947
+  },
+  {
+    "id": 887,
+    "rank": 78,
+    "adult": 0,
+    "title": "The Best Years of Our Lives",
+    "tvdbid": null,
+    "imdb_id": "tt0036868",
+    "mediatype": "movie",
+    "release_year": 1946
+  },
+  {
+    "id": 30177,
+    "rank": 79,
+    "adult": 0,
+    "title": "A Tree Grows in Brooklyn",
+    "tvdbid": null,
+    "imdb_id": "tt0038190",
+    "mediatype": "movie",
+    "release_year": 1945
+  },
+  {
+    "id": 17661,
+    "rank": 80,
+    "adult": 0,
+    "title": "Going My Way",
+    "tvdbid": null,
+    "imdb_id": "tt0036872",
+    "mediatype": "movie",
+    "release_year": 1944
+  },
+  {
+    "id": 80616,
+    "rank": 81,
+    "adult": 0,
+    "title": "The More the Merrier",
+    "tvdbid": null,
+    "imdb_id": "tt0036172",
+    "mediatype": "movie",
+    "release_year": 1943
+  },
+  {
+    "id": 43266,
+    "rank": 82,
+    "adult": 0,
+    "title": "How Green Was My Valley",
+    "tvdbid": null,
+    "imdb_id": "tt0033729",
+    "mediatype": "movie",
+    "release_year": 1941
+  },
+  {
+    "id": 41495,
+    "rank": 83,
+    "adult": 0,
+    "title": "Johnny Eager",
+    "tvdbid": null,
+    "imdb_id": "tt0033774",
+    "mediatype": "movie",
+    "release_year": 1941
+  },
+  {
+    "id": 14710,
+    "rank": 84,
+    "adult": 0,
+    "title": "The Westerner",
+    "tvdbid": null,
+    "imdb_id": "tt0033253",
+    "mediatype": "movie",
+    "release_year": 1940
+  },
+  {
+    "id": 995,
+    "rank": 85,
+    "adult": 0,
+    "title": "Stagecoach",
+    "tvdbid": null,
+    "imdb_id": "tt0031971",
+    "mediatype": "movie",
+    "release_year": 1939
+  },
+  {
+    "id": 118889,
+    "rank": 86,
+    "adult": 0,
+    "title": "Kentucky",
+    "tvdbid": null,
+    "imdb_id": "tt0030317",
+    "mediatype": "movie",
+    "release_year": 1938
+  },
+  {
+    "id": 43278,
+    "rank": 87,
+    "adult": 0,
+    "title": "The Life of Emile Zola",
+    "tvdbid": null,
+    "imdb_id": "tt0029146",
+    "mediatype": "movie",
+    "release_year": 1937
+  },
+  {
+    "id": 93313,
+    "rank": 88,
+    "adult": 0,
+    "title": "Come and Get It",
+    "tvdbid": null,
+    "imdb_id": "tt0027459",
+    "mediatype": "movie",
+    "release_year": 1936
+  }
+]
