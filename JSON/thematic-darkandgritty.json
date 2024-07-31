@@ -1,0 +1,202 @@
+[
+  {
+    "id": 807,
+    "rank": 1,
+    "adult": 0,
+    "title": "Se7en",
+    "tvdbid": null,
+    "imdb_id": "tt0114369",
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 146233,
+    "rank": 2,
+    "adult": 0,
+    "title": "Prisoners",
+    "tvdbid": null,
+    "imdb_id": "tt1392214",
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 210577,
+    "rank": 3,
+    "adult": 0,
+    "title": "Gone Girl",
+    "tvdbid": null,
+    "imdb_id": "tt2267998",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 1949,
+    "rank": 4,
+    "adult": 0,
+    "title": "Zodiac",
+    "tvdbid": null,
+    "imdb_id": "tt0443706",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 242582,
+    "rank": 5,
+    "adult": 0,
+    "title": "Nightcrawler",
+    "tvdbid": null,
+    "imdb_id": "tt2872718",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 65754,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Girl with the Dragon Tattoo",
+    "tvdbid": null,
+    "imdb_id": "tt1568346",
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 15472,
+    "rank": 7,
+    "adult": 0,
+    "title": "The Girl with the Dragon Tattoo",
+    "tvdbid": null,
+    "imdb_id": "tt1132620",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 670,
+    "rank": 8,
+    "adult": 0,
+    "title": "Oldboy",
+    "tvdbid": null,
+    "imdb_id": "tt0364569",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 64690,
+    "rank": 9,
+    "adult": 0,
+    "title": "Drive",
+    "tvdbid": null,
+    "imdb_id": "tt0780504",
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 6977,
+    "rank": 10,
+    "adult": 0,
+    "title": "No Country for Old Men",
+    "tvdbid": null,
+    "imdb_id": "tt0477348",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 322,
+    "rank": 11,
+    "adult": 0,
+    "title": "Mystic River",
+    "tvdbid": null,
+    "imdb_id": "tt0327056",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 187,
+    "rank": 12,
+    "adult": 0,
+    "title": "Sin City",
+    "tvdbid": null,
+    "imdb_id": "tt0401792",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 1422,
+    "rank": 13,
+    "adult": 0,
+    "title": "The Departed",
+    "tvdbid": null,
+    "imdb_id": "tt0407887",
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 273481,
+    "rank": 14,
+    "adult": 0,
+    "title": "Sicario",
+    "tvdbid": null,
+    "imdb_id": "tt3397884",
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 949,
+    "rank": 15,
+    "adult": 0,
+    "title": "Heat",
+    "tvdbid": null,
+    "imdb_id": "tt0113277",
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 77,
+    "rank": 16,
+    "adult": 0,
+    "title": "Memento",
+    "tvdbid": null,
+    "imdb_id": "tt0209144",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 78,
+    "rank": 17,
+    "adult": 0,
+    "title": "Blade Runner",
+    "tvdbid": null,
+    "imdb_id": "tt0083658",
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 335984,
+    "rank": 18,
+    "adult": 0,
+    "title": "Blade Runner 2049",
+    "tvdbid": null,
+    "imdb_id": "tt1856101",
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 274,
+    "rank": 19,
+    "adult": 0,
+    "title": "The Silence of the Lambs",
+    "tvdbid": null,
+    "imdb_id": "tt0102926",
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 11423,
+    "rank": 20,
+    "adult": 0,
+    "title": "Memories of Murder",
+    "tvdbid": null,
+    "imdb_id": "tt0353969",
+    "mediatype": "movie",
+    "release_year": 2003
+  }
+]

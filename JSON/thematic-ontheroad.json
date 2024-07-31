@@ -1,0 +1,222 @@
+[
+  {
+    "id": 773,
+    "rank": 1,
+    "adult": 0,
+    "title": "Little Miss Sunshine",
+    "tvdbid": null,
+    "imdb_id": "tt0449059",
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 380,
+    "rank": 2,
+    "adult": 0,
+    "title": "Rain Man",
+    "tvdbid": null,
+    "imdb_id": "tt0095953",
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 490132,
+    "rank": 3,
+    "adult": 0,
+    "title": "Green Book",
+    "tvdbid": null,
+    "imdb_id": "tt6966692",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 9675,
+    "rank": 4,
+    "adult": 0,
+    "title": "Sideways",
+    "tvdbid": null,
+    "imdb_id": "tt0375063",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 4538,
+    "rank": 5,
+    "adult": 0,
+    "title": "The Darjeeling Limited",
+    "tvdbid": null,
+    "imdb_id": "tt0838221",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 5683,
+    "rank": 6,
+    "adult": 0,
+    "title": "Pee-wee's Big Adventure",
+    "tvdbid": null,
+    "imdb_id": "tt0089791",
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 8467,
+    "rank": 7,
+    "adult": 0,
+    "title": "Dumb and Dumber",
+    "tvdbid": null,
+    "imdb_id": "tt0109686",
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 11153,
+    "rank": 8,
+    "adult": 0,
+    "title": "National Lampoon's Vacation",
+    "tvdbid": null,
+    "imdb_id": "tt0085995",
+    "mediatype": "movie",
+    "release_year": 1983
+  },
+  {
+    "id": 2609,
+    "rank": 9,
+    "adult": 0,
+    "title": "Planes Trains and Automobiles",
+    "tvdbid": null,
+    "imdb_id": "tt0093748",
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 9285,
+    "rank": 10,
+    "adult": 0,
+    "title": "Road Trip",
+    "tvdbid": null,
+    "imdb_id": "tt0215129",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 786,
+    "rank": 11,
+    "adult": 0,
+    "title": "Almost Famous",
+    "tvdbid": null,
+    "imdb_id": "tt0181875",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 228970,
+    "rank": 12,
+    "adult": 0,
+    "title": "Wild",
+    "tvdbid": null,
+    "imdb_id": "tt2305051",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 5915,
+    "rank": 13,
+    "adult": 0,
+    "title": "Into the Wild",
+    "tvdbid": null,
+    "imdb_id": "tt0758758",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 371645,
+    "rank": 14,
+    "adult": 0,
+    "title": "Hunt for the Wilderpeople",
+    "tvdbid": null,
+    "imdb_id": "tt4698684",
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 1653,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Motorcycle Diaries",
+    "tvdbid": null,
+    "imdb_id": "tt0318462",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 7453,
+    "rank": 16,
+    "adult": 0,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "tvdbid": null,
+    "imdb_id": "tt0371724",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 17130,
+    "rank": 17,
+    "adult": 0,
+    "title": "Crossroads",
+    "tvdbid": null,
+    "imdb_id": "tt0275022",
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 1541,
+    "rank": 18,
+    "adult": 0,
+    "title": "Thelma & Louise",
+    "tvdbid": null,
+    "imdb_id": "tt0103074",
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 624,
+    "rank": 19,
+    "adult": 0,
+    "title": "Easy Rider",
+    "tvdbid": null,
+    "imdb_id": "tt0064276",
+    "mediatype": "movie",
+    "release_year": 1969
+  },
+  {
+    "id": 19908,
+    "rank": 20,
+    "adult": 0,
+    "title": "Zombieland",
+    "tvdbid": null,
+    "imdb_id": "tt1156398",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 76341,
+    "rank": 21,
+    "adult": 0,
+    "title": "Mad Max: Fury Road",
+    "tvdbid": null,
+    "imdb_id": "tt1392190",
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 838,
+    "rank": 22,
+    "adult": 0,
+    "title": "American Graffiti",
+    "tvdbid": null,
+    "imdb_id": "tt0069704",
+    "mediatype": "movie",
+    "release_year": 1973
+  }
+]

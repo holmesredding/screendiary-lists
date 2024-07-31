@@ -1,0 +1,26 @@
+id,rank,adult,title,tvdbid,imdb_id,mediatype,release_year
+967,1,0,Spartacus,,tt0054331,movie,1960
+665,2,0,Ben-Hur,,tt0052618,movie,1959
+6844,3,0,The Ten Commandments,,tt0049833,movie,1956
+615,4,0,The Passion of the Christ,,tt0335345,movie,2004
+17277,5,0,The Fall of the Roman Empire,,tt0058085,movie,1964
+98,6,0,Gladiator,,tt0172495,movie,2000
+1941,7,0,Exodus,,tt0053804,movie,1960
+1579,8,0,Apocalypto,,tt0472043,movie,2006
+1271,9,0,300,,tt0416449,movie,2007
+16638,10,0,El Cid,,tt0054847,movie,1961
+874,11,0,A Man for All Seasons,,tt0060665,movie,1966
+197,12,0,Braveheart,,tt0112573,movie,1995
+1495,13,0,Kingdom of Heaven,,tt0320661,movie,2005
+3175,14,0,Barry Lyndon,,tt0072684,movie,1975
+9361,15,0,The Last of the Mohicans,,tt0104691,movie,1992
+746,16,0,The Last Emperor,,tt0093389,movie,1987
+947,17,0,Lawrence of Arabia,,tt0056172,movie,1962
+770,18,0,Gone with the Wind,,tt0031381,movie,1939
+581,19,0,Dances with Wolves,,tt0099348,movie,1990
+279,20,0,Amadeus,,tt0086879,movie,1984
+907,21,0,Doctor Zhivago,,tt0059113,movie,1965
+826,22,0,The Bridge on the River Kwai,,tt0050212,movie,1957
+424,23,0,Schindler's List,,tt0108052,movie,1993
+597,24,0,Titanic,,tt0120338,movie,1997
+871,25,0,Planet of the Apes,,tt0063442,movie,1968

@@ -1,0 +1,252 @@
+[
+  {
+    "id": 967,
+    "rank": 1,
+    "adult": 0,
+    "title": "Spartacus",
+    "tvdbid": null,
+    "imdb_id": "tt0054331",
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 665,
+    "rank": 2,
+    "adult": 0,
+    "title": "Ben-Hur",
+    "tvdbid": null,
+    "imdb_id": "tt0052618",
+    "mediatype": "movie",
+    "release_year": 1959
+  },
+  {
+    "id": 6844,
+    "rank": 3,
+    "adult": 0,
+    "title": "The Ten Commandments",
+    "tvdbid": null,
+    "imdb_id": "tt0049833",
+    "mediatype": "movie",
+    "release_year": 1956
+  },
+  {
+    "id": 615,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Passion of the Christ",
+    "tvdbid": null,
+    "imdb_id": "tt0335345",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 17277,
+    "rank": 5,
+    "adult": 0,
+    "title": "The Fall of the Roman Empire",
+    "tvdbid": null,
+    "imdb_id": "tt0058085",
+    "mediatype": "movie",
+    "release_year": 1964
+  },
+  {
+    "id": 98,
+    "rank": 6,
+    "adult": 0,
+    "title": "Gladiator",
+    "tvdbid": null,
+    "imdb_id": "tt0172495",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 1941,
+    "rank": 7,
+    "adult": 0,
+    "title": "Exodus",
+    "tvdbid": null,
+    "imdb_id": "tt0053804",
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 1579,
+    "rank": 8,
+    "adult": 0,
+    "title": "Apocalypto",
+    "tvdbid": null,
+    "imdb_id": "tt0472043",
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 1271,
+    "rank": 9,
+    "adult": 0,
+    "title": 300,
+    "tvdbid": null,
+    "imdb_id": "tt0416449",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 16638,
+    "rank": 10,
+    "adult": 0,
+    "title": "El Cid",
+    "tvdbid": null,
+    "imdb_id": "tt0054847",
+    "mediatype": "movie",
+    "release_year": 1961
+  },
+  {
+    "id": 874,
+    "rank": 11,
+    "adult": 0,
+    "title": "A Man for All Seasons",
+    "tvdbid": null,
+    "imdb_id": "tt0060665",
+    "mediatype": "movie",
+    "release_year": 1966
+  },
+  {
+    "id": 197,
+    "rank": 12,
+    "adult": 0,
+    "title": "Braveheart",
+    "tvdbid": null,
+    "imdb_id": "tt0112573",
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 1495,
+    "rank": 13,
+    "adult": 0,
+    "title": "Kingdom of Heaven",
+    "tvdbid": null,
+    "imdb_id": "tt0320661",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 3175,
+    "rank": 14,
+    "adult": 0,
+    "title": "Barry Lyndon",
+    "tvdbid": null,
+    "imdb_id": "tt0072684",
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 9361,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Last of the Mohicans",
+    "tvdbid": null,
+    "imdb_id": "tt0104691",
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 746,
+    "rank": 16,
+    "adult": 0,
+    "title": "The Last Emperor",
+    "tvdbid": null,
+    "imdb_id": "tt0093389",
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 947,
+    "rank": 17,
+    "adult": 0,
+    "title": "Lawrence of Arabia",
+    "tvdbid": null,
+    "imdb_id": "tt0056172",
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 770,
+    "rank": 18,
+    "adult": 0,
+    "title": "Gone with the Wind",
+    "tvdbid": null,
+    "imdb_id": "tt0031381",
+    "mediatype": "movie",
+    "release_year": 1939
+  },
+  {
+    "id": 581,
+    "rank": 19,
+    "adult": 0,
+    "title": "Dances with Wolves",
+    "tvdbid": null,
+    "imdb_id": "tt0099348",
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 279,
+    "rank": 20,
+    "adult": 0,
+    "title": "Amadeus",
+    "tvdbid": null,
+    "imdb_id": "tt0086879",
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 907,
+    "rank": 21,
+    "adult": 0,
+    "title": "Doctor Zhivago",
+    "tvdbid": null,
+    "imdb_id": "tt0059113",
+    "mediatype": "movie",
+    "release_year": 1965
+  },
+  {
+    "id": 826,
+    "rank": 22,
+    "adult": 0,
+    "title": "The Bridge on the River Kwai",
+    "tvdbid": null,
+    "imdb_id": "tt0050212",
+    "mediatype": "movie",
+    "release_year": 1957
+  },
+  {
+    "id": 424,
+    "rank": 23,
+    "adult": 0,
+    "title": "Schindler's List",
+    "tvdbid": null,
+    "imdb_id": "tt0108052",
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 597,
+    "rank": 24,
+    "adult": 0,
+    "title": "Titanic",
+    "tvdbid": null,
+    "imdb_id": "tt0120338",
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 871,
+    "rank": 25,
+    "adult": 0,
+    "title": "Planet of the Apes",
+    "tvdbid": null,
+    "imdb_id": "tt0063442",
+    "mediatype": "movie",
+    "release_year": 1968
+  }
+]

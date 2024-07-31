@@ -1,0 +1,602 @@
+[
+  {
+    "id": 9479,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Nightmare Before Christmas",
+    "tvdbid": null,
+    "imdb_id": "tt0107688",
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 62214,
+    "rank": 2,
+    "adult": 0,
+    "title": "Frankenweenie",
+    "tvdbid": null,
+    "imdb_id": "tt1142977",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 76492,
+    "rank": 3,
+    "adult": 0,
+    "title": "Hotel Transylvania",
+    "tvdbid": null,
+    "imdb_id": "tt0837562",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 8839,
+    "rank": 4,
+    "adult": 0,
+    "title": "Casper",
+    "tvdbid": null,
+    "imdb_id": "tt0112642",
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 533,
+    "rank": 5,
+    "adult": 0,
+    "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "tvdbid": null,
+    "imdb_id": "tt0312004",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 170687,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Boxtrolls",
+    "tvdbid": null,
+    "imdb_id": "tt0787474",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 77174,
+    "rank": 7,
+    "adult": 0,
+    "title": "ParaNorman",
+    "tvdbid": null,
+    "imdb_id": "tt1623288",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 3933,
+    "rank": 8,
+    "adult": 0,
+    "title": "Corpse Bride",
+    "tvdbid": null,
+    "imdb_id": "tt0121164",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 2907,
+    "rank": 9,
+    "adult": 0,
+    "title": "The Addams Family",
+    "tvdbid": null,
+    "imdb_id": "tt0101272",
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 24100,
+    "rank": 10,
+    "adult": 0,
+    "title": "The Little Vampire",
+    "tvdbid": null,
+    "imdb_id": "tt0192255",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 481084,
+    "rank": 11,
+    "adult": 0,
+    "title": "The Addams Family",
+    "tvdbid": null,
+    "imdb_id": "tt1620981",
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 10166,
+    "rank": 12,
+    "adult": 0,
+    "title": "The Witches",
+    "tvdbid": null,
+    "imdb_id": "tt0100944",
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 9637,
+    "rank": 13,
+    "adult": 0,
+    "title": "Scooby-Doo",
+    "tvdbid": null,
+    "imdb_id": "tt0267913",
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 257445,
+    "rank": 14,
+    "adult": 0,
+    "title": "Goosebumps",
+    "tvdbid": null,
+    "imdb_id": "tt1051904",
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 9297,
+    "rank": 15,
+    "adult": 0,
+    "title": "Monster House",
+    "tvdbid": null,
+    "imdb_id": "tt0385880",
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 13155,
+    "rank": 16,
+    "adult": 0,
+    "title": "Return to Oz",
+    "tvdbid": null,
+    "imdb_id": "tt0089908",
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 10439,
+    "rank": 17,
+    "adult": 0,
+    "title": "Hocus Pocus",
+    "tvdbid": null,
+    "imdb_id": "tt0107120",
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 10756,
+    "rank": 18,
+    "adult": 0,
+    "title": "The Haunted Mansion",
+    "tvdbid": null,
+    "imdb_id": "tt0338094",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 642885,
+    "rank": 19,
+    "adult": 0,
+    "title": "Hocus Pocus 2",
+    "tvdbid": null,
+    "imdb_id": "tt11909878",
+    "mediatype": "movie",
+    "release_year": 2022
+  },
+  {
+    "id": 616747,
+    "rank": 20,
+    "adult": 0,
+    "title": "Haunted Mansion",
+    "tvdbid": null,
+    "imdb_id": "tt1695843",
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 13509,
+    "rank": 21,
+    "adult": 0,
+    "title": "The Monster Squad",
+    "tvdbid": null,
+    "imdb_id": "tt0093560",
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 826914,
+    "rank": 22,
+    "adult": 0,
+    "title": "Muppets Haunted Mansion",
+    "tvdbid": null,
+    "imdb_id": "tt14602326",
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 601,
+    "rank": 23,
+    "adult": 0,
+    "title": "E.T. the Extra-Terrestrial",
+    "tvdbid": null,
+    "imdb_id": "tt0083866",
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 620,
+    "rank": 24,
+    "adult": 0,
+    "title": "Ghostbusters",
+    "tvdbid": null,
+    "imdb_id": "tt0087332",
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 10776,
+    "rank": 25,
+    "adult": 0,
+    "title": "Little Shop of Horrors",
+    "tvdbid": null,
+    "imdb_id": "tt0091419",
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 10779,
+    "rank": 26,
+    "adult": 0,
+    "title": "The Frighteners",
+    "tvdbid": null,
+    "imdb_id": "tt0116365",
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 4011,
+    "rank": 27,
+    "adult": 0,
+    "title": "Beetlejuice",
+    "tvdbid": null,
+    "imdb_id": "tt0094721",
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 9100,
+    "rank": 28,
+    "adult": 0,
+    "title": "The Craft",
+    "tvdbid": null,
+    "imdb_id": "tt0115963",
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 9374,
+    "rank": 29,
+    "adult": 0,
+    "title": "Death Becomes Her",
+    "tvdbid": null,
+    "imdb_id": "tt0104070",
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 2668,
+    "rank": 30,
+    "adult": 0,
+    "title": "Sleepy Hollow",
+    "tvdbid": null,
+    "imdb_id": "tt0162661",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 13597,
+    "rank": 31,
+    "adult": 0,
+    "title": "Labyrinth",
+    "tvdbid": null,
+    "imdb_id": "tt0091369",
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 9362,
+    "rank": 32,
+    "adult": 0,
+    "title": "Tremors",
+    "tvdbid": null,
+    "imdb_id": "tt0100814",
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 747,
+    "rank": 33,
+    "adult": 0,
+    "title": "Shaun of the Dead",
+    "tvdbid": null,
+    "imdb_id": "tt0365748",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 6435,
+    "rank": 34,
+    "adult": 0,
+    "title": "Practical Magic",
+    "tvdbid": null,
+    "imdb_id": "tt0120791",
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 945729,
+    "rank": 35,
+    "adult": 0,
+    "title": "A Haunting in Venice",
+    "tvdbid": null,
+    "imdb_id": "tt22687790",
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 310131,
+    "rank": 36,
+    "adult": 0,
+    "title": "The Witch",
+    "tvdbid": null,
+    "imdb_id": "tt4263482",
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 609,
+    "rank": 37,
+    "adult": 0,
+    "title": "Poltergeist",
+    "tvdbid": null,
+    "imdb_id": "tt0084516",
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 447332,
+    "rank": 38,
+    "adult": 0,
+    "title": "A Quiet Place",
+    "tvdbid": null,
+    "imdb_id": "tt6644200",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 539,
+    "rank": 39,
+    "adult": 0,
+    "title": "Psycho",
+    "tvdbid": null,
+    "imdb_id": "tt0054215",
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 565,
+    "rank": 40,
+    "adult": 0,
+    "title": "The Ring",
+    "tvdbid": null,
+    "imdb_id": "tt0298130",
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 2667,
+    "rank": 41,
+    "adult": 0,
+    "title": "The Blair Witch Project",
+    "tvdbid": null,
+    "imdb_id": "tt0185937",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 493922,
+    "rank": 42,
+    "adult": 0,
+    "title": "Hereditary",
+    "tvdbid": null,
+    "imdb_id": "tt7784604",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 138843,
+    "rank": 43,
+    "adult": 0,
+    "title": "The Conjuring",
+    "tvdbid": null,
+    "imdb_id": "tt1457767",
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 242224,
+    "rank": 44,
+    "adult": 0,
+    "title": "The Babadook",
+    "tvdbid": null,
+    "imdb_id": "tt2321549",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 1008042,
+    "rank": 45,
+    "adult": 0,
+    "title": "Talk to Me",
+    "tvdbid": null,
+    "imdb_id": "tt10638522",
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 23827,
+    "rank": 46,
+    "adult": 0,
+    "title": "Paranormal Activity",
+    "tvdbid": null,
+    "imdb_id": "tt1179904",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 6114,
+    "rank": 47,
+    "adult": 0,
+    "title": "Bram Stoker's Dracula",
+    "tvdbid": null,
+    "imdb_id": "tt0103874",
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 694,
+    "rank": 48,
+    "adult": 0,
+    "title": "The Shining",
+    "tvdbid": null,
+    "imdb_id": "tt0081505",
+    "mediatype": "movie",
+    "release_year": 1980
+  },
+  {
+    "id": 346364,
+    "rank": 49,
+    "adult": 0,
+    "title": "It",
+    "tvdbid": null,
+    "imdb_id": "tt1396484",
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 948,
+    "rank": 50,
+    "adult": 0,
+    "title": "Halloween",
+    "tvdbid": null,
+    "imdb_id": "tt0077651",
+    "mediatype": "movie",
+    "release_year": 1978
+  },
+  {
+    "id": 9730,
+    "rank": 51,
+    "adult": 0,
+    "title": "Friday the 13th: The Final Chapter",
+    "tvdbid": null,
+    "imdb_id": "tt0087298",
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 377,
+    "rank": 52,
+    "adult": 0,
+    "title": "A Nightmare on Elm Street",
+    "tvdbid": null,
+    "imdb_id": "tt0087800",
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 4232,
+    "rank": 53,
+    "adult": 0,
+    "title": "Scream",
+    "tvdbid": null,
+    "imdb_id": "tt0117571",
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 348,
+    "rank": 54,
+    "adult": 0,
+    "title": "Alien",
+    "tvdbid": null,
+    "imdb_id": "tt0078748",
+    "mediatype": "movie",
+    "release_year": 1979
+  },
+  {
+    "id": 814,
+    "rank": 55,
+    "adult": 0,
+    "title": "An American Werewolf in London",
+    "tvdbid": null,
+    "imdb_id": "tt0082010",
+    "mediatype": "movie",
+    "release_year": 1981
+  },
+  {
+    "id": 419430,
+    "rank": 56,
+    "adult": 0,
+    "title": "Get Out",
+    "tvdbid": null,
+    "imdb_id": "tt5052448",
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 23202,
+    "rank": 57,
+    "adult": 0,
+    "title": "Trick 'r Treat",
+    "tvdbid": null,
+    "imdb_id": "tt0862856",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 440021,
+    "rank": 58,
+    "adult": 0,
+    "title": "Happy Death Day",
+    "tvdbid": null,
+    "imdb_id": "tt5308322",
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 9003,
+    "rank": 59,
+    "adult": 0,
+    "title": "Hellraiser",
+    "tvdbid": null,
+    "imdb_id": "tt0093177",
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 9552,
+    "rank": 60,
+    "adult": 0,
+    "title": "The Exorcist",
+    "tvdbid": null,
+    "imdb_id": "tt0070047",
+    "mediatype": "movie",
+    "release_year": 1973
+  }
+]

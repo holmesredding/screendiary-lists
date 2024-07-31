@@ -1,0 +1,462 @@
+[
+  {
+    "id": 51052,
+    "rank": 1,
+    "adult": 0,
+    "title": "Arthur Christmas",
+    "tvdbid": null,
+    "imdb_id": "tt1430607",
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 508965,
+    "rank": 2,
+    "adult": 0,
+    "title": "Klaus",
+    "tvdbid": null,
+    "imdb_id": "tt4729430",
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 5255,
+    "rank": 3,
+    "adult": 0,
+    "title": "The Polar Express",
+    "tvdbid": null,
+    "imdb_id": "tt0338348",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 109445,
+    "rank": 4,
+    "adult": 0,
+    "title": "Frozen",
+    "tvdbid": null,
+    "imdb_id": "tt2294629",
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 11395,
+    "rank": 5,
+    "adult": 0,
+    "title": "The Santa Clause",
+    "tvdbid": null,
+    "imdb_id": "tt0111070",
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 10437,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Muppet Christmas Carol",
+    "tvdbid": null,
+    "imdb_id": "tt0104940",
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 771,
+    "rank": 7,
+    "adult": 0,
+    "title": "Home Alone",
+    "tvdbid": null,
+    "imdb_id": "tt0099785",
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 10719,
+    "rank": 8,
+    "adult": 0,
+    "title": "Elf",
+    "tvdbid": null,
+    "imdb_id": "tt0319343",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 9279,
+    "rank": 9,
+    "adult": 0,
+    "title": "Jingle All the Way",
+    "tvdbid": null,
+    "imdb_id": "tt0116705",
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 772,
+    "rank": 10,
+    "adult": 0,
+    "title": "Home Alone 2: Lost in New York",
+    "tvdbid": null,
+    "imdb_id": "tt0104431",
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 527435,
+    "rank": 11,
+    "adult": 0,
+    "title": "The Christmas Chronicles",
+    "tvdbid": null,
+    "imdb_id": "tt2990140",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 8871,
+    "rank": 12,
+    "adult": 0,
+    "title": "How the Grinch Stole Christmas",
+    "tvdbid": null,
+    "imdb_id": "tt0170016",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 454467,
+    "rank": 13,
+    "adult": 0,
+    "title": "Noelle",
+    "tvdbid": null,
+    "imdb_id": "tt5097410",
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 360920,
+    "rank": 14,
+    "adult": 0,
+    "title": "The Grinch",
+    "tvdbid": null,
+    "imdb_id": "tt2709692",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 17037,
+    "rank": 15,
+    "adult": 0,
+    "title": "I'll Be Home for Christmas",
+    "tvdbid": null,
+    "imdb_id": "tt0155753",
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 13377,
+    "rank": 16,
+    "adult": 0,
+    "title": "How the Grinch Stole Christmas!",
+    "tvdbid": null,
+    "imdb_id": "tt0060345",
+    "mediatype": "movie",
+    "release_year": 1966
+  },
+  {
+    "id": 850,
+    "rank": 17,
+    "adult": 0,
+    "title": "A Christmas Story",
+    "tvdbid": null,
+    "imdb_id": "tt0085334",
+    "mediatype": "movie",
+    "release_year": 1983
+  },
+  {
+    "id": 5825,
+    "rank": 18,
+    "adult": 0,
+    "title": "National Lampoon's Christmas Vacation",
+    "tvdbid": null,
+    "imdb_id": "tt0097958",
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 13673,
+    "rank": 19,
+    "adult": 0,
+    "title": "Christmas with the Kranks",
+    "tvdbid": null,
+    "imdb_id": "tt0388419",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 15566,
+    "rank": 20,
+    "adult": 0,
+    "title": "Surviving Christmas",
+    "tvdbid": null,
+    "imdb_id": "tt0252028",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 1581,
+    "rank": 21,
+    "adult": 0,
+    "title": "The Holiday",
+    "tvdbid": null,
+    "imdb_id": "tt0457939",
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 508,
+    "rank": 22,
+    "adult": 0,
+    "title": "Love Actually",
+    "tvdbid": null,
+    "imdb_id": "tt0314331",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 549053,
+    "rank": 23,
+    "adult": 0,
+    "title": "Last Christmas",
+    "tvdbid": null,
+    "imdb_id": "tt8623904",
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 520172,
+    "rank": 24,
+    "adult": 0,
+    "title": "Happiest Season",
+    "tvdbid": null,
+    "imdb_id": "tt8522006",
+    "mediatype": "movie",
+    "release_year": 2020
+  },
+  {
+    "id": 20334,
+    "rank": 25,
+    "adult": 0,
+    "title": "The Shop Around the Corner",
+    "tvdbid": null,
+    "imdb_id": "tt0033045",
+    "mediatype": "movie",
+    "release_year": 1940
+  },
+  {
+    "id": 11881,
+    "rank": 26,
+    "adult": 0,
+    "title": "Miracle on 34th Street",
+    "tvdbid": null,
+    "imdb_id": "tt0039628",
+    "mediatype": "movie",
+    "release_year": 1947
+  },
+  {
+    "id": 13669,
+    "rank": 27,
+    "adult": 0,
+    "title": "Christmas in Connecticut",
+    "tvdbid": null,
+    "imdb_id": "tt0037595",
+    "mediatype": "movie",
+    "release_year": 1945
+  },
+  {
+    "id": 909,
+    "rank": 28,
+    "adult": 0,
+    "title": "Meet Me in St. Louis",
+    "tvdbid": null,
+    "imdb_id": "tt0037059",
+    "mediatype": "movie",
+    "release_year": 1944
+  },
+  {
+    "id": 13368,
+    "rank": 29,
+    "adult": 0,
+    "title": "White Christmas",
+    "tvdbid": null,
+    "imdb_id": "tt0047673",
+    "mediatype": "movie",
+    "release_year": 1954
+  },
+  {
+    "id": 1585,
+    "rank": 30,
+    "adult": 0,
+    "title": "It's a Wonderful Life",
+    "tvdbid": null,
+    "imdb_id": "tt0038650",
+    "mediatype": "movie",
+    "release_year": 1946
+  },
+  {
+    "id": 331482,
+    "rank": 31,
+    "adult": 0,
+    "title": "Little Women",
+    "tvdbid": null,
+    "imdb_id": "tt3281548",
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 13189,
+    "rank": 32,
+    "adult": 0,
+    "title": "A Christmas Carol",
+    "tvdbid": null,
+    "imdb_id": "tt0087056",
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 17979,
+    "rank": 33,
+    "adult": 0,
+    "title": "A Christmas Carol",
+    "tvdbid": null,
+    "imdb_id": "tt1067106",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 9647,
+    "rank": 34,
+    "adult": 0,
+    "title": "Scrooged",
+    "tvdbid": null,
+    "imdb_id": "tt0096061",
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 632856,
+    "rank": 35,
+    "adult": 0,
+    "title": "Spirited",
+    "tvdbid": null,
+    "imdb_id": "tt10999120",
+    "mediatype": "movie",
+    "release_year": 2022
+  },
+  {
+    "id": 11661,
+    "rank": 36,
+    "adult": 0,
+    "title": "Joyeux Noel",
+    "tvdbid": null,
+    "imdb_id": "tt0424205",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 162,
+    "rank": 37,
+    "adult": 0,
+    "title": "Edward Scissorhands",
+    "tvdbid": null,
+    "imdb_id": "tt0099487",
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 296100,
+    "rank": 38,
+    "adult": 0,
+    "title": "The Night Before",
+    "tvdbid": null,
+    "imdb_id": "tt3530002",
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 10147,
+    "rank": 39,
+    "adult": 0,
+    "title": "Bad Santa",
+    "tvdbid": null,
+    "imdb_id": "tt0307987",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 899112,
+    "rank": 40,
+    "adult": 0,
+    "title": "Violent Night",
+    "tvdbid": null,
+    "imdb_id": "tt12003946",
+    "mediatype": "movie",
+    "release_year": 2022
+  },
+  {
+    "id": 287903,
+    "rank": 41,
+    "adult": 0,
+    "title": "Krampus",
+    "tvdbid": null,
+    "imdb_id": "tt3850590",
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 562,
+    "rank": 42,
+    "adult": 0,
+    "title": "Die Hard",
+    "tvdbid": null,
+    "imdb_id": "tt0095016",
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 461928,
+    "rank": 43,
+    "adult": 0,
+    "title": "Anna and the Apocalypse",
+    "tvdbid": null,
+    "imdb_id": "tt6433880",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 364,
+    "rank": 44,
+    "adult": 0,
+    "title": "Batman Returns",
+    "tvdbid": null,
+    "imdb_id": "tt0103776",
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 345,
+    "rank": 45,
+    "adult": 0,
+    "title": "Eyes Wide Shut",
+    "tvdbid": null,
+    "imdb_id": "tt0120663",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 1022964,
+    "rank": 46,
+    "adult": 0,
+    "title": "Candy Cane Lane",
+    "tvdbid": null,
+    "imdb_id": "tt21328106",
+    "mediatype": "movie",
+    "release_year": 2023
+  }
+]

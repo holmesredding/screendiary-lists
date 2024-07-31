@@ -1,0 +1,242 @@
+[
+  {
+    "id": 2323,
+    "rank": 1,
+    "adult": 0,
+    "title": "Field of Dreams",
+    "tvdbid": null,
+    "imdb_id": "tt0097351",
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 11287,
+    "rank": 2,
+    "adult": 0,
+    "title": "A League of Their Own",
+    "tvdbid": null,
+    "imdb_id": "tt0104694",
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 14534,
+    "rank": 3,
+    "adult": 0,
+    "title": "Rudy",
+    "tvdbid": null,
+    "imdb_id": "tt0108002",
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 455,
+    "rank": 4,
+    "adult": 0,
+    "title": "Bend It Like Beckham",
+    "tvdbid": null,
+    "imdb_id": "tt0286499",
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 10637,
+    "rank": 5,
+    "adult": 0,
+    "title": "Remember the Titans",
+    "tvdbid": null,
+    "imdb_id": "tt0210945",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 864,
+    "rank": 6,
+    "adult": 0,
+    "title": "Cool Runnings",
+    "tvdbid": null,
+    "imdb_id": "tt0106611",
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 109410,
+    "rank": 7,
+    "adult": 0,
+    "title": 42,
+    "tvdbid": null,
+    "imdb_id": "tt0453562",
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 22881,
+    "rank": 8,
+    "adult": 0,
+    "title": "The Blind Side",
+    "tvdbid": null,
+    "imdb_id": "tt0878804",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 14292,
+    "rank": 9,
+    "adult": 0,
+    "title": "Miracle",
+    "tvdbid": null,
+    "imdb_id": "tt0349825",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 4464,
+    "rank": 10,
+    "adult": 0,
+    "title": "Seabiscuit",
+    "tvdbid": null,
+    "imdb_id": "tt0329575",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 60308,
+    "rank": 11,
+    "adult": 0,
+    "title": "Moneyball",
+    "tvdbid": null,
+    "imdb_id": "tt1210166",
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 8489,
+    "rank": 12,
+    "adult": 0,
+    "title": "Ali",
+    "tvdbid": null,
+    "imdb_id": "tt0248667",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 1366,
+    "rank": 13,
+    "adult": 0,
+    "title": "Rocky",
+    "tvdbid": null,
+    "imdb_id": "tt0075148",
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 312221,
+    "rank": 14,
+    "adult": 0,
+    "title": "Creed",
+    "tvdbid": null,
+    "imdb_id": "tt3076658",
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 45317,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Fighter",
+    "tvdbid": null,
+    "imdb_id": "tt0964517",
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 70,
+    "rank": 16,
+    "adult": 0,
+    "title": "Million Dollar Baby",
+    "tvdbid": null,
+    "imdb_id": "tt0405159",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 389015,
+    "rank": 17,
+    "adult": 0,
+    "title": "I Tonya",
+    "tvdbid": null,
+    "imdb_id": "tt5580036",
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 59440,
+    "rank": 18,
+    "adult": 0,
+    "title": "Warrior",
+    "tvdbid": null,
+    "imdb_id": "tt1291584",
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 7214,
+    "rank": 19,
+    "adult": 0,
+    "title": "Coach Carter",
+    "tvdbid": null,
+    "imdb_id": "tt0393162",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 5693,
+    "rank": 20,
+    "adult": 0,
+    "title": "Hoosiers",
+    "tvdbid": null,
+    "imdb_id": "tt0091217",
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 9443,
+    "rank": 21,
+    "adult": 0,
+    "title": "Chariots of Fire",
+    "tvdbid": null,
+    "imdb_id": "tt0082158",
+    "mediatype": "movie",
+    "release_year": 1981
+  },
+  {
+    "id": 13416,
+    "rank": 22,
+    "adult": 0,
+    "title": "Friday Night Lights",
+    "tvdbid": null,
+    "imdb_id": "tt0390022",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 12163,
+    "rank": 23,
+    "adult": 0,
+    "title": "The Wrestler",
+    "tvdbid": null,
+    "imdb_id": "tt1125849",
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 22954,
+    "rank": 24,
+    "adult": 0,
+    "title": "Invictus",
+    "tvdbid": null,
+    "imdb_id": "tt1057500",
+    "mediatype": "movie",
+    "release_year": 2009
+  }
+]

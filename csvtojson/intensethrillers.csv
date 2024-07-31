@@ -1,0 +1,35 @@
+id,rank,adult,title,tvdbid,imdb_id,mediatype,release_year
+567,1,0,Rear Window,,tt0047396,movie,1954
+426,2,0,Vertigo,,tt0052357,movie,1958
+1598,3,0,Cape Fear,,tt0101540,movie,1991
+11423,4,0,Memories of Murder,,tt0353969,movie,2003
+2118,5,0,L.A. Confidential,,tt0119488,movie,1997
+745,6,0,The Sixth Sense,,tt0167404,movie,1999
+453,7,0,A Beautiful Mind,,tt0268978,movie,2001
+322,8,0,Mystic River,,tt0327056,movie,2003
+629,9,0,The Usual Suspects,,tt0114814,movie,1995
+77,10,0,Memento,,tt0209144,movie,2000
+210577,11,0,Gone Girl,,tt2267998,movie,2014
+44214,12,0,Black Swan,,tt0947798,movie,2010
+550,13,0,Fight Club,,tt0137523,movie,1999
+15472,14,0,The Girl with the Dragon Tattoo,,tt1132620,movie,2009
+65754,15,0,The Girl with the Dragon Tattoo,,tt1568346,movie,2011
+11324,16,0,Shutter Island,,tt1130884,movie,2010
+146233,17,0,Prisoners,,tt1392214,movie,2013
+1422,18,0,The Departed,,tt0407887,movie,2006
+1949,19,0,Zodiac,,tt0443706,movie,2007
+242582,20,0,Nightcrawler,,tt2872718,movie,2014
+807,21,0,Se7en,,tt0114369,movie,1995
+274,22,0,The Silence of the Lambs,,tt0102926,movie,1991
+6977,23,0,No Country for Old Men,,tt0477348,movie,2007
+64690,24,0,Drive,,tt0780504,movie,2011
+187,25,0,Sin City,,tt0401792,movie,2005
+670,26,0,Oldboy,,tt0364569,movie,2003
+273481,27,0,Sicario,,tt3397884,movie,2015
+949,28,0,Heat,,tt0113277,movie,1995
+27205,29,0,Inception,,tt1375666,movie,2010
+181886,30,0,Enemy,,tt2316411,movie,2014
+78,31,0,Blade Runner,,tt0083658,movie,1982
+335984,32,0,Blade Runner 2049,,tt1856101,movie,2017
+641,33,0,Requiem for a Dream,,tt0180093,movie,2000
+4553,34,0,The Machinist,,tt0361862,movie,2004

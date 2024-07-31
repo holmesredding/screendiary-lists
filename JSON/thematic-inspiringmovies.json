@@ -1,0 +1,202 @@
+[
+  {
+    "id": 278,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Shawshank Redemption",
+    "tvdbid": null,
+    "imdb_id": "tt0111161",
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 453,
+    "rank": 2,
+    "adult": 0,
+    "title": "A Beautiful Mind",
+    "tvdbid": null,
+    "imdb_id": "tt0268978",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 207,
+    "rank": 3,
+    "adult": 0,
+    "title": "Dead Poets Society",
+    "tvdbid": null,
+    "imdb_id": "tt0097165",
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 12405,
+    "rank": 4,
+    "adult": 0,
+    "title": "Slumdog Millionaire",
+    "tvdbid": null,
+    "imdb_id": "tt1010048",
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 1366,
+    "rank": 5,
+    "adult": 0,
+    "title": "Rocky",
+    "tvdbid": null,
+    "imdb_id": "tt0075148",
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 489,
+    "rank": 6,
+    "adult": 0,
+    "title": "Good Will Hunting",
+    "tvdbid": null,
+    "imdb_id": "tt0119217",
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 462,
+    "rank": 7,
+    "adult": 0,
+    "title": "Erin Brockovich",
+    "tvdbid": null,
+    "imdb_id": "tt0195685",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 10637,
+    "rank": 8,
+    "adult": 0,
+    "title": "Remember the Titans",
+    "tvdbid": null,
+    "imdb_id": "tt0210945",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 22881,
+    "rank": 9,
+    "adult": 0,
+    "title": "The Blind Side",
+    "tvdbid": null,
+    "imdb_id": "tt0878804",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 266856,
+    "rank": 10,
+    "adult": 0,
+    "title": "The Theory of Everything",
+    "tvdbid": null,
+    "imdb_id": "tt2980516",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 22954,
+    "rank": 11,
+    "adult": 0,
+    "title": "Invictus",
+    "tvdbid": null,
+    "imdb_id": "tt1057500",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 423,
+    "rank": 12,
+    "adult": 0,
+    "title": "The Pianist",
+    "tvdbid": null,
+    "imdb_id": "tt0253474",
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 87827,
+    "rank": 13,
+    "adult": 0,
+    "title": "Life of Pi",
+    "tvdbid": null,
+    "imdb_id": "tt0454876",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 10312,
+    "rank": 14,
+    "adult": 0,
+    "title": "Patch Adams",
+    "tvdbid": null,
+    "imdb_id": "tt0129290",
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 497,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Green Mile",
+    "tvdbid": null,
+    "imdb_id": "tt0120689",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 44115,
+    "rank": 16,
+    "adult": 0,
+    "title": "127 Hours",
+    "tvdbid": null,
+    "imdb_id": "tt1542344",
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 12837,
+    "rank": 17,
+    "adult": 0,
+    "title": "The Secret Life of Bees",
+    "tvdbid": null,
+    "imdb_id": "tt0416212",
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 13466,
+    "rank": 18,
+    "adult": 0,
+    "title": "October Sky",
+    "tvdbid": null,
+    "imdb_id": "tt0132477",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 43959,
+    "rank": 19,
+    "adult": 0,
+    "title": "Soul Surfer",
+    "tvdbid": null,
+    "imdb_id": "tt1596346",
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 10376,
+    "rank": 20,
+    "adult": 0,
+    "title": "The Legend of 1900",
+    "tvdbid": null,
+    "imdb_id": "tt0120731",
+    "mediatype": "movie",
+    "release_year": 1998
+  }
+]

@@ -1,0 +1,98 @@
+id,rank,adult,title,tvdbid,imdb_id,mediatype,release_year
+872585,1,0,Oppenheimer,,tt15398776,movie,2023
+545611,2,0,Everything Everywhere All at Once,,tt6710474,movie,2022
+600583,3,0,The Power of the Dog,,tt10293406,movie,2021
+581734,4,0,Nomadland,,tt9770150,movie,2021
+496243,5,0,Parasite,,tt6751668,movie,2019
+426426,6,0,Roma,,tt6155172,movie,2018
+399055,7,0,The Shape of Water,,tt5580390,movie,2017
+313369,8,0,La La Land,,tt3783958,movie,2016
+281957,9,0,The Revenant,,tt1663202,movie,2015
+194662,10,0,Birdman or (The Unexpected Virtue of Ignorance),,tt2562232,movie,2014
+49047,11,0,Gravity,,tt1454468,movie,2013
+87827,12,0,Life of Pi,,tt0454876,movie,2012
+74643,13,0,The Artist,,tt1655442,movie,2011
+45269,14,0,The King's Speech,,tt1504320,movie,2010
+12405,15,0,Slumdog Millionaire,,tt1010048,movie,2008
+12162,16,0,The Hurt Locker,,tt0887912,movie,2008
+6977,17,0,No Country for Old Men,,tt0477348,movie,2007
+1422,18,0,The Departed,,tt0407887,movie,2006
+142,19,0,Brokeback Mountain,,tt0388795,movie,2005
+70,20,0,Million Dollar Baby,,tt0405159,movie,2004
+122,21,0,The Lord of the Rings: The Return of the King,,tt0167260,movie,2003
+423,22,0,The Pianist,,tt0253474,movie,2002
+453,23,0,A Beautiful Mind,,tt0268978,movie,2001
+1900,24,0,Traffic,,tt0181865,movie,2000
+14,25,0,American Beauty,,tt0169547,movie,1999
+857,26,0,Saving Private Ryan,,tt0120815,movie,1998
+597,27,0,Titanic,,tt0120338,movie,1997
+409,28,0,The English Patient,,tt0116209,movie,1996
+197,29,0,Braveheart,,tt0112573,movie,1995
+13,30,0,Forrest Gump,,tt0109830,movie,1994
+424,31,0,Schindler's List,,tt0108052,movie,1993
+33,32,0,Unforgiven,,tt0105695,movie,1992
+274,33,0,The Silence of the Lambs,,tt0102926,movie,1991
+581,34,0,Dances with Wolves,,tt0099348,movie,1990
+2604,35,0,Born on the Fourth of July,,tt0096969,movie,1989
+380,36,0,Rain Man,,tt0095953,movie,1988
+746,37,0,The Last Emperor,,tt0093389,movie,1987
+792,38,0,Platoon,,tt0091763,movie,1986
+606,39,0,Out of Africa,,tt0089755,movie,1985
+279,40,0,Amadeus,,tt0086879,movie,1984
+11050,41,0,Terms of Endearment,,tt0086425,movie,1983
+783,42,0,Gandhi,,tt0083987,movie,1982
+18254,43,0,Reds,,tt0082979,movie,1981
+16619,44,0,Ordinary People,,tt0081283,movie,1980
+12102,45,0,Kramer vs. Kramer,,tt0079417,movie,1979
+11778,46,0,The Deer Hunter,,tt0077416,movie,1978
+703,47,0,Annie Hall,,tt0075686,movie,1977
+1366,48,0,Rocky,,tt0075148,movie,1976
+510,49,0,One Flew Over the Cuckoo's Nest,,tt0073486,movie,1975
+240,50,0,The Godfather: Part II,,tt0071562,movie,1974
+9277,51,0,The Sting,,tt0070735,movie,1973
+10784,52,0,Cabaret,,tt0068327,movie,1972
+1051,53,0,The French Connection,,tt0067116,movie,1971
+11202,54,0,Patton,,tt0066206,movie,1970
+3116,55,0,Midnight Cowboy,,tt0064665,movie,1969
+17917,56,0,Oliver!,,tt0063385,movie,1968
+37247,57,0,The Graduate,,tt0061722,movie,1967
+874,58,0,A Man for All Seasons,,tt0060665,movie,1966
+15121,59,0,The Sound of Music,,tt0059742,movie,1965
+11113,60,0,My Fair Lady,,tt0058385,movie,1964
+5769,61,0,Tom Jones,,tt0057590,movie,1963
+947,62,0,Lawrence of Arabia,,tt0056172,movie,1962
+1725,63,0,West Side Story,,tt0055614,movie,1961
+284,64,0,The Apartment,,tt0053604,movie,1960
+665,65,0,Ben-Hur,,tt0052618,movie,1959
+17281,66,0,Gigi,,tt0051658,movie,1958
+826,67,0,The Bridge on the River Kwai,,tt0050212,movie,1957
+1712,68,0,Giant,,tt0049261,movie,1956
+15919,69,0,Marty,,tt0048356,movie,1955
+654,70,0,On the Waterfront,,tt0047296,movie,1954
+11426,71,0,From Here to Eternity,,tt0045793,movie,1953
+3109,72,0,The Quiet Man,,tt0045061,movie,1952
+25673,73,0,A Place in the Sun,,tt0043924,movie,1951
+705,74,0,All About Eve,,tt0042192,movie,1950
+45578,75,0,A Letter to Three Wives,,tt0041587,movie,1949
+3090,76,0,The Treasure of the Sierra Madre,,tt0040897,movie,1948
+33667,77,0,Gentleman's Agreement,,tt0039416,movie,1947
+887,78,0,The Best Years of Our Lives,,tt0036868,movie,1946
+28580,79,0,The Lost Weekend,,tt0037884,movie,1945
+17661,80,0,Going My Way,,tt0036872,movie,1944
+289,81,0,Casablanca,,tt0034583,movie,1943
+27367,82,0,Mrs. Miniver,,tt0035093,movie,1942
+43266,83,0,How Green Was My Valley,,tt0033729,movie,1941
+596,84,0,The Grapes of Wrath,,tt0032551,movie,1940
+770,85,0,Gone with the Wind,,tt0031381,movie,1939
+34106,86,0,You Can't Take It with You,,tt0030993,movie,1938
+14675,87,0,The Awful Truth,,tt0028597,movie,1937
+24807,88,0,Mr. Deeds Goes to Town,,tt0027996,movie,1936
+43896,89,0,The Informer,,tt0026529,movie,1935
+3078,90,0,It Happened One Night,,tt0025316,movie,1934
+56164,91,0,Cavalcade,,tt0023876,movie,1933
+84295,92,0,Skippy,,tt0022397,movie,1931
+84299,93,0,Bad Girl,,tt0021635,movie,1931
+143,94,0,All Quiet on the Western Front,,tt0020629,movie,1930
+104214,95,0,The Divine Lady,,tt0019824,movie,1928
+82474,96,0,7th Heaven,,tt0018379,movie,1927
+102384,97,0,Two Arabian Knights,,tt0018515,movie,1927

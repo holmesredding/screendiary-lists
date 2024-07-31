@@ -1,0 +1,262 @@
+[
+  {
+    "id": 578,
+    "rank": 1,
+    "adult": 0,
+    "title": "Jaws",
+    "tvdbid": null,
+    "imdb_id": "tt0073195",
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 329,
+    "rank": 2,
+    "adult": 0,
+    "title": "Jurassic Park",
+    "tvdbid": null,
+    "imdb_id": "tt0107290",
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 11,
+    "rank": 3,
+    "adult": 0,
+    "title": "Star Wars",
+    "tvdbid": null,
+    "imdb_id": "tt0076759",
+    "mediatype": "movie",
+    "release_year": 1977
+  },
+  {
+    "id": 602,
+    "rank": 4,
+    "adult": 0,
+    "title": "Independence Day",
+    "tvdbid": null,
+    "imdb_id": "tt0116629",
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 155,
+    "rank": 5,
+    "adult": 0,
+    "title": "The Dark Knight",
+    "tvdbid": null,
+    "imdb_id": "tt0468569",
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 22,
+    "rank": 6,
+    "adult": 0,
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "tvdbid": null,
+    "imdb_id": "tt0325980",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 744,
+    "rank": 7,
+    "adult": 0,
+    "title": "Top Gun",
+    "tvdbid": null,
+    "imdb_id": "tt0092099",
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 557,
+    "rank": 8,
+    "adult": 0,
+    "title": "Spider-Man",
+    "tvdbid": null,
+    "imdb_id": "tt0145487",
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 19995,
+    "rank": 9,
+    "adult": 0,
+    "title": "Avatar",
+    "tvdbid": null,
+    "imdb_id": "tt0499549",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 118340,
+    "rank": 10,
+    "adult": 0,
+    "title": "Guardians of the Galaxy",
+    "tvdbid": null,
+    "imdb_id": "tt2015381",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 1858,
+    "rank": 11,
+    "adult": 0,
+    "title": "Transformers",
+    "tvdbid": null,
+    "imdb_id": "tt0418279",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 607,
+    "rank": 12,
+    "adult": 0,
+    "title": "Men in Black",
+    "tvdbid": null,
+    "imdb_id": "tt0119654",
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 24428,
+    "rank": 13,
+    "adult": 0,
+    "title": "The Avengers",
+    "tvdbid": null,
+    "imdb_id": "tt0848228",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 27205,
+    "rank": 14,
+    "adult": 0,
+    "title": "Inception",
+    "tvdbid": null,
+    "imdb_id": "tt1375666",
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 76341,
+    "rank": 15,
+    "adult": 0,
+    "title": "Mad Max: Fury Road",
+    "tvdbid": null,
+    "imdb_id": "tt1392190",
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 671,
+    "rank": 16,
+    "adult": 0,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "tvdbid": null,
+    "imdb_id": "tt0241527",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 808,
+    "rank": 17,
+    "adult": 0,
+    "title": "Shrek",
+    "tvdbid": null,
+    "imdb_id": "tt0126029",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 601,
+    "rank": 18,
+    "adult": 0,
+    "title": "E.T. the Extra-Terrestrial",
+    "tvdbid": null,
+    "imdb_id": "tt0083866",
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 8587,
+    "rank": 19,
+    "adult": 0,
+    "title": "The Lion King",
+    "tvdbid": null,
+    "imdb_id": "tt0110357",
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 105,
+    "rank": 20,
+    "adult": 0,
+    "title": "Back to the Future",
+    "tvdbid": null,
+    "imdb_id": "tt0088763",
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 9806,
+    "rank": 21,
+    "adult": 0,
+    "title": "The Incredibles",
+    "tvdbid": null,
+    "imdb_id": "tt0317705",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 754,
+    "rank": 22,
+    "adult": 0,
+    "title": "Face/Off",
+    "tvdbid": null,
+    "imdb_id": "tt0119094",
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 1637,
+    "rank": 23,
+    "adult": 0,
+    "title": "Speed",
+    "tvdbid": null,
+    "imdb_id": "tt0111257",
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 180,
+    "rank": 24,
+    "adult": 0,
+    "title": "Minority Report",
+    "tvdbid": null,
+    "imdb_id": "tt0181689",
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 860,
+    "rank": 25,
+    "adult": 0,
+    "title": "WarGames",
+    "tvdbid": null,
+    "imdb_id": "tt0086567",
+    "mediatype": "movie",
+    "release_year": 1983
+  },
+  {
+    "id": 56292,
+    "rank": 26,
+    "adult": 0,
+    "title": "Mission: Impossible - Ghost Protocol",
+    "tvdbid": null,
+    "imdb_id": "tt1229238",
+    "mediatype": "movie",
+    "release_year": 2011
+  }
+]

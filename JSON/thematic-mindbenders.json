@@ -1,0 +1,212 @@
+[
+  {
+    "id": 27205,
+    "rank": 1,
+    "adult": 0,
+    "title": "Inception",
+    "tvdbid": null,
+    "imdb_id": "tt1375666",
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 603,
+    "rank": 2,
+    "adult": 0,
+    "title": "The Matrix",
+    "tvdbid": null,
+    "imdb_id": "tt0133093",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 77,
+    "rank": 3,
+    "adult": 0,
+    "title": "Memento",
+    "tvdbid": null,
+    "imdb_id": "tt0209144",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 577922,
+    "rank": 4,
+    "adult": 0,
+    "title": "Tenet",
+    "tvdbid": null,
+    "imdb_id": "tt6723592",
+    "mediatype": "movie",
+    "release_year": 2020
+  },
+  {
+    "id": 38,
+    "rank": 5,
+    "adult": 0,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "tvdbid": null,
+    "imdb_id": "tt0338013",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 141,
+    "rank": 6,
+    "adult": 0,
+    "title": "Donnie Darko",
+    "tvdbid": null,
+    "imdb_id": "tt0246578",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 550,
+    "rank": 7,
+    "adult": 0,
+    "title": "Fight Club",
+    "tvdbid": null,
+    "imdb_id": "tt0137523",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 157336,
+    "rank": 8,
+    "adult": 0,
+    "title": "Interstellar",
+    "tvdbid": null,
+    "imdb_id": "tt0816692",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 206487,
+    "rank": 9,
+    "adult": 0,
+    "title": "Predestination",
+    "tvdbid": null,
+    "imdb_id": "tt2397535",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 1124,
+    "rank": 10,
+    "adult": 0,
+    "title": "The Prestige",
+    "tvdbid": null,
+    "imdb_id": "tt0482571",
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 11324,
+    "rank": 11,
+    "adult": 0,
+    "title": "Shutter Island",
+    "tvdbid": null,
+    "imdb_id": "tt1130884",
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 14337,
+    "rank": 12,
+    "adult": 0,
+    "title": "Primer",
+    "tvdbid": null,
+    "imdb_id": "tt0390384",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 220289,
+    "rank": 13,
+    "adult": 0,
+    "title": "Coherence",
+    "tvdbid": null,
+    "imdb_id": "tt2866360",
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 1018,
+    "rank": 14,
+    "adult": 0,
+    "title": "Mulholland Drive",
+    "tvdbid": null,
+    "imdb_id": "tt0166924",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 37165,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Truman Show",
+    "tvdbid": null,
+    "imdb_id": "tt0120382",
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 335984,
+    "rank": 16,
+    "adult": 0,
+    "title": "Blade Runner 2049",
+    "tvdbid": null,
+    "imdb_id": "tt1856101",
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 62,
+    "rank": 17,
+    "adult": 0,
+    "title": "2001: A Space Odyssey",
+    "tvdbid": null,
+    "imdb_id": "tt0062622",
+    "mediatype": "movie",
+    "release_year": 1968
+  },
+  {
+    "id": 329865,
+    "rank": 18,
+    "adult": 0,
+    "title": "Arrival",
+    "tvdbid": null,
+    "imdb_id": "tt2543164",
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 745,
+    "rank": 19,
+    "adult": 0,
+    "title": "The Sixth Sense",
+    "tvdbid": null,
+    "imdb_id": "tt0167404",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 83542,
+    "rank": 20,
+    "adult": 0,
+    "title": "Cloud Atlas",
+    "tvdbid": null,
+    "imdb_id": "tt1371111",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 1903,
+    "rank": 21,
+    "adult": 0,
+    "title": "Vanilla Sky",
+    "tvdbid": null,
+    "imdb_id": "tt0259711",
+    "mediatype": "movie",
+    "release_year": 2001
+  }
+]

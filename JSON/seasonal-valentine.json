@@ -1,0 +1,232 @@
+[
+  {
+    "id": 639,
+    "rank": 1,
+    "adult": 0,
+    "title": "When Harry Met Sally",
+    "tvdbid": null,
+    "imdb_id": "tt0098635",
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 858,
+    "rank": 2,
+    "adult": 0,
+    "title": "Sleepless in Seattle",
+    "tvdbid": null,
+    "imdb_id": "tt0108160",
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 9489,
+    "rank": 3,
+    "adult": 0,
+    "title": "You've Got Mail",
+    "tvdbid": null,
+    "imdb_id": "tt0128853",
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 4951,
+    "rank": 4,
+    "adult": 0,
+    "title": "10 Things I Hate About You",
+    "tvdbid": null,
+    "imdb_id": "tt0147800",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 50646,
+    "rank": 5,
+    "adult": 0,
+    "title": "Crazy Stupid Love",
+    "tvdbid": null,
+    "imdb_id": "tt1570728",
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 449176,
+    "rank": 6,
+    "adult": 0,
+    "title": "Love Simon",
+    "tvdbid": null,
+    "imdb_id": "tt5164432",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 466282,
+    "rank": 7,
+    "adult": 0,
+    "title": "To All the Boys I've Loved Before",
+    "tvdbid": null,
+    "imdb_id": "tt3846674",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 180296,
+    "rank": 8,
+    "adult": 0,
+    "title": "They Came Together",
+    "tvdbid": null,
+    "imdb_id": "tt2398249",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 19913,
+    "rank": 9,
+    "adult": 0,
+    "title": "(500) Days of Summer",
+    "tvdbid": null,
+    "imdb_id": "tt1022603",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 313369,
+    "rank": 10,
+    "adult": 0,
+    "title": "La La Land",
+    "tvdbid": null,
+    "imdb_id": "tt3783958",
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 82693,
+    "rank": 11,
+    "adult": 0,
+    "title": "Silver Linings Playbook",
+    "tvdbid": null,
+    "imdb_id": "tt1045658",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 2493,
+    "rank": 12,
+    "adult": 0,
+    "title": "The Princess Bride",
+    "tvdbid": null,
+    "imdb_id": "tt0093779",
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 114,
+    "rank": 13,
+    "adult": 0,
+    "title": "Pretty Woman",
+    "tvdbid": null,
+    "imdb_id": "tt0100405",
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 4348,
+    "rank": 14,
+    "adult": 0,
+    "title": "Pride & Prejudice",
+    "tvdbid": null,
+    "imdb_id": "tt0414387",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 11036,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Notebook",
+    "tvdbid": null,
+    "imdb_id": "tt0332280",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 597,
+    "rank": 16,
+    "adult": 0,
+    "title": "Titanic",
+    "tvdbid": null,
+    "imdb_id": "tt0120338",
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 10229,
+    "rank": 17,
+    "adult": 0,
+    "title": "A Walk to Remember",
+    "tvdbid": null,
+    "imdb_id": "tt0281358",
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 222935,
+    "rank": 18,
+    "adult": 0,
+    "title": "The Fault in Our Stars",
+    "tvdbid": null,
+    "imdb_id": "tt2582846",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 296096,
+    "rank": 19,
+    "adult": 0,
+    "title": "Me Before You",
+    "tvdbid": null,
+    "imdb_id": "tt2674426",
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 72570,
+    "rank": 20,
+    "adult": 0,
+    "title": "The Vow",
+    "tvdbid": null,
+    "imdb_id": "tt1606389",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 454,
+    "rank": 21,
+    "adult": 0,
+    "title": "Romeo + Juliet",
+    "tvdbid": null,
+    "imdb_id": "tt0117509",
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 824,
+    "rank": 22,
+    "adult": 0,
+    "title": "Moulin Rouge!",
+    "tvdbid": null,
+    "imdb_id": "tt0203009",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 152601,
+    "rank": 23,
+    "adult": 0,
+    "title": "Her",
+    "tvdbid": null,
+    "imdb_id": "tt1798709",
+    "mediatype": "movie",
+    "release_year": 2013
+  }
+]

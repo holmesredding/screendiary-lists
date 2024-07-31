@@ -1,0 +1,21 @@
+id,rank,adult,title,tvdbid,imdb_id,mediatype,release_year
+278,1,0,The Shawshank Redemption,,tt0111161,movie,1994
+453,2,0,A Beautiful Mind,,tt0268978,movie,2001
+207,3,0,Dead Poets Society,,tt0097165,movie,1989
+12405,4,0,Slumdog Millionaire,,tt1010048,movie,2008
+1366,5,0,Rocky,,tt0075148,movie,1976
+489,6,0,Good Will Hunting,,tt0119217,movie,1997
+462,7,0,Erin Brockovich,,tt0195685,movie,2000
+10637,8,0,Remember the Titans,,tt0210945,movie,2000
+22881,9,0,The Blind Side,,tt0878804,movie,2009
+266856,10,0,The Theory of Everything,,tt2980516,movie,2014
+22954,11,0,Invictus,,tt1057500,movie,2009
+423,12,0,The Pianist,,tt0253474,movie,2002
+87827,13,0,Life of Pi,,tt0454876,movie,2012
+10312,14,0,Patch Adams,,tt0129290,movie,1998
+497,15,0,The Green Mile,,tt0120689,movie,1999
+44115,16,0,127 Hours,,tt1542344,movie,2010
+12837,17,0,The Secret Life of Bees,,tt0416212,movie,2008
+13466,18,0,October Sky,,tt0132477,movie,1999
+43959,19,0,Soul Surfer,,tt1596346,movie,2011
+10376,20,0,The Legend of 1900,,tt0120731,movie,1998

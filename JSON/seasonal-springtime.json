@@ -1,0 +1,212 @@
+[
+  {
+    "id": 9880,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Princess Diaries",
+    "tvdbid": null,
+    "imdb_id": "tt0247638",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 38757,
+    "rank": 2,
+    "adult": 0,
+    "title": "Tangled",
+    "tvdbid": null,
+    "imdb_id": "tt0398286",
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 59860,
+    "rank": 3,
+    "adult": 0,
+    "title": "Monte Carlo",
+    "tvdbid": null,
+    "imdb_id": "tt1067774",
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 10096,
+    "rank": 4,
+    "adult": 0,
+    "title": "13 Going on 30",
+    "tvdbid": null,
+    "imdb_id": "tt0337563",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 16996,
+    "rank": 5,
+    "adult": 0,
+    "title": "17 Again",
+    "tvdbid": null,
+    "imdb_id": "tt0974661",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 11631,
+    "rank": 6,
+    "adult": 0,
+    "title": "Mamma Mia!",
+    "tvdbid": null,
+    "imdb_id": "tt0795421",
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 466282,
+    "rank": 7,
+    "adult": 0,
+    "title": "To All the Boys I've Loved Before",
+    "tvdbid": null,
+    "imdb_id": "tt3846674",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 350,
+    "rank": 8,
+    "adult": 0,
+    "title": "The Devil Wears Prada",
+    "tvdbid": null,
+    "imdb_id": "tt0458352",
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 10934,
+    "rank": 9,
+    "adult": 0,
+    "title": "Under the Tuscan Sun",
+    "tvdbid": null,
+    "imdb_id": "tt0328589",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 313369,
+    "rank": 10,
+    "adult": 0,
+    "title": "La La Land",
+    "tvdbid": null,
+    "imdb_id": "tt3783958",
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 24803,
+    "rank": 11,
+    "adult": 0,
+    "title": "Julie & Julia",
+    "tvdbid": null,
+    "imdb_id": "tt1135503",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 38167,
+    "rank": 12,
+    "adult": 0,
+    "title": "Eat Pray Love",
+    "tvdbid": null,
+    "imdb_id": "tt0879870",
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 9726,
+    "rank": 13,
+    "adult": 0,
+    "title": "A Good Year",
+    "tvdbid": null,
+    "imdb_id": "tt0401445",
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 587,
+    "rank": 14,
+    "adult": 0,
+    "title": "Big Fish",
+    "tvdbid": null,
+    "imdb_id": "tt0319061",
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 4348,
+    "rank": 15,
+    "adult": 0,
+    "title": "Pride & Prejudice",
+    "tvdbid": null,
+    "imdb_id": "tt0414387",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 11236,
+    "rank": 16,
+    "adult": 0,
+    "title": "The Secret Garden",
+    "tvdbid": null,
+    "imdb_id": "tt0108071",
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 194,
+    "rank": 17,
+    "adult": 0,
+    "title": "Amélie",
+    "tvdbid": null,
+    "imdb_id": "tt0211915",
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 19913,
+    "rank": 18,
+    "adult": 0,
+    "title": "(500) Days of Summer",
+    "tvdbid": null,
+    "imdb_id": "tt1022603",
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 331482,
+    "rank": 19,
+    "adult": 0,
+    "title": "Little Women",
+    "tvdbid": null,
+    "imdb_id": "tt3281548",
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 84892,
+    "rank": 20,
+    "adult": 0,
+    "title": "The Perks of Being a Wallflower",
+    "tvdbid": null,
+    "imdb_id": "tt1659337",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 15121,
+    "rank": 21,
+    "adult": 0,
+    "title": "The Sound of Music",
+    "tvdbid": null,
+    "imdb_id": "tt0059742",
+    "mediatype": "movie",
+    "release_year": 1965
+  }
+]

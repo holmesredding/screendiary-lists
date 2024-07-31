@@ -1,0 +1,302 @@
+[
+  {
+    "id": 376660,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Edge of Seventeen",
+    "tvdbid": null,
+    "imdb_id": "tt1878870",
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 156700,
+    "rank": 2,
+    "adult": 0,
+    "title": "The Kings of Summer",
+    "tvdbid": null,
+    "imdb_id": "tt2179116",
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 369557,
+    "rank": 3,
+    "adult": 0,
+    "title": "Sing Street",
+    "tvdbid": null,
+    "imdb_id": "tt3544112",
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 157386,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Spectacular Now",
+    "tvdbid": null,
+    "imdb_id": "tt1714206",
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 449176,
+    "rank": 5,
+    "adult": 0,
+    "title": "Love Simon",
+    "tvdbid": null,
+    "imdb_id": "tt5164432",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 9377,
+    "rank": 6,
+    "adult": 0,
+    "title": "Ferris Bueller's Day Off",
+    "tvdbid": null,
+    "imdb_id": "tt0091042",
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 9603,
+    "rank": 7,
+    "adult": 0,
+    "title": "Clueless",
+    "tvdbid": null,
+    "imdb_id": "tt0112697",
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 4951,
+    "rank": 8,
+    "adult": 0,
+    "title": "10 Things I Hate About You",
+    "tvdbid": null,
+    "imdb_id": "tt0147800",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 8363,
+    "rank": 9,
+    "adult": 0,
+    "title": "Superbad",
+    "tvdbid": null,
+    "imdb_id": "tt0829482",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 2108,
+    "rank": 10,
+    "adult": 0,
+    "title": "The Breakfast Club",
+    "tvdbid": null,
+    "imdb_id": "tt0088847",
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 147773,
+    "rank": 11,
+    "adult": 0,
+    "title": "The Way Way Back",
+    "tvdbid": null,
+    "imdb_id": "tt1727388",
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 9779,
+    "rank": 12,
+    "adult": 0,
+    "title": "The Sisterhood of the Traveling Pants",
+    "tvdbid": null,
+    "imdb_id": "tt0403508",
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 13751,
+    "rank": 13,
+    "adult": 0,
+    "title": "Akeelah and the Bee",
+    "tvdbid": null,
+    "imdb_id": "tt0437800",
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 391713,
+    "rank": 14,
+    "adult": 0,
+    "title": "Lady Bird",
+    "tvdbid": null,
+    "imdb_id": "tt4925292",
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 85350,
+    "rank": 15,
+    "adult": 0,
+    "title": "Boyhood",
+    "tvdbid": null,
+    "imdb_id": "tt1065073",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 489925,
+    "rank": 16,
+    "adult": 0,
+    "title": "Eighth Grade",
+    "tvdbid": null,
+    "imdb_id": "tt7014006",
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 84892,
+    "rank": 17,
+    "adult": 0,
+    "title": "The Perks of Being a Wallflower",
+    "tvdbid": null,
+    "imdb_id": "tt1659337",
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 398818,
+    "rank": 18,
+    "adult": 0,
+    "title": "Call Me by Your Name",
+    "tvdbid": null,
+    "imdb_id": "tt5726616",
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 222935,
+    "rank": 19,
+    "adult": 0,
+    "title": "The Fault in Our Stars",
+    "tvdbid": null,
+    "imdb_id": "tt2582846",
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 235,
+    "rank": 20,
+    "adult": 0,
+    "title": "Stand by Me",
+    "tvdbid": null,
+    "imdb_id": "tt0092005",
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 207,
+    "rank": 21,
+    "adult": 0,
+    "title": "Dead Poets Society",
+    "tvdbid": null,
+    "imdb_id": "tt0097165",
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 376867,
+    "rank": 22,
+    "adult": 0,
+    "title": "Moonlight",
+    "tvdbid": null,
+    "imdb_id": "tt4975722",
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 15804,
+    "rank": 23,
+    "adult": 0,
+    "title": "A Brighter Summer Day",
+    "tvdbid": null,
+    "imdb_id": "tt0101985",
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 10625,
+    "rank": 24,
+    "adult": 0,
+    "title": "Mean Girls",
+    "tvdbid": null,
+    "imdb_id": "tt0377092",
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 7326,
+    "rank": 25,
+    "adult": 0,
+    "title": "Juno",
+    "tvdbid": null,
+    "imdb_id": "tt0467406",
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 13466,
+    "rank": 26,
+    "adult": 0,
+    "title": "October Sky",
+    "tvdbid": null,
+    "imdb_id": "tt0132477",
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 4032,
+    "rank": 27,
+    "adult": 0,
+    "title": "My Girl",
+    "tvdbid": null,
+    "imdb_id": "tt0102492",
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 9571,
+    "rank": 28,
+    "adult": 0,
+    "title": "Dazed and Confused",
+    "tvdbid": null,
+    "imdb_id": "tt0106677",
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 1443,
+    "rank": 29,
+    "adult": 0,
+    "title": "The Virgin Suicides",
+    "tvdbid": null,
+    "imdb_id": "tt0159097",
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 673593,
+    "rank": 30,
+    "adult": 0,
+    "title": "Mean Girls",
+    "tvdbid": null,
+    "imdb_id": "tt11762114",
+    "mediatype": "movie",
+    "release_year": 2024
+  }
+]
