@@ -1,218 +1,218 @@
 [
-  {
-    "category": "Academy Awards",
-    "title": "Best Picture",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-awards-best-picture-winners-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Animated Feature",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-animated-feature-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Director",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-director-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Actor",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-actor-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Actress",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-actress-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Original Screenplay",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-original-screenplay-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Adapted Screenplay",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-adapted-screenplay-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Cinematography",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-cinematography-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Costume Design",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-costume-design-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Film Editing",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-film-editing-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Foreign Language Film",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-foreign-language-film-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Makeup and Hairstyling",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-makeup-and-hairstyling-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Original Score",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-original-score-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Original Song",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-original-song-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Production Design",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-production-design-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Sound",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-sound-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Supporting Actor",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-supporting-actor-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Supporting Actress",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-supporting-actress-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Academy Awards",
-    "title": "Best Visual Effects",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/academy-award-for-best-visual-effects-2024.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Seasonal",
-    "title": "Christmas",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/seasonal-christmas.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Seasonal",
-    "title": "Halloween",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/seasonal-halloween.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Seasonal",
-    "title": "Frosty Nights",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/seasonal-frostynights.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Seasonal",
-    "title": "Springtime",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/seasonal-springtime.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Seasonal",
-    "title": "Summer Blockbusters",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/seasonal-summerblockbusters.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Seasonal",
-    "title": "Valentine’s Day",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/seasonal-valentine.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Thematic",
-    "title": "Coming of Age",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-comingofage.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Thematic",
-    "title": "Historical Epics",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-historicalepics.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Thematic",
-    "title": "Intense Thrillers",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-intensethrillers.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Thematic",
-    "title": "Mood Boosters",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-moodboosters.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Thematic",
-    "title": "On the Road",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-ontheroad.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Thematic",
-    "title": "Sports",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-sports.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Thematic",
-    "title": "Tearjerkers",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-tearjerkers.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Thematic",
-    "title": "Inspiring Movies",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-inspiringmovies.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Thematic",
-    "title": "Romantic Dramas",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-romanticdrama.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Thematic",
-    "title": "Dark and Gritty",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-darkandgritty.json",
-    "defaultSorting": "List Order"
-  },
-  {
-    "category": "Thematic",
-    "title": "Mind Benders",
-    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-mindbenders.json",
-    "defaultSorting": "List Order"
-  }
+    {
+        "category": "Academy Awards",
+        "title": "Best Picture",
+        "path": "/JSON/academy-awards-best-picture-winners-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Animated Feature",
+        "path": "/JSON/academy-award-for-best-animated-feature-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Director",
+        "path": "/JSON/academy-award-for-best-director-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Actor",
+        "path": "/JSON/academy-award-for-best-actor-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Actress",
+        "path": "/JSON/academy-award-for-best-actress-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Original Screenplay",
+        "path": "/JSON/academy-award-for-best-original-screenplay-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Adapted Screenplay",
+        "path": "/JSON/academy-award-for-best-adapted-screenplay-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Cinematography",
+        "path": "/JSON/academy-award-for-best-cinematography-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Costume Design",
+        "path": "/JSON/academy-award-for-best-costume-design-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Film Editing",
+        "path": "/JSON/academy-award-for-best-film-editing-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Foreign Language Film",
+        "path": "/JSON/academy-award-for-best-foreign-language-film-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Makeup and Hairstyling",
+        "path": "/JSON/academy-award-for-best-makeup-and-hairstyling-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Original Score",
+        "path": "/JSON/academy-award-for-best-original-score-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Original Song",
+        "path": "/JSON/academy-award-for-best-original-song-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Production Design",
+        "path": "/JSON/academy-award-for-best-production-design-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Sound",
+        "path": "/JSON/academy-award-for-best-sound-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Supporting Actor",
+        "path": "/JSON/academy-award-for-best-supporting-actor-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Supporting Actress",
+        "path": "/JSON/academy-award-for-best-supporting-actress-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Academy Awards",
+        "title": "Best Visual Effects",
+        "path": "/JSON/academy-award-for-best-visual-effects-2024.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Seasonal",
+        "title": "Christmas",
+        "path": "/JSON/seasonal-christmas.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Seasonal",
+        "title": "Halloween",
+        "path": "/JSON/seasonal-halloween.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Seasonal",
+        "title": "Frosty Nights",
+        "path": "/JSON/seasonal-frostynights.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Seasonal",
+        "title": "Springtime",
+        "path": "/JSON/seasonal-springtime.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Seasonal",
+        "title": "Summer Blockbusters",
+        "path": "/JSON/seasonal-summerblockbusters.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Seasonal",
+        "title": "Valentine’s Day",
+        "path": "/JSON/seasonal-valentine.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Thematic",
+        "title": "Coming of Age",
+        "path": "/JSON/thematic-comingofage.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Thematic",
+        "title": "Historical Epics",
+        "path": "/JSON/thematic-historicalepics.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Thematic",
+        "title": "Intense Thrillers",
+        "path": "/JSON/thematic-intensethrillers.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Thematic",
+        "title": "Mood Boosters",
+        "path": "/JSON/thematic-moodboosters.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Thematic",
+        "title": "On the Road",
+        "path": "/JSON/thematic-ontheroad.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Thematic",
+        "title": "Sports",
+        "path": "/JSON/thematic-sports.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Thematic",
+        "title": "Tearjerkers",
+        "path": "/JSON/thematic-tearjerkers.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Thematic",
+        "title": "Inspiring Movies",
+        "path": "/JSON/thematic-inspiringmovies.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Thematic",
+        "title": "Romantic Dramas",
+        "path": "/JSON/thematic-romanticdrama.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Thematic",
+        "title": "Dark and Gritty",
+        "path": "/JSON/thematic-darkandgritty.json",
+        "defaultSorting": "List Order"
+    },
+    {
+        "category": "Thematic",
+        "title": "Mind Benders",
+        "path": "/JSON/thematic-mindbenders.json",
+        "defaultSorting": "List Order"
+    }
 ]
