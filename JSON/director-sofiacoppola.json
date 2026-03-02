@@ -1,0 +1,82 @@
+[
+  {
+    "id": 153,
+    "rank": 1,
+    "adult": 0,
+    "title": "Lost in Translation",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 1443,
+    "rank": 2,
+    "adult": 0,
+    "title": "The Virgin Suicides",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 1887,
+    "rank": 3,
+    "adult": 0,
+    "title": "Marie Antoinette",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 399019,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Beguiled",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 39210,
+    "rank": 5,
+    "adult": 0,
+    "title": "Somewhere",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 575417,
+    "rank": 6,
+    "adult": 0,
+    "title": "On the Rocks",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2020
+  },
+  {
+    "id": 1020006,
+    "rank": 7,
+    "adult": 0,
+    "title": "Priscilla",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 96936,
+    "rank": 8,
+    "adult": 0,
+    "title": "The Bling Ring",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  }
+]

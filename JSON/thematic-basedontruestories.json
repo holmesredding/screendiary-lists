@@ -1,0 +1,202 @@
+[
+  {
+    "id": 967,
+    "rank": 1,
+    "adult": 0,
+    "title": "Spartacus",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 197,
+    "rank": 2,
+    "adult": 0,
+    "title": "Braveheart",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 279,
+    "rank": 3,
+    "adult": 0,
+    "title": "Amadeus",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 281957,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Revenant",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 72976,
+    "rank": 5,
+    "adult": 0,
+    "title": "Lincoln",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 597,
+    "rank": 6,
+    "adult": 0,
+    "title": "Titanic",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 947,
+    "rank": 7,
+    "adult": 0,
+    "title": "Lawrence of Arabia",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 475,
+    "rank": 8,
+    "adult": 0,
+    "title": "Bonnie and Clyde",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1967
+  },
+  {
+    "id": 424,
+    "rank": 9,
+    "adult": 0,
+    "title": "Schindler's List",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 205596,
+    "rank": 10,
+    "adult": 0,
+    "title": "The Imitation Game",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 640,
+    "rank": 11,
+    "adult": 0,
+    "title": "Catch Me If You Can",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 568,
+    "rank": 12,
+    "adult": 0,
+    "title": "Apollo 13",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 891,
+    "rank": 13,
+    "adult": 0,
+    "title": "All the President's Men",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 769,
+    "rank": 14,
+    "adult": 0,
+    "title": "Goodfellas",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 1578,
+    "rank": 15,
+    "adult": 0,
+    "title": "Raging Bull",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1980
+  },
+  {
+    "id": 462,
+    "rank": 16,
+    "adult": 0,
+    "title": "Erin Brockovich",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 76203,
+    "rank": 17,
+    "adult": 0,
+    "title": "12 Years a Slave",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 37799,
+    "rank": 18,
+    "adult": 0,
+    "title": "The Social Network",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 314365,
+    "rank": 19,
+    "adult": 0,
+    "title": "Spotlight",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 318846,
+    "rank": 20,
+    "adult": 0,
+    "title": "The Big Short",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  }
+]

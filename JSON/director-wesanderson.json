@@ -1,0 +1,112 @@
+[
+  {
+    "id": 120467,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Grand Budapest Hotel",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 83666,
+    "rank": 2,
+    "adult": 0,
+    "title": "Moonrise Kingdom",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 10315,
+    "rank": 3,
+    "adult": 0,
+    "title": "Fantastic Mr. Fox",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 9428,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Royal Tenenbaums",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 11545,
+    "rank": 5,
+    "adult": 0,
+    "title": "Rushmore",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 421,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Life Aquatic with Steve Zissou",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 399174,
+    "rank": 7,
+    "adult": 0,
+    "title": "Isle of Dogs",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 4538,
+    "rank": 8,
+    "adult": 0,
+    "title": "The Darjeeling Limited",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 542178,
+    "rank": 9,
+    "adult": 0,
+    "title": "The French Dispatch",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 747188,
+    "rank": 10,
+    "adult": 0,
+    "title": "Asteroid City",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 13685,
+    "rank": 11,
+    "adult": 0,
+    "title": "Bottle Rocket",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1996
+  }
+]

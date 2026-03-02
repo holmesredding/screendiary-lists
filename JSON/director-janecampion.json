@@ -1,0 +1,82 @@
+[
+  {
+    "id": 713,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Piano",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 600583,
+    "rank": 2,
+    "adult": 0,
+    "title": "The Power of the Dog",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 2891,
+    "rank": 3,
+    "adult": 0,
+    "title": "An Angel at My Table",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 29963,
+    "rank": 4,
+    "adult": 0,
+    "title": "Bright Star",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 36758,
+    "rank": 5,
+    "adult": 0,
+    "title": "Portrait of a Lady",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 10944,
+    "rank": 7,
+    "adult": 0,
+    "title": "In the Cut",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 65015,
+    "rank": 8,
+    "adult": 0,
+    "title": "Sweetie",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 13787,
+    "rank": 9,
+    "adult": 0,
+    "title": "Holy Smoke",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  }
+]

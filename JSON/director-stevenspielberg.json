@@ -1,0 +1,152 @@
+[
+  {
+    "id": 85,
+    "rank": 1,
+    "adult": 0,
+    "title": "Raiders of the Lost Ark",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1981
+  },
+  {
+    "id": 424,
+    "rank": 2,
+    "adult": 0,
+    "title": "Schindler's List",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 578,
+    "rank": 3,
+    "adult": 0,
+    "title": "Jaws",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 601,
+    "rank": 4,
+    "adult": 0,
+    "title": "E.T. the Extra-Terrestrial",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 857,
+    "rank": 5,
+    "adult": 0,
+    "title": "Saving Private Ryan",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 329,
+    "rank": 6,
+    "adult": 0,
+    "title": "Jurassic Park",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 840,
+    "rank": 7,
+    "adult": 0,
+    "title": "Close Encounters of the Third Kind",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1977
+  },
+  {
+    "id": 640,
+    "rank": 8,
+    "adult": 0,
+    "title": "Catch Me If You Can",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 804095,
+    "rank": 9,
+    "adult": 0,
+    "title": "The Fabelmans",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2022
+  },
+  {
+    "id": 72976,
+    "rank": 10,
+    "adult": 0,
+    "title": "Lincoln",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 612,
+    "rank": 11,
+    "adult": 0,
+    "title": "Munich",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 296098,
+    "rank": 12,
+    "adult": 0,
+    "title": "Bridge of Spies",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 10110,
+    "rank": 13,
+    "adult": 0,
+    "title": "Empire of the Sun",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 873,
+    "rank": 14,
+    "adult": 0,
+    "title": "The Color Purple",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 839,
+    "rank": 15,
+    "adult": 0,
+    "title": "Duel",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1971
+  }
+]

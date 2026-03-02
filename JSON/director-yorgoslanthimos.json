@@ -1,0 +1,72 @@
+[
+  {
+    "id": 375262,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Favourite",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 792307,
+    "rank": 2,
+    "adult": 0,
+    "title": "Poor Things",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 254320,
+    "rank": 3,
+    "adult": 0,
+    "title": "The Lobster",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 399057,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Killing of a Sacred Deer",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 38810,
+    "rank": 5,
+    "adult": 0,
+    "title": "Dogtooth",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 81857,
+    "rank": 6,
+    "adult": 0,
+    "title": "Alps",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 1029955,
+    "rank": 7,
+    "adult": 0,
+    "title": "Kinds of Kindness",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2024
+  }
+]

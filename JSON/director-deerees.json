@@ -1,0 +1,42 @@
+[
+  {
+    "id": 414425,
+    "rank": 1,
+    "adult": 0,
+    "title": "Mudbound",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 73939,
+    "rank": 2,
+    "adult": 0,
+    "title": "Pariah",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 330544,
+    "rank": 3,
+    "adult": 0,
+    "title": "Bessie",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 505225,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Last Thing He Wanted",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2020
+  }
+]

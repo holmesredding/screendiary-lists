@@ -1,0 +1,122 @@
+[
+  {
+    "id": 155,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Dark Knight",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 27205,
+    "rank": 2,
+    "adult": 0,
+    "title": "Inception",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 157336,
+    "rank": 3,
+    "adult": 0,
+    "title": "Interstellar",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 1124,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Prestige",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 272,
+    "rank": 5,
+    "adult": 0,
+    "title": "Batman Begins",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 872585,
+    "rank": 6,
+    "adult": 0,
+    "title": "Oppenheimer",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 374720,
+    "rank": 7,
+    "adult": 0,
+    "title": "Dunkirk",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 77,
+    "rank": 8,
+    "adult": 0,
+    "title": "Memento",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 49026,
+    "rank": 9,
+    "adult": 0,
+    "title": "The Dark Knight Rises",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 577922,
+    "rank": 10,
+    "adult": 0,
+    "title": "Tenet",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2020
+  },
+  {
+    "id": 320,
+    "rank": 11,
+    "adult": 0,
+    "title": "Insomnia",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 11660,
+    "rank": 12,
+    "adult": 0,
+    "title": "Following",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  }
+]

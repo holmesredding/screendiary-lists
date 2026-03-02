@@ -1,0 +1,152 @@
+[
+  {
+    "id": 769,
+    "rank": 1,
+    "adult": 0,
+    "title": "Goodfellas",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 103,
+    "rank": 2,
+    "adult": 0,
+    "title": "Taxi Driver",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 1422,
+    "rank": 3,
+    "adult": 0,
+    "title": "The Departed",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 1578,
+    "rank": 4,
+    "adult": 0,
+    "title": "Raging Bull",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1980
+  },
+  {
+    "id": 106646,
+    "rank": 5,
+    "adult": 0,
+    "title": "The Wolf of Wall Street",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 524,
+    "rank": 6,
+    "adult": 0,
+    "title": "Casino",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 203,
+    "rank": 7,
+    "adult": 0,
+    "title": "Mean Streets",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1973
+  },
+  {
+    "id": 398978,
+    "rank": 8,
+    "adult": 0,
+    "title": "The Irishman",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 262,
+    "rank": 9,
+    "adult": 0,
+    "title": "The King of Comedy",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 10843,
+    "rank": 10,
+    "adult": 0,
+    "title": "After Hours",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 44826,
+    "rank": 11,
+    "adult": 0,
+    "title": "Hugo",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 466420,
+    "rank": 12,
+    "adult": 0,
+    "title": "Killers of the Flower Moon",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 2567,
+    "rank": 13,
+    "adult": 0,
+    "title": "The Aviator",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 3131,
+    "rank": 14,
+    "adult": 0,
+    "title": "Gangs of New York",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 68730,
+    "rank": 15,
+    "adult": 0,
+    "title": "Silence",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  }
+]

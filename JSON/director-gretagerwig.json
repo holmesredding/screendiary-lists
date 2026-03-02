@@ -1,0 +1,42 @@
+[
+  {
+    "id": 391713,
+    "rank": 1,
+    "adult": 0,
+    "title": "Lady Bird",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 331482,
+    "rank": 2,
+    "adult": 0,
+    "title": "Little Women",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 346698,
+    "rank": 3,
+    "adult": 0,
+    "title": "Barbie",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 48204,
+    "rank": 4,
+    "adult": 0,
+    "title": "Nights and Weekends",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  }
+]

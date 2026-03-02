@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1417,
+    "rank": 1,
+    "adult": 0,
+    "title": "Pan's Labyrinth",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 399055,
+    "rank": 2,
+    "adult": 0,
+    "title": "The Shape of Water",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 1433,
+    "rank": 3,
+    "adult": 0,
+    "title": "The Devil's Backbone",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 201085,
+    "rank": 4,
+    "adult": 0,
+    "title": "Crimson Peak",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 68726,
+    "rank": 5,
+    "adult": 0,
+    "title": "Pacific Rim",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 597208,
+    "rank": 6,
+    "adult": 0,
+    "title": "Nightmare Alley",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 532639,
+    "rank": 7,
+    "adult": 0,
+    "title": "Pinocchio",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2022
+  },
+  {
+    "id": 1487,
+    "rank": 8,
+    "adult": 0,
+    "title": "Hellboy",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 11253,
+    "rank": 9,
+    "adult": 0,
+    "title": "Hellboy II: The Golden Army",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 36586,
+    "rank": 10,
+    "adult": 0,
+    "title": "Blade II",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 11655,
+    "rank": 11,
+    "adult": 0,
+    "title": "Cronos",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  }
+]

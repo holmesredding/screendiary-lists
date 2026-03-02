@@ -1,0 +1,52 @@
+[
+  {
+    "id": 531428,
+    "rank": 1,
+    "adult": 0,
+    "title": "Portrait of a Lady on Fire",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 266082,
+    "rank": 2,
+    "adult": 0,
+    "title": "Girlhood",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 65229,
+    "rank": 3,
+    "adult": 0,
+    "title": "Tomboy",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 749004,
+    "rank": 4,
+    "adult": 0,
+    "title": "Petite Maman",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 10818,
+    "rank": 5,
+    "adult": 0,
+    "title": "Water Lilies",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2007
+  }
+]

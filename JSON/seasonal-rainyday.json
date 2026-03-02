@@ -1,0 +1,202 @@
+[
+  {
+    "id": 872,
+    "rank": 1,
+    "adult": 0,
+    "title": "Singin' in the Rain",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1952
+  },
+  {
+    "id": 346648,
+    "rank": 2,
+    "adult": 0,
+    "title": "Paddington 2",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 2493,
+    "rank": 3,
+    "adult": 0,
+    "title": "The Princess Bride",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 194,
+    "rank": 4,
+    "adult": 0,
+    "title": "Amelie",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 509,
+    "rank": 5,
+    "adult": 0,
+    "title": "Notting Hill",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 120467,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Grand Budapest Hotel",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 392,
+    "rank": 7,
+    "adult": 0,
+    "title": "Chocolat",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 4348,
+    "rank": 8,
+    "adult": 0,
+    "title": "Pride & Prejudice",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 587,
+    "rank": 9,
+    "adult": 0,
+    "title": "Big Fish",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 4584,
+    "rank": 10,
+    "adult": 0,
+    "title": "Sense and Sensibility",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 11257,
+    "rank": 11,
+    "adult": 0,
+    "title": "A Room with a View",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 409,
+    "rank": 12,
+    "adult": 0,
+    "title": "The English Patient",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 2289,
+    "rank": 13,
+    "adult": 0,
+    "title": "Cold Mountain",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 4347,
+    "rank": 14,
+    "adult": 0,
+    "title": "Atonement",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 278,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Shawshank Redemption",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 78,
+    "rank": 16,
+    "adult": 0,
+    "title": "Blade Runner",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 843,
+    "rank": 17,
+    "adult": 0,
+    "title": "In the Mood for Love",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 423,
+    "rank": 18,
+    "adult": 0,
+    "title": "The Pianist",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 334541,
+    "rank": 19,
+    "adult": 0,
+    "title": "Manchester by the Sea",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 1398,
+    "rank": 20,
+    "adult": 0,
+    "title": "Stalker",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1979
+  }
+]

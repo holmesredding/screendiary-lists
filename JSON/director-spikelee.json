@@ -1,0 +1,122 @@
+[
+  {
+    "id": 925,
+    "rank": 1,
+    "adult": 0,
+    "title": "Do the Right Thing",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 1883,
+    "rank": 2,
+    "adult": 0,
+    "title": "Malcolm X",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 1429,
+    "rank": 3,
+    "adult": 0,
+    "title": "25th Hour",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 487558,
+    "rank": 4,
+    "adult": 0,
+    "title": "BlacKkKlansman",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 388,
+    "rank": 5,
+    "adult": 0,
+    "title": "Inside Man",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 9469,
+    "rank": 6,
+    "adult": 0,
+    "title": "He Got Game",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 24664,
+    "rank": 7,
+    "adult": 0,
+    "title": "Bamboozled",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 34152,
+    "rank": 8,
+    "adult": 0,
+    "title": "Crooklyn",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 1713,
+    "rank": 9,
+    "adult": 0,
+    "title": "Jungle Fever",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 581859,
+    "rank": 10,
+    "adult": 0,
+    "title": "Da 5 Bloods",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2020
+  },
+  {
+    "id": 10279,
+    "rank": 11,
+    "adult": 0,
+    "title": "Summer of Sam",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 340275,
+    "rank": 12,
+    "adult": 0,
+    "title": "Chi-Raq",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  }
+]

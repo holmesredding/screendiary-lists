@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8942,
+    "rank": 1,
+    "adult": 0,
+    "title": "Wendy and Lucy",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 558582,
+    "rank": 2,
+    "adult": 0,
+    "title": "First Cow",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 340487,
+    "rank": 3,
+    "adult": 0,
+    "title": "Certain Women",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 57120,
+    "rank": 4,
+    "adult": 0,
+    "title": "Meek's Cutoff",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 26518,
+    "rank": 5,
+    "adult": 0,
+    "title": "Old Joy",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 157823,
+    "rank": 6,
+    "adult": 0,
+    "title": "Night Moves",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 1025455,
+    "rank": 7,
+    "adult": 0,
+    "title": "Showing Up",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2022
+  },
+  {
+    "id": 98514,
+    "rank": 8,
+    "adult": 0,
+    "title": "River of Grass",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1994
+  }
+]

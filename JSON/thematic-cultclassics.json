@@ -1,0 +1,192 @@
+[
+  {
+    "id": 136,
+    "rank": 1,
+    "adult": 0,
+    "title": "Freaks",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1932
+  },
+  {
+    "id": 10513,
+    "rank": 3,
+    "adult": 0,
+    "title": "Plan 9 from Outer Space",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1957
+  },
+  {
+    "id": 36685,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Rocky Horror Picture Show",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 985,
+    "rank": 5,
+    "adult": 0,
+    "title": "Eraserhead",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1977
+  },
+  {
+    "id": 11474,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Warriors",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1979
+  },
+  {
+    "id": 13820,
+    "rank": 7,
+    "adult": 0,
+    "title": "Repo Man",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 11031,
+    "rank": 8,
+    "adult": 0,
+    "title": "This Is Spinal Tap",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 68,
+    "rank": 9,
+    "adult": 0,
+    "title": "Brazil",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 2640,
+    "rank": 10,
+    "adult": 0,
+    "title": "Heathers",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 8337,
+    "rank": 11,
+    "adult": 0,
+    "title": "They Live",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 115,
+    "rank": 12,
+    "adult": 0,
+    "title": "The Big Lebowski",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 1542,
+    "rank": 13,
+    "adult": 0,
+    "title": "Office Space",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 141,
+    "rank": 14,
+    "adult": 0,
+    "title": "Donnie Darko",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 2171,
+    "rank": 15,
+    "adult": 0,
+    "title": "Wet Hot American Summer",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 8193,
+    "rank": 16,
+    "adult": 0,
+    "title": "Napoleon Dynamite",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 22538,
+    "rank": 17,
+    "adult": 0,
+    "title": "Scott Pilgrim vs. the World",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 17473,
+    "rank": 18,
+    "adult": 0,
+    "title": "The Room",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 310135,
+    "rank": 19,
+    "adult": 0,
+    "title": "Turbo Kid",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 254320,
+    "rank": 20,
+    "adult": 0,
+    "title": "The Lobster",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  }
+]

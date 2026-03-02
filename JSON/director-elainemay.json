@@ -1,0 +1,42 @@
+[
+  {
+    "id": 40687,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Heartbreak Kid",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1972
+  },
+  {
+    "id": 36850,
+    "rank": 2,
+    "adult": 0,
+    "title": "A New Leaf",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1971
+  },
+  {
+    "id": 59143,
+    "rank": 3,
+    "adult": 0,
+    "title": "Mikey and Nicky",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 12704,
+    "rank": 4,
+    "adult": 0,
+    "title": "Ishtar",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1987
+  }
+]

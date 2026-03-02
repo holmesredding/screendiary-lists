@@ -1,0 +1,172 @@
+[
+  {
+    "id": 153,
+    "rank": 1,
+    "adult": 0,
+    "title": "Lost in Translation",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 64690,
+    "rank": 2,
+    "adult": 0,
+    "title": "Drive",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 242582,
+    "rank": 3,
+    "adult": 0,
+    "title": "Nightcrawler",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 1538,
+    "rank": 4,
+    "adult": 0,
+    "title": "Collateral",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 10843,
+    "rank": 5,
+    "adult": 0,
+    "title": "After Hours",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 345,
+    "rank": 6,
+    "adult": 0,
+    "title": "Eyes Wide Shut",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 77987,
+    "rank": 7,
+    "adult": 0,
+    "title": "Only God Forgives",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 698232,
+    "rank": 8,
+    "adult": 0,
+    "title": "Under the Skin",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 460885,
+    "rank": 9,
+    "adult": 0,
+    "title": "Mandy",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 185,
+    "rank": 10,
+    "adult": 0,
+    "title": "A Clockwork Orange",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1971
+  },
+  {
+    "id": 793,
+    "rank": 11,
+    "adult": 0,
+    "title": "Blue Velvet",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 11906,
+    "rank": 12,
+    "adult": 0,
+    "title": "Suspiria",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1977
+  },
+  {
+    "id": 34647,
+    "rank": 13,
+    "adult": 0,
+    "title": "Enter the Void",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 837,
+    "rank": 14,
+    "adult": 0,
+    "title": "Videodrome",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1983
+  },
+  {
+    "id": 1018,
+    "rank": 15,
+    "adult": 0,
+    "title": "Mulholland Drive",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 985,
+    "rank": 16,
+    "adult": 0,
+    "title": "Eraserhead",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1977
+  },
+  {
+    "id": 62,
+    "rank": 17,
+    "adult": 0,
+    "title": "2001: A Space Odyssey",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1968
+  }
+]

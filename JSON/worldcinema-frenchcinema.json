@@ -1,0 +1,152 @@
+[
+  {
+    "id": 194,
+    "rank": 1,
+    "adult": 0,
+    "title": "Amelie",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 77338,
+    "rank": 2,
+    "adult": 0,
+    "title": "The Intouchables",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 74643,
+    "rank": 3,
+    "adult": 0,
+    "title": "The Artist",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 152584,
+    "rank": 4,
+    "adult": 0,
+    "title": "Blue Is the Warmest Colour",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 8841,
+    "rank": 5,
+    "adult": 0,
+    "title": "The Class",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 21575,
+    "rank": 6,
+    "adult": 0,
+    "title": "A Prophet",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 269,
+    "rank": 7,
+    "adult": 0,
+    "title": "Breathless",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 147,
+    "rank": 8,
+    "adult": 0,
+    "title": "The 400 Blows",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1959
+  },
+  {
+    "id": 406,
+    "rank": 9,
+    "adult": 0,
+    "title": "La Haine",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 499,
+    "rank": 10,
+    "adult": 0,
+    "title": "Cleo from 5 to 7",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 5967,
+    "rank": 11,
+    "adult": 0,
+    "title": "The Umbrellas of Cherbourg",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1964
+  },
+  {
+    "id": 86837,
+    "rank": 12,
+    "adult": 0,
+    "title": "Amour",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 31417,
+    "rank": 13,
+    "adult": 0,
+    "title": "Eyes Without a Face",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 20108,
+    "rank": 14,
+    "adult": 0,
+    "title": "Au Hasard Balthazar",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1966
+  },
+  {
+    "id": 266,
+    "rank": 15,
+    "adult": 0,
+    "title": "Contempt",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1963
+  }
+]

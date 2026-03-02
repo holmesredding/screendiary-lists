@@ -1,0 +1,112 @@
+[
+  {
+    "id": 76341,
+    "rank": 1,
+    "adult": 0,
+    "title": "Mad Max: Fury Road",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 8810,
+    "rank": 2,
+    "adult": 0,
+    "title": "The Road Warrior",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1981
+  },
+  {
+    "id": 9598,
+    "rank": 3,
+    "adult": 0,
+    "title": "Babe",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 9836,
+    "rank": 4,
+    "adult": 0,
+    "title": "Happy Feet",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 9659,
+    "rank": 5,
+    "adult": 0,
+    "title": "Mad Max",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1979
+  },
+  {
+    "id": 9355,
+    "rank": 6,
+    "adult": 0,
+    "title": "Mad Max Beyond Thunderdome",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 786892,
+    "rank": 7,
+    "adult": 0,
+    "title": "Furiosa: A Mad Max Saga",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2024
+  },
+  {
+    "id": 556694,
+    "rank": 8,
+    "adult": 0,
+    "title": "Three Thousand Years of Longing",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2022
+  },
+  {
+    "id": 9447,
+    "rank": 9,
+    "adult": 0,
+    "title": "Babe: Pig in the City",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 6069,
+    "rank": 10,
+    "adult": 0,
+    "title": "The Witches of Eastwick",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 2007,
+    "rank": 11,
+    "adult": 0,
+    "title": "Lorenzo's Oil",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1992
+  }
+]

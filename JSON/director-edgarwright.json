@@ -1,0 +1,72 @@
+[
+  {
+    "id": 747,
+    "rank": 1,
+    "adult": 0,
+    "title": "Shaun of the Dead",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 4638,
+    "rank": 2,
+    "adult": 0,
+    "title": "Hot Fuzz",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 339403,
+    "rank": 3,
+    "adult": 0,
+    "title": "Baby Driver",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 22538,
+    "rank": 4,
+    "adult": 0,
+    "title": "Scott Pilgrim vs. the World",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 107985,
+    "rank": 5,
+    "adult": 0,
+    "title": "The World's End",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 576845,
+    "rank": 6,
+    "adult": 0,
+    "title": "Last Night in Soho",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 52996,
+    "rank": 7,
+    "adult": 0,
+    "title": "A Fistful of Fingers",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  }
+]

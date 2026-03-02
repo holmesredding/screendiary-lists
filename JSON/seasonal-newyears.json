@@ -1,0 +1,122 @@
+[
+  {
+    "id": 551,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Poseidon Adventure",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1972
+  },
+  {
+    "id": 639,
+    "rank": 2,
+    "adult": 0,
+    "title": "When Harry Met Sally...",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 284,
+    "rank": 3,
+    "adult": 0,
+    "title": "The Apartment",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 62838,
+    "rank": 4,
+    "adult": 0,
+    "title": "New Year's Eve",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 634,
+    "rank": 5,
+    "adult": 0,
+    "title": "Bridget Jones's Diary",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 13,
+    "rank": 6,
+    "adult": 0,
+    "title": "Forrest Gump",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 122906,
+    "rank": 7,
+    "adult": 0,
+    "title": "About Time",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 4922,
+    "rank": 8,
+    "adult": 0,
+    "title": "The Curious Case of Benjamin Button",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 38,
+    "rank": 9,
+    "adult": 0,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 400617,
+    "rank": 10,
+    "adult": 0,
+    "title": "Phantom Thread",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 153,
+    "rank": 11,
+    "adult": 0,
+    "title": "Lost in Translation",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 8967,
+    "rank": 12,
+    "adult": 0,
+    "title": "The Tree of Life",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  }
+]

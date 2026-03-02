@@ -1,0 +1,152 @@
+[
+  {
+    "id": 496243,
+    "rank": 1,
+    "adult": 0,
+    "title": "Parasite",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 396535,
+    "rank": 2,
+    "adult": 0,
+    "title": "Train to Busan",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 670,
+    "rank": 3,
+    "adult": 0,
+    "title": "Oldboy",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 290098,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Handmaiden",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 11423,
+    "rank": 5,
+    "adult": 0,
+    "title": "Memories of Murder",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 49797,
+    "rank": 6,
+    "adult": 0,
+    "title": "I Saw the Devil",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 437068,
+    "rank": 7,
+    "adult": 0,
+    "title": "A Taxi Driver",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 1255,
+    "rank": 8,
+    "adult": 0,
+    "title": "The Host",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 2440,
+    "rank": 9,
+    "adult": 0,
+    "title": "Joint Security Area",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 698885,
+    "rank": 10,
+    "adult": 0,
+    "title": "Mother",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 47909,
+    "rank": 11,
+    "adult": 0,
+    "title": "Poetry",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 813106,
+    "rank": 12,
+    "adult": 0,
+    "title": "Burning",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 705996,
+    "rank": 13,
+    "adult": 0,
+    "title": "Decision to Leave",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2022
+  },
+  {
+    "id": 41245,
+    "rank": 14,
+    "adult": 0,
+    "title": "Peppermint Candy",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 113,
+    "rank": 15,
+    "adult": 0,
+    "title": "Spring, Summer, Fall, Winter... and Spring",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  }
+]

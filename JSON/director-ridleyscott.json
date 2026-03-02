@@ -1,0 +1,122 @@
+[
+  {
+    "id": 78,
+    "rank": 1,
+    "adult": 0,
+    "title": "Blade Runner",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 348,
+    "rank": 2,
+    "adult": 0,
+    "title": "Alien",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1979
+  },
+  {
+    "id": 98,
+    "rank": 3,
+    "adult": 0,
+    "title": "Gladiator",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 1541,
+    "rank": 4,
+    "adult": 0,
+    "title": "Thelma & Louise",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 286217,
+    "rank": 5,
+    "adult": 0,
+    "title": "The Martian",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 855,
+    "rank": 6,
+    "adult": 0,
+    "title": "Black Hawk Down",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 4982,
+    "rank": 7,
+    "adult": 0,
+    "title": "American Gangster",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 617653,
+    "rank": 8,
+    "adult": 0,
+    "title": "The Last Duel",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 1495,
+    "rank": 9,
+    "adult": 0,
+    "title": "Kingdom of Heaven",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 7270,
+    "rank": 10,
+    "adult": 0,
+    "title": "Matchstick Men",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 19067,
+    "rank": 11,
+    "adult": 0,
+    "title": "The Duellists",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1977
+  },
+  {
+    "id": 644495,
+    "rank": 12,
+    "adult": 0,
+    "title": "House of Gucci",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2021
+  }
+]

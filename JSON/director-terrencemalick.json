@@ -1,0 +1,92 @@
+[
+  {
+    "id": 8741,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Thin Red Line",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 3133,
+    "rank": 2,
+    "adult": 0,
+    "title": "Badlands",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1973
+  },
+  {
+    "id": 16642,
+    "rank": 3,
+    "adult": 0,
+    "title": "Days of Heaven",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1978
+  },
+  {
+    "id": 8967,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Tree of Life",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 11400,
+    "rank": 5,
+    "adult": 0,
+    "title": "The New World",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 403300,
+    "rank": 6,
+    "adult": 0,
+    "title": "A Hidden Life",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 86835,
+    "rank": 7,
+    "adult": 0,
+    "title": "Knight of Cups",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 330947,
+    "rank": 8,
+    "adult": 0,
+    "title": "Song to Song",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 257669,
+    "rank": 9,
+    "adult": 0,
+    "title": "To the Wonder",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2012
+  }
+]

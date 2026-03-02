@@ -1,0 +1,82 @@
+[
+  {
+    "id": 12162,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Hurt Locker",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 1089,
+    "rank": 2,
+    "adult": 0,
+    "title": "Point Break",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 97630,
+    "rank": 3,
+    "adult": 0,
+    "title": "Zero Dark Thirty",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 11879,
+    "rank": 4,
+    "adult": 0,
+    "title": "Near Dark",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 281,
+    "rank": 5,
+    "adult": 0,
+    "title": "Strange Days",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 407448,
+    "rank": 6,
+    "adult": 0,
+    "title": "Detroit",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 9491,
+    "rank": 7,
+    "adult": 0,
+    "title": "Blue Steel",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 8665,
+    "rank": 8,
+    "adult": 0,
+    "title": "K-19: The Widowmaker",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2002
+  }
+]

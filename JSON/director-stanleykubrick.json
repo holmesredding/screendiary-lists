@@ -1,0 +1,112 @@
+[
+  {
+    "id": 62,
+    "rank": 1,
+    "adult": 0,
+    "title": "2001: A Space Odyssey",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1968
+  },
+  {
+    "id": 694,
+    "rank": 2,
+    "adult": 0,
+    "title": "The Shining",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1980
+  },
+  {
+    "id": 185,
+    "rank": 3,
+    "adult": 0,
+    "title": "A Clockwork Orange",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1971
+  },
+  {
+    "id": 935,
+    "rank": 4,
+    "adult": 0,
+    "title": "Dr. Strangelove",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1964
+  },
+  {
+    "id": 600,
+    "rank": 5,
+    "adult": 0,
+    "title": "Full Metal Jacket",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 975,
+    "rank": 6,
+    "adult": 0,
+    "title": "Paths of Glory",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1957
+  },
+  {
+    "id": 3175,
+    "rank": 7,
+    "adult": 0,
+    "title": "Barry Lyndon",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 345,
+    "rank": 8,
+    "adult": 0,
+    "title": "Eyes Wide Shut",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 247,
+    "rank": 9,
+    "adult": 0,
+    "title": "The Killing",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1956
+  },
+  {
+    "id": 967,
+    "rank": 10,
+    "adult": 0,
+    "title": "Spartacus",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 802,
+    "rank": 11,
+    "adult": 0,
+    "title": "Lolita",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1962
+  }
+]

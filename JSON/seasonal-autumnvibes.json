@@ -1,0 +1,202 @@
+[
+  {
+    "id": 10315,
+    "rank": 1,
+    "adult": 0,
+    "title": "Fantastic Mr. Fox",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 9489,
+    "rank": 2,
+    "adult": 0,
+    "title": "You've Got Mail",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 639,
+    "rank": 3,
+    "adult": 0,
+    "title": "When Harry Met Sally...",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 489,
+    "rank": 4,
+    "adult": 0,
+    "title": "Good Will Hunting",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 331482,
+    "rank": 5,
+    "adult": 0,
+    "title": "Little Women",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 11236,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Secret Garden",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 13466,
+    "rank": 7,
+    "adult": 0,
+    "title": "October Sky",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 11545,
+    "rank": 8,
+    "adult": 0,
+    "title": "Rushmore",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 24684,
+    "rank": 9,
+    "adult": 0,
+    "title": "An Education",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 84892,
+    "rank": 10,
+    "adult": 0,
+    "title": "The Perks of Being a Wallflower",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 207,
+    "rank": 11,
+    "adult": 0,
+    "title": "Dead Poets Society",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 6435,
+    "rank": 12,
+    "adult": 0,
+    "title": "Practical Magic",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 1443,
+    "rank": 13,
+    "adult": 0,
+    "title": "The Virgin Suicides",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 4476,
+    "rank": 14,
+    "adult": 0,
+    "title": "Legends of the Fall",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 293,
+    "rank": 15,
+    "adult": 0,
+    "title": "A River Runs Through It",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 1245,
+    "rank": 16,
+    "adult": 0,
+    "title": "The Remains of the Day",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 42188,
+    "rank": 17,
+    "adult": 0,
+    "title": "Never Let Me Go",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 12761,
+    "rank": 18,
+    "adult": 0,
+    "title": "Autumn Sonata",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1978
+  },
+  {
+    "id": 68924,
+    "rank": 19,
+    "adult": 0,
+    "title": "The Ice Storm",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 62215,
+    "rank": 20,
+    "adult": 0,
+    "title": "Melancholia",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  }
+]

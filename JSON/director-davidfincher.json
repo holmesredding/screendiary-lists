@@ -1,0 +1,122 @@
+[
+  {
+    "id": 550,
+    "rank": 1,
+    "adult": 0,
+    "title": "Fight Club",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 807,
+    "rank": 2,
+    "adult": 0,
+    "title": "Se7en",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 37799,
+    "rank": 3,
+    "adult": 0,
+    "title": "The Social Network",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 1949,
+    "rank": 4,
+    "adult": 0,
+    "title": "Zodiac",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 210577,
+    "rank": 5,
+    "adult": 0,
+    "title": "Gone Girl",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 2649,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Game",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 65754,
+    "rank": 7,
+    "adult": 0,
+    "title": "The Girl with the Dragon Tattoo",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 800158,
+    "rank": 8,
+    "adult": 0,
+    "title": "The Killer",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2023
+  },
+  {
+    "id": 4547,
+    "rank": 9,
+    "adult": 0,
+    "title": "Panic Room",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 4922,
+    "rank": 10,
+    "adult": 0,
+    "title": "The Curious Case of Benjamin Button",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 614560,
+    "rank": 11,
+    "adult": 0,
+    "title": "Mank",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2020
+  },
+  {
+    "id": 8077,
+    "rank": 12,
+    "adult": 0,
+    "title": "Alien 3",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1992
+  }
+]

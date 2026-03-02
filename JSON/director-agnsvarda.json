@@ -1,0 +1,82 @@
+[
+  {
+    "id": 499,
+    "rank": 1,
+    "adult": 0,
+    "title": "Cléo from 5 to 7",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 451995,
+    "rank": 2,
+    "adult": 0,
+    "title": "Faces Places",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 44018,
+    "rank": 3,
+    "adult": 0,
+    "title": "Vagabond",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 44379,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Gleaners and I",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 63318,
+    "rank": 5,
+    "adult": 0,
+    "title": "One Sings, the Other Doesn't",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1977
+  },
+  {
+    "id": 53023,
+    "rank": 6,
+    "adult": 0,
+    "title": "Le Bonheur",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1965
+  },
+  {
+    "id": 38879,
+    "rank": 7,
+    "adult": 0,
+    "title": "The Beaches of Agnès",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 54436,
+    "rank": 9,
+    "adult": 0,
+    "title": "La Pointe Courte",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1955
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 680,
+    "rank": 1,
+    "adult": 0,
+    "title": "Pulp Fiction",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 16869,
+    "rank": 2,
+    "adult": 0,
+    "title": "Inglourious Basterds",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 24,
+    "rank": 3,
+    "adult": 0,
+    "title": "Kill Bill: Volume 1",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 68718,
+    "rank": 4,
+    "adult": 0,
+    "title": "Django Unchained",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 500,
+    "rank": 5,
+    "adult": 0,
+    "title": "Reservoir Dogs",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 466272,
+    "rank": 6,
+    "adult": 0,
+    "title": "Once Upon a Time in Hollywood",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 393,
+    "rank": 7,
+    "adult": 0,
+    "title": "Kill Bill: Volume 2",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 184,
+    "rank": 8,
+    "adult": 0,
+    "title": "Jackie Brown",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 273248,
+    "rank": 9,
+    "adult": 0,
+    "title": "The Hateful Eight",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 1991,
+    "rank": 10,
+    "adult": 0,
+    "title": "Death Proof",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2007
+  }
+]

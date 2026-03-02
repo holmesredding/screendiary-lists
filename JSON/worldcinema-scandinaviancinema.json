@@ -1,0 +1,142 @@
+[
+  {
+    "id": 15472,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Girl with the Dragon Tattoo",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 13310,
+    "rank": 2,
+    "adult": 0,
+    "title": "Let the Right One In",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 103663,
+    "rank": 3,
+    "adult": 0,
+    "title": "The Hunt",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 580175,
+    "rank": 4,
+    "adult": 0,
+    "title": "Another Round",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2020
+  },
+  {
+    "id": 348678,
+    "rank": 5,
+    "adult": 0,
+    "title": "A Man Called Ove",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 660120,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Worst Person in the World",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 265189,
+    "rank": 7,
+    "adult": 0,
+    "title": "Force Majeure",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 490,
+    "rank": 8,
+    "adult": 0,
+    "title": "The Seventh Seal",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1957
+  },
+  {
+    "id": 614,
+    "rank": 9,
+    "adult": 0,
+    "title": "Wild Strawberries",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1957
+  },
+  {
+    "id": 5961,
+    "rank": 10,
+    "adult": 0,
+    "title": "Fanny and Alexander",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 797,
+    "rank": 11,
+    "adult": 0,
+    "title": "Persona",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1966
+  },
+  {
+    "id": 12761,
+    "rank": 12,
+    "adult": 0,
+    "title": "Autumn Sonata",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1978
+  },
+  {
+    "id": 309,
+    "rank": 13,
+    "adult": 0,
+    "title": "The Celebration",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 517839,
+    "rank": 14,
+    "adult": 0,
+    "title": "Border",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2018
+  }
+]

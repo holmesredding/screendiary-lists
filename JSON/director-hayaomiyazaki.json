@@ -1,0 +1,112 @@
+[
+  {
+    "id": 129,
+    "rank": 1,
+    "adult": 0,
+    "title": "Spirited Away",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 8392,
+    "rank": 2,
+    "adult": 0,
+    "title": "My Neighbor Totoro",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 16859,
+    "rank": 3,
+    "adult": 0,
+    "title": "Kiki's Delivery Service",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 4935,
+    "rank": 4,
+    "adult": 0,
+    "title": "Howl's Moving Castle",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 128,
+    "rank": 5,
+    "adult": 0,
+    "title": "Princess Mononoke",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 10515,
+    "rank": 6,
+    "adult": 0,
+    "title": "Castle in the Sky",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 12429,
+    "rank": 7,
+    "adult": 0,
+    "title": "Ponyo",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 11621,
+    "rank": 8,
+    "adult": 0,
+    "title": "Porco Rosso",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 81,
+    "rank": 9,
+    "adult": 0,
+    "title": "Nausicaä of the Valley of the Wind",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 149870,
+    "rank": 10,
+    "adult": 0,
+    "title": "The Wind Rises",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 508883,
+    "rank": 11,
+    "adult": 0,
+    "title": "The Boy and the Heron",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2023
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 346,
+    "rank": 1,
+    "adult": 0,
+    "title": "Seven Samurai",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1954
+  },
+  {
+    "id": 11878,
+    "rank": 2,
+    "adult": 0,
+    "title": "Yojimbo",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1961
+  },
+  {
+    "id": 548,
+    "rank": 3,
+    "adult": 0,
+    "title": "Rashomon",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1950
+  },
+  {
+    "id": 3782,
+    "rank": 4,
+    "adult": 0,
+    "title": "Ikiru",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1952
+  },
+  {
+    "id": 11645,
+    "rank": 5,
+    "adult": 0,
+    "title": "Ran",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 3777,
+    "rank": 6,
+    "adult": 0,
+    "title": "Throne of Blood",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1957
+  },
+  {
+    "id": 12493,
+    "rank": 7,
+    "adult": 0,
+    "title": "High and Low",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1963
+  },
+  {
+    "id": 11712,
+    "rank": 8,
+    "adult": 0,
+    "title": "Sanjuro",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 1059,
+    "rank": 9,
+    "adult": 0,
+    "title": "The Hidden Fortress",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1958
+  },
+  {
+    "id": 9764,
+    "rank": 10,
+    "adult": 0,
+    "title": "Dersu Uzala",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 30368,
+    "rank": 11,
+    "adult": 0,
+    "title": "Stray Dog",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1949
+  },
+  {
+    "id": 412365,
+    "rank": 12,
+    "adult": 0,
+    "title": "Dreams",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 3780,
+    "rank": 13,
+    "adult": 0,
+    "title": "Red Beard",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1965
+  },
+  {
+    "id": 25858,
+    "rank": 14,
+    "adult": 0,
+    "title": "Drunken Angel",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1948
+  }
+]

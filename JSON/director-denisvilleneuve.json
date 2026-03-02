@@ -1,0 +1,82 @@
+[
+  {
+    "id": 329865,
+    "rank": 1,
+    "adult": 0,
+    "title": "Arrival",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 335984,
+    "rank": 2,
+    "adult": 0,
+    "title": "Blade Runner 2049",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 438631,
+    "rank": 3,
+    "adult": 0,
+    "title": "Dune",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 693134,
+    "rank": 4,
+    "adult": 0,
+    "title": "Dune: Part Two",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2024
+  },
+  {
+    "id": 273481,
+    "rank": 5,
+    "adult": 0,
+    "title": "Sicario",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 146233,
+    "rank": 6,
+    "adult": 0,
+    "title": "Prisoners",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 46738,
+    "rank": 7,
+    "adult": 0,
+    "title": "Incendies",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 223895,
+    "rank": 8,
+    "adult": 0,
+    "title": "Enemy",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  }
+]

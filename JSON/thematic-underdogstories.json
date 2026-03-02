@@ -1,0 +1,192 @@
+[
+  {
+    "id": 10414,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Mighty Ducks",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 8835,
+    "rank": 2,
+    "adult": 0,
+    "title": "Legally Blonde",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 1584,
+    "rank": 3,
+    "adult": 0,
+    "title": "School of Rock",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 864,
+    "rank": 4,
+    "adult": 0,
+    "title": "Cool Runnings",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 71,
+    "rank": 5,
+    "adult": 0,
+    "title": "Billy Elliot",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 773,
+    "rank": 6,
+    "adult": 0,
+    "title": "Little Miss Sunshine",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 12405,
+    "rank": 7,
+    "adult": 0,
+    "title": "Slumdog Millionaire",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 1402,
+    "rank": 8,
+    "adult": 0,
+    "title": "The Pursuit of Happyness",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 319888,
+    "rank": 9,
+    "adult": 0,
+    "title": "Eddie the Eagle",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 489,
+    "rank": 10,
+    "adult": 0,
+    "title": "Good Will Hunting",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 1366,
+    "rank": 11,
+    "adult": 0,
+    "title": "Rocky",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 14534,
+    "rank": 12,
+    "adult": 0,
+    "title": "Rudy",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 462,
+    "rank": 13,
+    "adult": 0,
+    "title": "Erin Brockovich",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 381284,
+    "rank": 14,
+    "adult": 0,
+    "title": "Hidden Figures",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 45317,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Fighter",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 244786,
+    "rank": 16,
+    "adult": 0,
+    "title": "Whiplash",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 1578,
+    "rank": 17,
+    "adult": 0,
+    "title": "Raging Bull",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1980
+  },
+  {
+    "id": 76203,
+    "rank": 18,
+    "adult": 0,
+    "title": "12 Years a Slave",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 424,
+    "rank": 19,
+    "adult": 0,
+    "title": "Schindler's List",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  }
+]
