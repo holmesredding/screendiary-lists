@@ -20,8 +20,18 @@
     "release_year": 2023
   },
   {
-    "id": 254320,
+    "id": 701387,
     "rank": 3,
+    "adult": 0,
+    "title": "Bugonia",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2025
+  },
+  {
+    "id": 254320,
+    "rank": 4,
     "adult": 0,
     "title": "The Lobster",
     "tvdbid": null,
@@ -31,7 +41,7 @@
   },
   {
     "id": 399057,
-    "rank": 4,
+    "rank": 5,
     "adult": 0,
     "title": "The Killing of a Sacred Deer",
     "tvdbid": null,
@@ -41,7 +51,7 @@
   },
   {
     "id": 38810,
-    "rank": 5,
+    "rank": 6,
     "adult": 0,
     "title": "Dogtooth",
     "tvdbid": null,
@@ -51,7 +61,7 @@
   },
   {
     "id": 81857,
-    "rank": 6,
+    "rank": 7,
     "adult": 0,
     "title": "Alps",
     "tvdbid": null,
@@ -61,7 +71,7 @@
   },
   {
     "id": 1029955,
-    "rank": 7,
+    "rank": 8,
     "adult": 0,
     "title": "Kinds of Kindness",
     "tvdbid": null,
