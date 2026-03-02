@@ -350,6 +350,12 @@
   },
   {
     "category": "Director Spotlights",
+    "title": "Matt Johnson",
+    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-mattjohnson.json",
+    "defaultSorting": "List Order"
+  },
+  {
+    "category": "Director Spotlights",
     "title": "Park Chan-wook",
     "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-parkchanwook.json",
     "defaultSorting": "List Order"
