@@ -314,6 +314,12 @@
   },
   {
     "category": "Director Spotlights",
+    "title": "Hirokazu Kore-eda",
+    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-hirokazukoreeda.json",
+    "defaultSorting": "List Order"
+  },
+  {
+    "category": "Director Spotlights",
     "title": "Jane Campion",
     "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-janecampion.json",
     "defaultSorting": "List Order"
