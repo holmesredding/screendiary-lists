@@ -20,8 +20,18 @@
     "release_year": 2017
   },
   {
-    "id": 1433,
+    "id": 1062722,
     "rank": 3,
+    "adult": 0,
+    "title": "Frankenstein",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2025
+  },
+  {
+    "id": 1433,
+    "rank": 4,
     "adult": 0,
     "title": "The Devil's Backbone",
     "tvdbid": null,
@@ -31,7 +41,7 @@
   },
   {
     "id": 201085,
-    "rank": 4,
+    "rank": 5,
     "adult": 0,
     "title": "Crimson Peak",
     "tvdbid": null,
@@ -41,7 +51,7 @@
   },
   {
     "id": 68726,
-    "rank": 5,
+    "rank": 6,
     "adult": 0,
     "title": "Pacific Rim",
     "tvdbid": null,
@@ -51,7 +61,7 @@
   },
   {
     "id": 597208,
-    "rank": 6,
+    "rank": 7,
     "adult": 0,
     "title": "Nightmare Alley",
     "tvdbid": null,
@@ -61,7 +71,7 @@
   },
   {
     "id": 532639,
-    "rank": 7,
+    "rank": 8,
     "adult": 0,
     "title": "Pinocchio",
     "tvdbid": null,
@@ -71,7 +81,7 @@
   },
   {
     "id": 1487,
-    "rank": 8,
+    "rank": 9,
     "adult": 0,
     "title": "Hellboy",
     "tvdbid": null,
@@ -81,7 +91,7 @@
   },
   {
     "id": 11253,
-    "rank": 9,
+    "rank": 10,
     "adult": 0,
     "title": "Hellboy II: The Golden Army",
     "tvdbid": null,
@@ -90,8 +100,18 @@
     "release_year": 2008
   },
   {
+    "id": 36647,
+    "rank": 11,
+    "adult": 0,
+    "title": "Blade",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
     "id": 36586,
-    "rank": 10,
+    "rank": 12,
     "adult": 0,
     "title": "Blade II",
     "tvdbid": null,
@@ -101,7 +121,7 @@
   },
   {
     "id": 11655,
-    "rank": 11,
+    "rank": 13,
     "adult": 0,
     "title": "Cronos",
     "tvdbid": null,
