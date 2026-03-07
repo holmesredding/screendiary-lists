@@ -437,5 +437,11 @@
     "title": "Yorgos Lanthimos",
     "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-yorgoslanthimos.json",
     "defaultSorting": "List Order"
-  }
+  },
+  {
+  "category": "Eras",
+  "title": "'70s New Hollywood",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/eras-70snewhollywood.json",
+  "defaultSorting": "List Order"
+}
 ]

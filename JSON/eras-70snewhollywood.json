@@ -1,0 +1,242 @@
+[
+  {
+    "id": 238,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Godfather",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1972
+  },
+  {
+    "id": 103,
+    "rank": 2,
+    "adult": 0,
+    "title": "Taxi Driver",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 829,
+    "rank": 3,
+    "adult": 0,
+    "title": "Chinatown",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1974
+  },
+  {
+    "id": 578,
+    "rank": 4,
+    "adult": 0,
+    "title": "Jaws",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 510,
+    "rank": 5,
+    "adult": 0,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 838,
+    "rank": 6,
+    "adult": 0,
+    "title": "American Graffiti",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1973
+  },
+  {
+    "id": 28,
+    "rank": 7,
+    "adult": 0,
+    "title": "Apocalypse Now",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1979
+  },
+  {
+    "id": 968,
+    "rank": 8,
+    "adult": 0,
+    "title": "Dog Day Afternoon",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 592,
+    "rank": 9,
+    "adult": 0,
+    "title": "The Conversation",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1974
+  },
+  {
+    "id": 1051,
+    "rank": 10,
+    "adult": 0,
+    "title": "The French Connection",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1971
+  },
+  {
+    "id": 31121,
+    "rank": 11,
+    "adult": 0,
+    "title": "Shampoo",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1975
+  },
+  {
+    "id": 11778,
+    "rank": 12,
+    "adult": 0,
+    "title": "The Deer Hunter",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1978
+  },
+  {
+    "id": 25188,
+    "rank": 13,
+    "adult": 0,
+    "title": "The Last Picture Show",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1971
+  },
+  {
+    "id": 3133,
+    "rank": 14,
+    "adult": 0,
+    "title": "Badlands",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1974
+  },
+  {
+    "id": 16642,
+    "rank": 15,
+    "adult": 0,
+    "title": "Days of Heaven",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1978
+  },
+  {
+    "id": 14886,
+    "rank": 16,
+    "adult": 0,
+    "title": "The Last Detail",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1973
+  },
+  {
+    "id": 891,
+    "rank": 17,
+    "adult": 0,
+    "title": "All the President's Men",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 10774,
+    "rank": 18,
+    "adult": 0,
+    "title": "Network",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 240,
+    "rank": 19,
+    "adult": 0,
+    "title": "The Godfather Part II",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1974
+  },
+  {
+    "id": 1847,
+    "rank": 20,
+    "adult": 0,
+    "title": "The Long Goodbye",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1973
+  },
+  {
+    "id": 29845,
+    "rank": 21,
+    "adult": 0,
+    "title": "A Woman Under the Influence",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1974
+  },
+  {
+    "id": 343,
+    "rank": 22,
+    "adult": 0,
+    "title": "Harold and Maude",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1971
+  },
+  {
+    "id": 29005,
+    "rank": 23,
+    "adult": 0,
+    "title": "McCabe & Mrs. Miller",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1971
+  },
+  {
+    "id": 10322,
+    "rank": 24,
+    "adult": 0,
+    "title": "Being There",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1979
+  }
+]
