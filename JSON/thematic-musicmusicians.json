@@ -1,0 +1,202 @@
+[
+  {
+    "id": 279,
+    "rank": 1,
+    "adult": 0,
+    "title": "Amadeus",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 244786,
+    "rank": 2,
+    "adult": 0,
+    "title": "Whiplash",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 86829,
+    "rank": 3,
+    "adult": 0,
+    "title": "Inside Llewyn Davis",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 5723,
+    "rank": 4,
+    "adult": 0,
+    "title": "Once",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 786,
+    "rank": 5,
+    "adult": 0,
+    "title": "Almost Famous",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 5708,
+    "rank": 6,
+    "adult": 0,
+    "title": "Control",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 11663,
+    "rank": 7,
+    "adult": 0,
+    "title": "The Commitments",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 69,
+    "rank": 8,
+    "adult": 0,
+    "title": "Walk the Line",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2005
+  },
+  {
+    "id": 424694,
+    "rank": 9,
+    "adult": 0,
+    "title": "Bohemian Rhapsody",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 332562,
+    "rank": 10,
+    "adult": 0,
+    "title": "A Star Is Born",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 65,
+    "rank": 11,
+    "adult": 0,
+    "title": "8 Mile",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 1677,
+    "rank": 12,
+    "adult": 0,
+    "title": "Ray",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 9591,
+    "rank": 13,
+    "adult": 0,
+    "title": "That Thing You Do!",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 198277,
+    "rank": 14,
+    "adult": 0,
+    "title": "Begin Again",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 525,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Blues Brothers",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1980
+  },
+  {
+    "id": 369557,
+    "rank": 16,
+    "adult": 0,
+    "title": "Sing Street",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 271714,
+    "rank": 17,
+    "adult": 0,
+    "title": "Love & Mercy",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 502033,
+    "rank": 18,
+    "adult": 0,
+    "title": "Sound of Metal",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2020
+  },
+  {
+    "id": 504608,
+    "rank": 19,
+    "adult": 0,
+    "title": "Rocketman",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 1299655,
+    "rank": 20,
+    "adult": 0,
+    "title": "Blue Moon",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2025
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 422,
+    "rank": 1,
+    "adult": 0,
+    "title": "8½",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1963
+  },
+  {
+    "id": 872,
+    "rank": 2,
+    "adult": 0,
+    "title": "Singin' in the Rain",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1952
+  },
+  {
+    "id": 11216,
+    "rank": 3,
+    "adult": 0,
+    "title": "Cinema Paradiso",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 1018,
+    "rank": 4,
+    "adult": 0,
+    "title": "Mulholland Drive",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 599,
+    "rank": 5,
+    "adult": 0,
+    "title": "Sunset Boulevard",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1950
+  },
+  {
+    "id": 10403,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Player",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 522,
+    "rank": 7,
+    "adult": 0,
+    "title": "Ed Wood",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 1675,
+    "rank": 8,
+    "adult": 0,
+    "title": "Day for Night",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1973
+  },
+  {
+    "id": 9071,
+    "rank": 9,
+    "adult": 0,
+    "title": "Living in Oblivion",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 2757,
+    "rank": 10,
+    "adult": 0,
+    "title": "Adaptation.",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 270487,
+    "rank": 11,
+    "adult": 0,
+    "title": "Hail, Caesar!",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 466272,
+    "rank": 12,
+    "adult": 0,
+    "title": "Once Upon a Time in Hollywood",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 74643,
+    "rank": 13,
+    "adult": 0,
+    "title": "The Artist",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 10873,
+    "rank": 14,
+    "adult": 0,
+    "title": "Shadow of the Vampire",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2000
+  },
+  {
+    "id": 1254808,
+    "rank": 15,
+    "adult": 0,
+    "title": "Nouvelle Vague",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2025
+  },
+  {
+    "id": 4953,
+    "rank": 16,
+    "adult": 0,
+    "title": "Be Kind Rewind",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2008
+  },
+  {
+    "id": 371638,
+    "rank": 17,
+    "adult": 0,
+    "title": "The Disaster Artist",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 25355,
+    "rank": 18,
+    "adult": 0,
+    "title": "Irma Vep",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 30017,
+    "rank": 19,
+    "adult": 0,
+    "title": "Close-Up",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 11167,
+    "rank": 20,
+    "adult": 0,
+    "title": "Peeping Tom",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1960
+  }
+]

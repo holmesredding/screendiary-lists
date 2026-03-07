@@ -1,0 +1,202 @@
+[
+  {
+    "id": 103,
+    "rank": 1,
+    "adult": 0,
+    "title": "Taxi Driver",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 1538,
+    "rank": 2,
+    "adult": 0,
+    "title": "Collateral",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 242582,
+    "rank": 3,
+    "adult": 0,
+    "title": "Nightcrawler",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 10843,
+    "rank": 4,
+    "adult": 0,
+    "title": "After Hours",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 64690,
+    "rank": 5,
+    "adult": 0,
+    "title": "Drive",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 429200,
+    "rank": 6,
+    "adult": 0,
+    "title": "Good Time",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 345,
+    "rank": 7,
+    "adult": 0,
+    "title": "Eyes Wide Shut",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 11524,
+    "rank": 8,
+    "adult": 0,
+    "title": "Thief",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1981
+  },
+  {
+    "id": 77987,
+    "rank": 9,
+    "adult": 0,
+    "title": "Only God Forgives",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 320007,
+    "rank": 10,
+    "adult": 0,
+    "title": "Victoria",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 473033,
+    "rank": 11,
+    "adult": 0,
+    "title": "Uncut Gems",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2019
+  },
+  {
+    "id": 340666,
+    "rank": 12,
+    "adult": 0,
+    "title": "Nocturnal Animals",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 8649,
+    "rank": 13,
+    "adult": 0,
+    "title": "Bringing Out the Dead",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 308084,
+    "rank": 14,
+    "adult": 0,
+    "title": "Tangerine",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 11338,
+    "rank": 15,
+    "adult": 0,
+    "title": "Into the Night",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 301365,
+    "rank": 16,
+    "adult": 0,
+    "title": "The Neon Demon",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 1018,
+    "rank": 17,
+    "adult": 0,
+    "title": "Mulholland Drive",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 153,
+    "rank": 18,
+    "adult": 0,
+    "title": "Lost in Translation",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 11220,
+    "rank": 19,
+    "adult": 0,
+    "title": "Fallen Angels",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 11104,
+    "rank": 20,
+    "adult": 0,
+    "title": "Chungking Express",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1994
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1542,
+    "rank": 1,
+    "adult": 0,
+    "title": "Office Space",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 37799,
+    "rank": 2,
+    "adult": 0,
+    "title": "The Social Network",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2010
+  },
+  {
+    "id": 9504,
+    "rank": 3,
+    "adult": 0,
+    "title": "Glengarry Glen Ross",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 12626,
+    "rank": 4,
+    "adult": 0,
+    "title": "Broadcast News",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 350,
+    "rank": 5,
+    "adult": 0,
+    "title": "The Devil Wears Prada",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 50839,
+    "rank": 6,
+    "adult": 0,
+    "title": "Margin Call",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 318846,
+    "rank": 7,
+    "adult": 0,
+    "title": "The Big Short",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 4566,
+    "rank": 8,
+    "adult": 0,
+    "title": "Michael Clayton",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 10774,
+    "rank": 9,
+    "adult": 0,
+    "title": "Network",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1976
+  },
+  {
+    "id": 60308,
+    "rank": 10,
+    "adult": 0,
+    "title": "Moneyball",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2011
+  },
+  {
+    "id": 10673,
+    "rank": 11,
+    "adult": 0,
+    "title": "Wall Street",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 22947,
+    "rank": 12,
+    "adult": 0,
+    "title": "Up in the Air",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 257211,
+    "rank": 13,
+    "adult": 0,
+    "title": "The Intern",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 19494,
+    "rank": 14,
+    "adult": 0,
+    "title": "Nine to Five",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1980
+  },
+  {
+    "id": 314365,
+    "rank": 15,
+    "adult": 0,
+    "title": "Spotlight",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2015
+  },
+  {
+    "id": 446354,
+    "rank": 16,
+    "adult": 0,
+    "title": "The Post",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 242582,
+    "rank": 17,
+    "adult": 0,
+    "title": "Nightcrawler",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 20306,
+    "rank": 18,
+    "adult": 0,
+    "title": "Swimming with Sharks",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 627463,
+    "rank": 19,
+    "adult": 0,
+    "title": "The Assistant",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2020
+  },
+  {
+    "id": 424781,
+    "rank": 20,
+    "adult": 0,
+    "title": "Sorry to Bother You",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2018
+  }
+]

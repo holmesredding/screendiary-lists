@@ -479,5 +479,47 @@
   "title": "British New Wave",
   "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/era-britishnewwave.json",
   "defaultSorting": "List Order"
+},
+{
+  "category": "Thematic",
+  "title": "Movies About Movies",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-moviesaboutmovies.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "Thematic",
+  "title": "One Location",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-onelocation.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "Thematic",
+  "title": "Debut Features",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-debutfeatures.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "Thematic",
+  "title": "Night Films",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-nightfilms.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "Thematic",
+  "title": "Music & Musicians",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-musicandmusicians.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "Thematic",
+  "title": "Isolation",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-isolation.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "Thematic",
+  "title": "Workplace",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-workplace.json",
+  "defaultSorting": "List Order"
 }
 ]
