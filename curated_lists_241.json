@@ -72,7 +72,7 @@
     "defaultSorting": "List Order"
   },
   {
-    "category": "Thematic",
+    "category": "Mood",
     "title": "Dark and Gritty",
     "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-darkandgritty.json",
     "defaultSorting": "List Order"
@@ -103,7 +103,7 @@
     "defaultSorting": "List Order"
   },
   {
-    "category": "Thematic",
+    "category": "Mood",
     "title": "Inspiring Movies",
     "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-inspiringmovies.json",
     "defaultSorting": "List Order"
@@ -115,7 +115,7 @@
     "defaultSorting": "List Order"
   },
   {
-    "category": "Thematic",
+    "category": "Mood",
     "title": "Late Night Watches",
     "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-latenightwatches.json",
     "defaultSorting": "List Order"
@@ -127,7 +127,7 @@
     "defaultSorting": "List Order"
   },
   {
-    "category": "Thematic",
+    "category": "Mood",
     "title": "Mood Boosters",
     "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-moodboosters.json",
     "defaultSorting": "List Order"
@@ -151,7 +151,7 @@
     "defaultSorting": "List Order"
   },
   {
-    "category": "Thematic",
+    "category": "Mood",
     "title": "Tearjerkers",
     "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-tearjerkers.json",
     "defaultSorting": "List Order"
@@ -499,7 +499,7 @@
   "defaultSorting": "List Order"
 },
 {
-  "category": "Thematic",
+  "category": "Mood",
   "title": "Night Films",
   "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-nightfilms.json",
   "defaultSorting": "List Order"
@@ -511,7 +511,7 @@
   "defaultSorting": "List Order"
 },
 {
-  "category": "Thematic",
+  "category": "Mood",
   "title": "Isolation",
   "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-isolation.json",
   "defaultSorting": "List Order"
