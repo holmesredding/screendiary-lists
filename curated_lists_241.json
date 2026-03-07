@@ -467,5 +467,17 @@
     "title": "Golden Age Hollywood",
     "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/era-goldenagehollywood.json",
     "defaultSorting": "List Order"
-  }
+  },
+  {
+  "category": "Era",
+  "title": "German Expressionism",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/era-germanexpressionism.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "Era",
+  "title": "British New Wave",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/era-britishnewwave.json",
+  "defaultSorting": "List Order"
+}
 ]

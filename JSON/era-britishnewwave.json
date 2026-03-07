@@ -1,0 +1,152 @@
+[
+  {
+    "id": 37230,
+    "rank": 1,
+    "adult": 0,
+    "title": "Saturday Night and Sunday Morning",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 25062,
+    "rank": 2,
+    "adult": 0,
+    "title": "A Taste of Honey",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1961
+  },
+  {
+    "id": 13384,
+    "rank": 3,
+    "adult": 0,
+    "title": "Kes",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1970
+  },
+  {
+    "id": 14794,
+    "rank": 4,
+    "adult": 0,
+    "title": "if....",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1968
+  },
+  {
+    "id": 50011,
+    "rank": 5,
+    "adult": 0,
+    "title": "Look Back in Anger",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1959
+  },
+  {
+    "id": 43103,
+    "rank": 6,
+    "adult": 0,
+    "title": "Room at the Top",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1958
+  },
+  {
+    "id": 16103,
+    "rank": 7,
+    "adult": 0,
+    "title": "The Loneliness of the Long Distance Runner",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 33765,
+    "rank": 8,
+    "adult": 0,
+    "title": "A Kind of Loving",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 18774,
+    "rank": 9,
+    "adult": 0,
+    "title": "This Sporting Life",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1963
+  },
+  {
+    "id": 26535,
+    "rank": 10,
+    "adult": 0,
+    "title": "Billy Liar",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1963
+  },
+  {
+    "id": 47069,
+    "rank": 11,
+    "adult": 0,
+    "title": "Up the Junction",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1968
+  },
+  {
+    "id": 76072,
+    "rank": 12,
+    "adult": 0,
+    "title": "Poor Cow",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1967
+  },
+  {
+    "id": 263640,
+    "rank": 13,
+    "adult": 0,
+    "title": "Cathy Come Home",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1966
+  },
+  {
+    "id": 140008,
+    "rank": 14,
+    "adult": 0,
+    "title": "The Leather Boys",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1964
+  },
+  {
+    "id": 76000,
+    "rank": 15,
+    "adult": 0,
+    "title": "The L-Shaped Room",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1962
+  }
+]

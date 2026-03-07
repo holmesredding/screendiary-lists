@@ -1,0 +1,152 @@
+[
+  {
+    "id": 234,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Cabinet of Dr. Caligari",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1920
+  },
+  {
+    "id": 653,
+    "rank": 2,
+    "adult": 0,
+    "title": "Nosferatu",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1922
+  },
+  {
+    "id": 19,
+    "rank": 3,
+    "adult": 0,
+    "title": "Metropolis",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1927
+  },
+  {
+    "id": 832,
+    "rank": 4,
+    "adult": 0,
+    "title": "M",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1931
+  },
+  {
+    "id": 5991,
+    "rank": 5,
+    "adult": 0,
+    "title": "The Last Laugh",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1924
+  },
+  {
+    "id": 10728,
+    "rank": 6,
+    "adult": 0,
+    "title": "Faust",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1926
+  },
+  {
+    "id": 2972,
+    "rank": 7,
+    "adult": 0,
+    "title": "The Golem: How He Came Into the World",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1920
+  },
+  {
+    "id": 905,
+    "rank": 8,
+    "adult": 0,
+    "title": "Pandora's Box",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1929
+  },
+  {
+    "id": 27522,
+    "rank": 9,
+    "adult": 0,
+    "title": "Waxworks",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1924
+  },
+  {
+    "id": 42637,
+    "rank": 10,
+    "adult": 0,
+    "title": "Diary of a Lost Girl",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1929
+  },
+  {
+    "id": 2974,
+    "rank": 11,
+    "adult": 0,
+    "title": "The Hands of Orlac",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1924
+  },
+  {
+    "id": 84956,
+    "rank": 12,
+    "adult": 0,
+    "title": "Warning Shadows",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1923
+  },
+  {
+    "id": 631,
+    "rank": 13,
+    "adult": 0,
+    "title": "Sunrise: A Song of Two Humans",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1927
+  },
+  {
+    "id": 27517,
+    "rank": 14,
+    "adult": 0,
+    "title": "The Man Who Laughs",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1928
+  },
+  {
+    "id": 29267,
+    "rank": 15,
+    "adult": 0,
+    "title": "Destiny",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1921
+  }
+]
