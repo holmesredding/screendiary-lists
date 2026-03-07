@@ -521,5 +521,23 @@
   "title": "Workplace",
   "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-workplace.json",
   "defaultSorting": "List Order"
+},
+{
+  "category": "World Cinema",
+  "title": "Australian & New Zealand Cinema",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/worldcinema-australiannewzealand.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "World Cinema",
+  "title": "Indian Cinema",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/worldcinema-indiancinema.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "World Cinema",
+  "title": "Spanish Cinema",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/worldcinema-spanishcinema.json",
+  "defaultSorting": "List Order"
 }
 ]
