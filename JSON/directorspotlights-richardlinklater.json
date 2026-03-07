@@ -1,0 +1,132 @@
+[
+  {
+    "id": 76,
+    "rank": 1,
+    "adult": 0,
+    "title": "Before Sunrise",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 80,
+    "rank": 2,
+    "adult": 0,
+    "title": "Before Sunset",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 132344,
+    "rank": 3,
+    "adult": 0,
+    "title": "Before Midnight",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2013
+  },
+  {
+    "id": 85350,
+    "rank": 4,
+    "adult": 0,
+    "title": "Boyhood",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 9571,
+    "rank": 5,
+    "adult": 0,
+    "title": "Dazed and Confused",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 14022,
+    "rank": 6,
+    "adult": 0,
+    "title": "Slacker",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 9081,
+    "rank": 7,
+    "adult": 0,
+    "title": "Waking Life",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 1584,
+    "rank": 8,
+    "adult": 0,
+    "title": "School of Rock",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2003
+  },
+  {
+    "id": 295699,
+    "rank": 9,
+    "adult": 0,
+    "title": "Everybody Wants Some!!",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 3509,
+    "rank": 10,
+    "adult": 0,
+    "title": "A Scanner Darkly",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 92591,
+    "rank": 11,
+    "adult": 0,
+    "title": "Bernie",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 1299655,
+    "rank": 12,
+    "adult": 0,
+    "title": "Blue Moon",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2025
+  },
+  {
+    "id": 1254808,
+    "rank": 13,
+    "adult": 0,
+    "title": "Nouvelle Vague",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2025
+  }
+]

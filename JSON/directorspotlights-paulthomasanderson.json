@@ -1,0 +1,102 @@
+[
+  {
+    "id": 7345,
+    "rank": 1,
+    "adult": 0,
+    "title": "There Will Be Blood",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2007
+  },
+  {
+    "id": 4995,
+    "rank": 2,
+    "adult": 0,
+    "title": "Boogie Nights",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 1054867,
+    "rank": 3,
+    "adult": 0,
+    "title": "One Battle After Another",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2025
+  },
+  {
+    "id": 334,
+    "rank": 4,
+    "adult": 0,
+    "title": "Magnolia",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 68722,
+    "rank": 5,
+    "adult": 0,
+    "title": "The Master",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2012
+  },
+  {
+    "id": 8051,
+    "rank": 6,
+    "adult": 0,
+    "title": "Punch-Drunk Love",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2002
+  },
+  {
+    "id": 400617,
+    "rank": 7,
+    "adult": 0,
+    "title": "Phantom Thread",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2017
+  },
+  {
+    "id": 171274,
+    "rank": 8,
+    "adult": 0,
+    "title": "Inherent Vice",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2014
+  },
+  {
+    "id": 718032,
+    "rank": 9,
+    "adult": 0,
+    "title": "Licorice Pizza",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2021
+  },
+  {
+    "id": 8052,
+    "rank": 10,
+    "adult": 0,
+    "title": "Hard Eight",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1997
+  }
+]

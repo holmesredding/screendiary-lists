@@ -1,0 +1,102 @@
+[
+  {
+    "id": 238,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Godfather",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1972
+  },
+  {
+    "id": 240,
+    "rank": 2,
+    "adult": 0,
+    "title": "The Godfather Part II",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1974
+  },
+  {
+    "id": 28,
+    "rank": 3,
+    "adult": 0,
+    "title": "Apocalypse Now",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1979
+  },
+  {
+    "id": 592,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Conversation",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1974
+  },
+  {
+    "id": 232,
+    "rank": 5,
+    "adult": 0,
+    "title": "Rumble Fish",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1983
+  },
+  {
+    "id": 227,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Outsiders",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1983
+  },
+  {
+    "id": 59231,
+    "rank": 7,
+    "adult": 0,
+    "title": "The Rain People",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1969
+  },
+  {
+    "id": 6114,
+    "rank": 8,
+    "adult": 0,
+    "title": "Bram Stoker's Dracula",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 11928,
+    "rank": 9,
+    "adult": 0,
+    "title": "Tetro",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 592831,
+    "rank": 10,
+    "adult": 0,
+    "title": "Megalopolis",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2024
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 949,
+    "rank": 1,
+    "adult": 0,
+    "title": "Heat",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 1538,
+    "rank": 2,
+    "adult": 0,
+    "title": "Collateral",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2004
+  },
+  {
+    "id": 9008,
+    "rank": 3,
+    "adult": 0,
+    "title": "The Insider",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 11454,
+    "rank": 4,
+    "adult": 0,
+    "title": "Manhunter",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 11524,
+    "rank": 5,
+    "adult": 0,
+    "title": "Thief",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1981
+  },
+  {
+    "id": 9361,
+    "rank": 6,
+    "adult": 0,
+    "title": "The Last of the Mohicans",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1992
+  },
+  {
+    "id": 8489,
+    "rank": 7,
+    "adult": 0,
+    "title": "Ali",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2001
+  },
+  {
+    "id": 11322,
+    "rank": 8,
+    "adult": 0,
+    "title": "Public Enemies",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 82,
+    "rank": 9,
+    "adult": 0,
+    "title": "Miami Vice",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2006
+  },
+  {
+    "id": 365620,
+    "rank": 10,
+    "adult": 0,
+    "title": "Ferrari",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2023
+  }
+]

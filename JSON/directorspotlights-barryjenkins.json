@@ -1,0 +1,42 @@
+[
+  {
+    "id": 376867,
+    "rank": 1,
+    "adult": 0,
+    "title": "Moonlight",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2016
+  },
+  {
+    "id": 465914,
+    "rank": 2,
+    "adult": 0,
+    "title": "If Beale Street Could Talk",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2018
+  },
+  {
+    "id": 24885,
+    "rank": 3,
+    "adult": 0,
+    "title": "Medicine for Melancholy",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2009
+  },
+  {
+    "id": 762509,
+    "rank": 4,
+    "adult": 0,
+    "title": "Mufasa: The Lion King",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 2024
+  }
+]

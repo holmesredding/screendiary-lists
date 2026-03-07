@@ -464,7 +464,7 @@
   },
   {
     "category": "Era",
-    "title": "Golden Age Hollywood",
+    "title": "Golden Age of Hollywood",
     "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/era-goldenagehollywood.json",
     "defaultSorting": "List Order"
   },
@@ -507,7 +507,7 @@
 {
   "category": "Thematic",
   "title": "Music & Musicians",
-  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-musicandmusicians.json",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/thematic-musicmusicians.json",
   "defaultSorting": "List Order"
 },
 {
@@ -525,7 +525,7 @@
 {
   "category": "World Cinema",
   "title": "Australian & New Zealand Cinema",
-  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/worldcinema-australiannewzealand.json",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/worldcinema-australiannewzealandcinema.json",
   "defaultSorting": "List Order"
 },
 {
@@ -538,6 +538,36 @@
   "category": "World Cinema",
   "title": "Spanish Cinema",
   "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/worldcinema-spanishcinema.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "Director Spotlights",
+  "title": "Paul Thomas Anderson",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-paulthomasanderson.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "Director Spotlights",
+  "title": "Francis Ford Coppola",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-francisfordcoppola.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "Director Spotlights",
+  "title": "Michael Mann",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-michaelmann.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "Director Spotlights",
+  "title": "Richard Linklater",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-richardlinklater.json",
+  "defaultSorting": "List Order"
+},
+{
+  "category": "Director Spotlights",
+  "title": "Barry Jenkins",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-barryjenkins.json",
   "defaultSorting": "List Order"
 }
 ]
