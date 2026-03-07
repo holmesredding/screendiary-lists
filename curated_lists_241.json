@@ -439,9 +439,33 @@
     "defaultSorting": "List Order"
   },
   {
-  "category": "Eras",
-  "title": "'70s New Hollywood",
-  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/eras-70snewhollywood.json",
-  "defaultSorting": "List Order"
-}
+    "category": "Era",
+    "title": "'70s New Hollywood",
+    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/era-70snewhollywood.json",
+    "defaultSorting": "List Order"
+  },
+  {
+    "category": "Era",
+    "title": "'80s Blockbuster Cinema",
+    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/era-80sblockbustercinema.json",
+    "defaultSorting": "List Order"
+  },
+  {
+    "category": "Era",
+    "title": "'90s Essentials",
+    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/era-90sessentials.json",
+    "defaultSorting": "List Order"
+  },
+  {
+    "category": "Era",
+    "title": "French New Wave",
+    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/era-frenchnewwave.json",
+    "defaultSorting": "List Order"
+  },
+  {
+    "category": "Era",
+    "title": "Golden Age Hollywood",
+    "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/era-goldenagehollywood.json",
+    "defaultSorting": "List Order"
+  }
 ]

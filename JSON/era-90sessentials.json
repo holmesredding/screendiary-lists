@@ -1,0 +1,202 @@
+[
+  {
+    "id": 278,
+    "rank": 1,
+    "adult": 0,
+    "title": "The Shawshank Redemption",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 550,
+    "rank": 2,
+    "adult": 0,
+    "title": "Fight Club",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 603,
+    "rank": 3,
+    "adult": 0,
+    "title": "The Matrix",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 13,
+    "rank": 4,
+    "adult": 0,
+    "title": "Forrest Gump",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1994
+  },
+  {
+    "id": 769,
+    "rank": 5,
+    "adult": 0,
+    "title": "GoodFellas",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 424,
+    "rank": 6,
+    "adult": 0,
+    "title": "Schindler's List",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 597,
+    "rank": 7,
+    "adult": 0,
+    "title": "Titanic",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 329,
+    "rank": 8,
+    "adult": 0,
+    "title": "Jurassic Park",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1993
+  },
+  {
+    "id": 274,
+    "rank": 9,
+    "adult": 0,
+    "title": "The Silence of the Lambs",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1991
+  },
+  {
+    "id": 807,
+    "rank": 10,
+    "adult": 0,
+    "title": "Se7en",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 857,
+    "rank": 11,
+    "adult": 0,
+    "title": "Saving Private Ryan",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 14,
+    "rank": 12,
+    "adult": 0,
+    "title": "American Beauty",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 949,
+    "rank": 13,
+    "adult": 0,
+    "title": "Heat",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1995
+  },
+  {
+    "id": 745,
+    "rank": 14,
+    "adult": 0,
+    "title": "The Sixth Sense",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 37165,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Truman Show",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1998
+  },
+  {
+    "id": 2118,
+    "rank": 16,
+    "adult": 0,
+    "title": "L.A. Confidential",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1997
+  },
+  {
+    "id": 627,
+    "rank": 17,
+    "adult": 0,
+    "title": "Trainspotting",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1996
+  },
+  {
+    "id": 162,
+    "rank": 18,
+    "adult": 0,
+    "title": "Edward Scissorhands",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1990
+  },
+  {
+    "id": 334,
+    "rank": 19,
+    "adult": 0,
+    "title": "Magnolia",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  },
+  {
+    "id": 492,
+    "rank": 20,
+    "adult": 0,
+    "title": "Being John Malkovich",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1999
+  }
+]

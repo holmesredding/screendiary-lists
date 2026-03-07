@@ -1,0 +1,252 @@
+[
+  {
+    "id": 85,
+    "rank": 1,
+    "adult": 0,
+    "title": "Raiders of the Lost Ark",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1981
+  },
+  {
+    "id": 601,
+    "rank": 2,
+    "adult": 0,
+    "title": "E.T. the Extra-Terrestrial",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 78,
+    "rank": 3,
+    "adult": 0,
+    "title": "Blade Runner",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 1091,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Thing",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1982
+  },
+  {
+    "id": 793,
+    "rank": 5,
+    "adult": 0,
+    "title": "Blue Velvet",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 105,
+    "rank": 6,
+    "adult": 0,
+    "title": "Back to the Future",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 925,
+    "rank": 7,
+    "adult": 0,
+    "title": "Do the Right Thing",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 1578,
+    "rank": 8,
+    "adult": 0,
+    "title": "Raging Bull",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1980
+  },
+  {
+    "id": 694,
+    "rank": 9,
+    "adult": 0,
+    "title": "The Shining",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1980
+  },
+  {
+    "id": 679,
+    "rank": 10,
+    "adult": 0,
+    "title": "Aliens",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 562,
+    "rank": 11,
+    "adult": 0,
+    "title": "Die Hard",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 111,
+    "rank": 12,
+    "adult": 0,
+    "title": "Scarface",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1983
+  },
+  {
+    "id": 9377,
+    "rank": 13,
+    "adult": 0,
+    "title": "Ferris Bueller's Day Off",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 600,
+    "rank": 14,
+    "adult": 0,
+    "title": "Full Metal Jacket",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 235,
+    "rank": 15,
+    "adult": 0,
+    "title": "Stand by Me",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 792,
+    "rank": 16,
+    "adult": 0,
+    "title": "Platoon",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1986
+  },
+  {
+    "id": 2108,
+    "rank": 17,
+    "adult": 0,
+    "title": "The Breakfast Club",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1985
+  },
+  {
+    "id": 268,
+    "rank": 18,
+    "adult": 0,
+    "title": "Batman",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1989
+  },
+  {
+    "id": 620,
+    "rank": 19,
+    "adult": 0,
+    "title": "Ghostbusters",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 380,
+    "rank": 20,
+    "adult": 0,
+    "title": "Rain Man",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1988
+  },
+  {
+    "id": 12626,
+    "rank": 21,
+    "adult": 0,
+    "title": "Broadcast News",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 2493,
+    "rank": 22,
+    "adult": 0,
+    "title": "The Princess Bride",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 655,
+    "rank": 23,
+    "adult": 0,
+    "title": "Paris, Texas",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1984
+  },
+  {
+    "id": 144,
+    "rank": 24,
+    "adult": 0,
+    "title": "Wings of Desire",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1987
+  },
+  {
+    "id": 11216,
+    "rank": 25,
+    "adult": 0,
+    "title": "Cinema Paradiso",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1988
+  }
+]

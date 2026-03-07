@@ -1,0 +1,252 @@
+[
+  {
+    "id": 289,
+    "rank": 1,
+    "adult": 0,
+    "title": "Casablanca",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1943
+  },
+  {
+    "id": 15,
+    "rank": 2,
+    "adult": 0,
+    "title": "Citizen Kane",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1941
+  },
+  {
+    "id": 599,
+    "rank": 3,
+    "adult": 0,
+    "title": "Sunset Boulevard",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1950
+  },
+  {
+    "id": 630,
+    "rank": 4,
+    "adult": 0,
+    "title": "The Wizard of Oz",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1939
+  },
+  {
+    "id": 872,
+    "rank": 5,
+    "adult": 0,
+    "title": "Singin' in the Rain",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1952
+  },
+  {
+    "id": 426,
+    "rank": 6,
+    "adult": 0,
+    "title": "Vertigo",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1958
+  },
+  {
+    "id": 567,
+    "rank": 7,
+    "adult": 0,
+    "title": "Rear Window",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1954
+  },
+  {
+    "id": 239,
+    "rank": 8,
+    "adult": 0,
+    "title": "Some Like It Hot",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1959
+  },
+  {
+    "id": 705,
+    "rank": 9,
+    "adult": 0,
+    "title": "All About Eve",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1950
+  },
+  {
+    "id": 1092,
+    "rank": 10,
+    "adult": 0,
+    "title": "The Third Man",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1949
+  },
+  {
+    "id": 996,
+    "rank": 11,
+    "adult": 0,
+    "title": "Double Indemnity",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1944
+  },
+  {
+    "id": 1585,
+    "rank": 12,
+    "adult": 0,
+    "title": "It's a Wonderful Life",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1946
+  },
+  {
+    "id": 702,
+    "rank": 13,
+    "adult": 0,
+    "title": "A Streetcar Named Desire",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1951
+  },
+  {
+    "id": 654,
+    "rank": 14,
+    "adult": 0,
+    "title": "On the Waterfront",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1954
+  },
+  {
+    "id": 213,
+    "rank": 15,
+    "adult": 0,
+    "title": "North by Northwest",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1959
+  },
+  {
+    "id": 389,
+    "rank": 16,
+    "adult": 0,
+    "title": "12 Angry Men",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1957
+  },
+  {
+    "id": 284,
+    "rank": 17,
+    "adult": 0,
+    "title": "The Apartment",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 539,
+    "rank": 18,
+    "adult": 0,
+    "title": "Psycho",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 223,
+    "rank": 19,
+    "adult": 0,
+    "title": "Rebecca",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1940
+  },
+  {
+    "id": 963,
+    "rank": 20,
+    "adult": 0,
+    "title": "The Maltese Falcon",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1941
+  },
+  {
+    "id": 3083,
+    "rank": 21,
+    "adult": 0,
+    "title": "Mr. Smith Goes to Washington",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1939
+  },
+  {
+    "id": 981,
+    "rank": 22,
+    "adult": 0,
+    "title": "The Philadelphia Story",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1940
+  },
+  {
+    "id": 303,
+    "rank": 23,
+    "adult": 0,
+    "title": "Notorious",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1946
+  },
+  {
+    "id": 804,
+    "rank": 24,
+    "adult": 0,
+    "title": "Roman Holiday",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1953
+  },
+  {
+    "id": 1480,
+    "rank": 25,
+    "adult": 0,
+    "title": "Touch of Evil",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1958
+  }
+]

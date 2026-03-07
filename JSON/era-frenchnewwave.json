@@ -1,0 +1,202 @@
+[
+  {
+    "id": 269,
+    "rank": 1,
+    "adult": 0,
+    "title": "Breathless",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 147,
+    "rank": 2,
+    "adult": 0,
+    "title": "The 400 Blows",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1959
+  },
+  {
+    "id": 1628,
+    "rank": 3,
+    "adult": 0,
+    "title": "Jules and Jim",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 499,
+    "rank": 4,
+    "adult": 0,
+    "title": "Cléo from 5 to 7",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 2786,
+    "rank": 5,
+    "adult": 0,
+    "title": "Pierrot le Fou",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1965
+  },
+  {
+    "id": 1626,
+    "rank": 6,
+    "adult": 0,
+    "title": "Vivre Sa Vie",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 5544,
+    "rank": 7,
+    "adult": 0,
+    "title": "Hiroshima Mon Amour",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1959
+  },
+  {
+    "id": 8073,
+    "rank": 8,
+    "adult": 0,
+    "title": "Band of Outsiders",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1964
+  },
+  {
+    "id": 4024,
+    "rank": 9,
+    "adult": 0,
+    "title": "Last Year at Marienbad",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1961
+  },
+  {
+    "id": 53023,
+    "rank": 10,
+    "adult": 0,
+    "title": "Happiness",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1965
+  },
+  {
+    "id": 266,
+    "rank": 11,
+    "adult": 0,
+    "title": "Contempt",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1963
+  },
+  {
+    "id": 5967,
+    "rank": 12,
+    "adult": 0,
+    "title": "The Umbrellas of Cherbourg",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1964
+  },
+  {
+    "id": 1818,
+    "rank": 13,
+    "adult": 0,
+    "title": "Shoot the Piano Player",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1960
+  },
+  {
+    "id": 662,
+    "rank": 14,
+    "adult": 0,
+    "title": "La Jetée",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1962
+  },
+  {
+    "id": 2363,
+    "rank": 15,
+    "adult": 0,
+    "title": "The Cousins",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1959
+  },
+  {
+    "id": 5562,
+    "rank": 16,
+    "adult": 0,
+    "title": "Le Beau Serge",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1959
+  },
+  {
+    "id": 43026,
+    "rank": 17,
+    "adult": 0,
+    "title": "Paris Belongs to Us",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1961
+  },
+  {
+    "id": 8072,
+    "rank": 18,
+    "adult": 0,
+    "title": "Alphaville",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1965
+  },
+  {
+    "id": 2433,
+    "rank": 19,
+    "adult": 0,
+    "title": "The Young Girls of Rochefort",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1967
+  },
+  {
+    "id": 255,
+    "rank": 20,
+    "adult": 0,
+    "title": "Stolen Kisses",
+    "tvdbid": null,
+    "imdb_id": null,
+    "mediatype": "movie",
+    "release_year": 1968
+  }
+]
