@@ -543,31 +543,31 @@
 {
   "category": "Director Spotlights",
   "title": "Paul Thomas Anderson",
-  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-paulthomasanderson.json",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/directorspotlights-paulthomasanderson.json",
   "defaultSorting": "List Order"
 },
 {
   "category": "Director Spotlights",
   "title": "Francis Ford Coppola",
-  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-francisfordcoppola.json",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/directorspotlights-francisfordcoppola.json",
   "defaultSorting": "List Order"
 },
 {
   "category": "Director Spotlights",
   "title": "Michael Mann",
-  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-michaelmann.json",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/directorspotlights-michaelmann.json",
   "defaultSorting": "List Order"
 },
 {
   "category": "Director Spotlights",
   "title": "Richard Linklater",
-  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-richardlinklater.json",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/directorspotlights-richardlinklater.json",
   "defaultSorting": "List Order"
 },
 {
   "category": "Director Spotlights",
   "title": "Barry Jenkins",
-  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/director-barryjenkins.json",
+  "url": "https://raw.githubusercontent.com/holmesredding/screendiary-lists/main/JSON/directorspotlights-barryjenkins.json",
   "defaultSorting": "List Order"
 }
 ]
